@@ -1,4 +1,4 @@
-ARM GAS  C:\PROGRA~1\KMSpico\temp\ccb70gpF.s 			page 1
+ARM GAS  C:\Users\mathi\AppData\Local\Temp\ccwqhSIH.s 			page 1
 
 
    1              		.cpu cortex-m4
@@ -58,7 +58,7 @@ ARM GAS  C:\PROGRA~1\KMSpico\temp\ccb70gpF.s 			page 1
   55              		.weak	Vector1B4
   56              		.thumb_set Vector1B4,_unhandled_exception
   57              		.weak	Vector1B0
-ARM GAS  C:\PROGRA~1\KMSpico\temp\ccb70gpF.s 			page 2
+ARM GAS  C:\Users\mathi\AppData\Local\Temp\ccwqhSIH.s 			page 2
 
 
   58              		.thumb_set Vector1B0,_unhandled_exception
@@ -118,7 +118,7 @@ ARM GAS  C:\PROGRA~1\KMSpico\temp\ccb70gpF.s 			page 1
  112              		.thumb_set Vector144,_unhandled_exception
  113              		.weak	Vector140
  114              		.thumb_set Vector140,_unhandled_exception
-ARM GAS  C:\PROGRA~1\KMSpico\temp\ccb70gpF.s 			page 3
+ARM GAS  C:\Users\mathi\AppData\Local\Temp\ccwqhSIH.s 			page 3
 
 
  115              		.weak	Vector13C
@@ -178,7 +178,7 @@ ARM GAS  C:\PROGRA~1\KMSpico\temp\ccb70gpF.s 			page 1
  169              		.weak	VectorD0
  170              		.thumb_set VectorD0,_unhandled_exception
  171              		.weak	VectorCC
-ARM GAS  C:\PROGRA~1\KMSpico\temp\ccb70gpF.s 			page 4
+ARM GAS  C:\Users\mathi\AppData\Local\Temp\ccwqhSIH.s 			page 4
 
 
  172              		.thumb_set VectorCC,_unhandled_exception
@@ -238,7 +238,7 @@ ARM GAS  C:\PROGRA~1\KMSpico\temp\ccb70gpF.s 			page 1
  226              		.thumb_set Vector60,_unhandled_exception
  227              		.weak	Vector5C
  228              		.thumb_set Vector5C,_unhandled_exception
-ARM GAS  C:\PROGRA~1\KMSpico\temp\ccb70gpF.s 			page 5
+ARM GAS  C:\Users\mathi\AppData\Local\Temp\ccwqhSIH.s 			page 5
 
 
  229              		.weak	Vector58
@@ -298,7 +298,7 @@ ARM GAS  C:\PROGRA~1\KMSpico\temp\ccb70gpF.s 			page 1
  279              		.align	2
  280              		.type	_vectors, %object
  281              		.size	_vectors, 448
-ARM GAS  C:\PROGRA~1\KMSpico\temp\ccb70gpF.s 			page 6
+ARM GAS  C:\Users\mathi\AppData\Local\Temp\ccwqhSIH.s 			page 6
 
 
  282              	_vectors:
@@ -358,7 +358,7 @@ ARM GAS  C:\PROGRA~1\KMSpico\temp\ccb70gpF.s 			page 1
  336 00d4 00000000 		.word	VectorD4
  337 00d8 00000000 		.word	VectorD8
  338 00dc 00000000 		.word	VectorDC
-ARM GAS  C:\PROGRA~1\KMSpico\temp\ccb70gpF.s 			page 7
+ARM GAS  C:\Users\mathi\AppData\Local\Temp\ccwqhSIH.s 			page 7
 
 
  339 00e0 00000000 		.word	VectorE0
@@ -418,12 +418,12 @@ ARM GAS  C:\PROGRA~1\KMSpico\temp\ccb70gpF.s 			page 1
  393 01b8 00000000 		.word	Vector1B8
  394 01bc 00000000 		.word	Vector1BC
  395              		.text
-ARM GAS  C:\PROGRA~1\KMSpico\temp\ccb70gpF.s 			page 8
+ARM GAS  C:\Users\mathi\AppData\Local\Temp\ccwqhSIH.s 			page 8
 
 
  396              	.Letext0:
- 397              		.file 2 "c:\\users\\41774\\documents\\epfl\\ba6\\robotique\\eclipse_e-puck2\\tools\\gcc-arm-none-e
- 398              		.file 3 "c:\\users\\41774\\documents\\epfl\\ba6\\robotique\\eclipse_e-puck2\\tools\\gcc-arm-none-e
+ 397              		.file 2 "c:\\eclipse_e-puck2\\tools\\gcc-arm-none-eabi-7-2017-q4-major-win32\\arm-none-eabi\\inclu
+ 398              		.file 3 "c:\\eclipse_e-puck2\\tools\\gcc-arm-none-eabi-7-2017-q4-major-win32\\arm-none-eabi\\inclu
  399              		.file 4 "../../lib/ChibiOS/os/ext/CMSIS/include/core_cm4.h"
  400              		.file 5 "../../lib/ChibiOS/os/ext/CMSIS/ST/system_stm32f4xx.h"
  401              		.section	.debug_info,"",%progbits
@@ -433,25 +433,25 @@ ARM GAS  C:\PROGRA~1\KMSpico\temp\ccb70gpF.s 			page 1
  405 0006 00000000 		.4byte	.Ldebug_abbrev0
  406 000a 04       		.byte	0x4
  407 000b 01       		.uleb128 0x1
- 408 000c DC000000 		.4byte	.LASF36
+ 408 000c 99000000 		.4byte	.LASF36
  409 0010 0C       		.byte	0xc
- 410 0011 00030000 		.4byte	.LASF37
- 411 0015 6E000000 		.4byte	.LASF38
+ 410 0011 BD020000 		.4byte	.LASF37
+ 411 0015 55030000 		.4byte	.LASF38
  412 0019 00000000 		.4byte	.Ldebug_ranges0+0
  413 001d 00000000 		.4byte	0
  414 0021 00000000 		.4byte	.Ldebug_line0
  415 0025 02       		.uleb128 0x2
  416 0026 01       		.byte	0x1
  417 0027 06       		.byte	0x6
- 418 0028 6F030000 		.4byte	.LASF0
+ 418 0028 2C030000 		.4byte	.LASF0
  419 002c 02       		.uleb128 0x2
  420 002d 01       		.byte	0x1
  421 002e 08       		.byte	0x8
- 422 002f CE000000 		.4byte	.LASF1
+ 422 002f 8B000000 		.4byte	.LASF1
  423 0033 02       		.uleb128 0x2
  424 0034 02       		.byte	0x2
  425 0035 05       		.byte	0x5
- 426 0036 F6020000 		.4byte	.LASF2
+ 426 0036 B3020000 		.4byte	.LASF2
  427 003a 02       		.uleb128 0x2
  428 003b 02       		.byte	0x2
  429 003c 07       		.byte	0x7
@@ -464,27 +464,27 @@ ARM GAS  C:\PROGRA~1\KMSpico\temp\ccb70gpF.s 			page 1
  436 004c 02       		.uleb128 0x2
  437 004d 04       		.byte	0x4
  438 004e 05       		.byte	0x5
- 439 004f 4A030000 		.4byte	.LASF4
+ 439 004f 07030000 		.4byte	.LASF4
  440 0053 03       		.uleb128 0x3
- 441 0054 3B020000 		.4byte	.LASF6
+ 441 0054 F8010000 		.4byte	.LASF6
  442 0058 02       		.byte	0x2
  443 0059 4F       		.byte	0x4f
  444 005a 5E000000 		.4byte	0x5e
  445 005e 02       		.uleb128 0x2
  446 005f 04       		.byte	0x4
  447 0060 07       		.byte	0x7
- 448 0061 F5010000 		.4byte	.LASF7
+ 448 0061 B2010000 		.4byte	.LASF7
  449 0065 02       		.uleb128 0x2
  450 0066 08       		.byte	0x8
  451 0067 05       		.byte	0x5
- 452 0068 BB020000 		.4byte	.LASF8
-ARM GAS  C:\PROGRA~1\KMSpico\temp\ccb70gpF.s 			page 9
+ 452 0068 78020000 		.4byte	.LASF8
+ARM GAS  C:\Users\mathi\AppData\Local\Temp\ccwqhSIH.s 			page 9
 
 
  453 006c 02       		.uleb128 0x2
  454 006d 08       		.byte	0x8
  455 006e 07       		.byte	0x7
- 456 006f 68020000 		.4byte	.LASF9
+ 456 006f 25020000 		.4byte	.LASF9
  457 0073 04       		.uleb128 0x4
  458 0074 04       		.byte	0x4
  459 0075 05       		.byte	0x5
@@ -492,26 +492,26 @@ ARM GAS  C:\PROGRA~1\KMSpico\temp\ccb70gpF.s 			page 1
  461 007a 02       		.uleb128 0x2
  462 007b 04       		.byte	0x4
  463 007c 07       		.byte	0x7
- 464 007d 52020000 		.4byte	.LASF10
+ 464 007d 0F020000 		.4byte	.LASF10
  465 0081 03       		.uleb128 0x3
- 466 0082 B1000000 		.4byte	.LASF11
+ 466 0082 6E000000 		.4byte	.LASF11
  467 0086 03       		.byte	0x3
  468 0087 2C       		.byte	0x2c
  469 0088 41000000 		.4byte	0x41
  470 008c 05       		.uleb128 0x5
  471 008d 81000000 		.4byte	0x81
  472 0091 03       		.uleb128 0x3
- 473 0092 41030000 		.4byte	.LASF12
+ 473 0092 FE020000 		.4byte	.LASF12
  474 0096 03       		.byte	0x3
  475 0097 30       		.byte	0x30
  476 0098 53000000 		.4byte	0x53
  477 009c 06       		.uleb128 0x6
- 478 009d 13020000 		.4byte	.LASF13
+ 478 009d D0010000 		.4byte	.LASF13
  479 00a1 04       		.byte	0x4
  480 00a2 A706     		.2byte	0x6a7
  481 00a4 8C000000 		.4byte	0x8c
  482 00a8 07       		.uleb128 0x7
- 483 00a9 C9020000 		.4byte	.LASF14
+ 483 00a9 86020000 		.4byte	.LASF14
  484 00ad 05       		.byte	0x5
  485 00ae 4C       		.byte	0x4c
  486 00af 91000000 		.4byte	0x91
@@ -536,28 +536,28 @@ ARM GAS  C:\PROGRA~1\KMSpico\temp\ccb70gpF.s 			page 1
  505 00d5 9B010000 		.4byte	0x19b
  506 00d9 00       		.byte	0
  507 00da 0B       		.uleb128 0xb
- 508 00db 9A020000 		.4byte	.LASF17
+ 508 00db 57020000 		.4byte	.LASF17
  509 00df 01       		.byte	0x1
-ARM GAS  C:\PROGRA~1\KMSpico\temp\ccb70gpF.s 			page 10
+ARM GAS  C:\Users\mathi\AppData\Local\Temp\ccwqhSIH.s 			page 10
 
 
  510 00e0 33       		.byte	0x33
  511 00e1 B3000000 		.4byte	0xb3
  512 00e5 04       		.byte	0x4
  513 00e6 0B       		.uleb128 0xb
- 514 00e7 46020000 		.4byte	.LASF18
+ 514 00e7 03020000 		.4byte	.LASF18
  515 00eb 01       		.byte	0x1
  516 00ec 34       		.byte	0x34
  517 00ed B3000000 		.4byte	0xb3
  518 00f1 08       		.byte	0x8
  519 00f2 0B       		.uleb128 0xb
- 520 00f3 29020000 		.4byte	.LASF19
+ 520 00f3 E6010000 		.4byte	.LASF19
  521 00f7 01       		.byte	0x1
  522 00f8 35       		.byte	0x35
  523 00f9 B3000000 		.4byte	0xb3
  524 00fd 0C       		.byte	0xc
  525 00fe 0B       		.uleb128 0xb
- 526 00ff 5D030000 		.4byte	.LASF20
+ 526 00ff 1A030000 		.4byte	.LASF20
  527 0103 01       		.byte	0x1
  528 0104 36       		.byte	0x36
  529 0105 B3000000 		.4byte	0xb3
@@ -569,46 +569,46 @@ ARM GAS  C:\PROGRA~1\KMSpico\temp\ccb70gpF.s 			page 1
  535 0111 B3000000 		.4byte	0xb3
  536 0115 14       		.byte	0x14
  537 0116 0B       		.uleb128 0xb
- 538 0117 A8020000 		.4byte	.LASF22
+ 538 0117 65020000 		.4byte	.LASF22
  539 011b 01       		.byte	0x1
  540 011c 38       		.byte	0x38
  541 011d B3000000 		.4byte	0xb3
  542 0121 18       		.byte	0x18
  543 0122 0B       		.uleb128 0xb
- 544 0123 20020000 		.4byte	.LASF23
+ 544 0123 DD010000 		.4byte	.LASF23
  545 0127 01       		.byte	0x1
  546 0128 39       		.byte	0x39
  547 0129 B3000000 		.4byte	0xb3
  548 012d 1C       		.byte	0x1c
  549 012e 0B       		.uleb128 0xb
- 550 012f 5F020000 		.4byte	.LASF24
+ 550 012f 1C020000 		.4byte	.LASF24
  551 0133 01       		.byte	0x1
  552 0134 3A       		.byte	0x3a
  553 0135 B3000000 		.4byte	0xb3
  554 0139 20       		.byte	0x20
  555 013a 0B       		.uleb128 0xb
- 556 013b 7F020000 		.4byte	.LASF25
+ 556 013b 3C020000 		.4byte	.LASF25
  557 013f 01       		.byte	0x1
  558 0140 3B       		.byte	0x3b
  559 0141 B3000000 		.4byte	0xb3
  560 0145 24       		.byte	0x24
  561 0146 0B       		.uleb128 0xb
- 562 0147 88020000 		.4byte	.LASF26
+ 562 0147 45020000 		.4byte	.LASF26
  563 014b 01       		.byte	0x1
  564 014c 3C       		.byte	0x3c
  565 014d B3000000 		.4byte	0xb3
  566 0151 28       		.byte	0x28
-ARM GAS  C:\PROGRA~1\KMSpico\temp\ccb70gpF.s 			page 11
+ARM GAS  C:\Users\mathi\AppData\Local\Temp\ccwqhSIH.s 			page 11
 
 
  567 0152 0B       		.uleb128 0xb
- 568 0153 07020000 		.4byte	.LASF27
+ 568 0153 C4010000 		.4byte	.LASF27
  569 0157 01       		.byte	0x1
  570 0158 3D       		.byte	0x3d
  571 0159 B3000000 		.4byte	0xb3
  572 015d 2C       		.byte	0x2c
  573 015e 0B       		.uleb128 0xb
- 574 015f B9000000 		.4byte	.LASF28
+ 574 015f 76000000 		.4byte	.LASF28
  575 0163 01       		.byte	0x1
  576 0164 3E       		.byte	0x3e
  577 0165 B3000000 		.4byte	0xb3
@@ -632,7 +632,7 @@ ARM GAS  C:\PROGRA~1\KMSpico\temp\ccb70gpF.s 			page 1
  595 0189 B3000000 		.4byte	0xb3
  596 018d 3C       		.byte	0x3c
  597 018e 0B       		.uleb128 0xb
- 598 018f EE020000 		.4byte	.LASF32
+ 598 018f AB020000 		.4byte	.LASF32
  599 0193 01       		.byte	0x1
  600 0194 42       		.byte	0x42
  601 0195 A1010000 		.4byte	0x1a1
@@ -649,20 +649,20 @@ ARM GAS  C:\PROGRA~1\KMSpico\temp\ccb70gpF.s 			page 1
  612 01af 5F       		.byte	0x5f
  613 01b0 00       		.byte	0
  614 01b1 03       		.uleb128 0x3
- 615 01b2 7B030000 		.4byte	.LASF33
+ 615 01b2 38030000 		.4byte	.LASF33
  616 01b6 01       		.byte	0x1
  617 01b7 43       		.byte	0x43
  618 01b8 C5000000 		.4byte	0xc5
  619 01bc 07       		.uleb128 0x7
- 620 01bd 85030000 		.4byte	.LASF34
+ 620 01bd 42030000 		.4byte	.LASF34
  621 01c1 01       		.byte	0x1
  622 01c2 58       		.byte	0x58
  623 01c3 91000000 		.4byte	0x91
-ARM GAS  C:\PROGRA~1\KMSpico\temp\ccb70gpF.s 			page 12
+ARM GAS  C:\Users\mathi\AppData\Local\Temp\ccwqhSIH.s 			page 12
 
 
  624 01c7 0E       		.uleb128 0xe
- 625 01c8 91020000 		.4byte	.LASF35
+ 625 01c8 4E020000 		.4byte	.LASF35
  626 01cc 01       		.byte	0x1
  627 01cd D701     		.2byte	0x1d7
  628 01cf B1010000 		.4byte	0x1b1
@@ -670,7 +670,7 @@ ARM GAS  C:\PROGRA~1\KMSpico\temp\ccb70gpF.s 			page 1
  630 01d4 03       		.byte	0x3
  631 01d5 00000000 		.4byte	_vectors
  632 01d9 0F       		.uleb128 0xf
- 633 01da D9020000 		.4byte	.LASF39
+ 633 01da 96020000 		.4byte	.LASF39
  634 01de 01       		.byte	0x1
  635 01df 4F       		.byte	0x4f
  636 01e0 00000000 		.4byte	.LFB112
@@ -690,8 +690,8 @@ ARM GAS  C:\PROGRA~1\KMSpico\temp\ccb70gpF.s 			page 1
  650 0200 00       		.byte	0
  651 0201 00       		.byte	0
  652 0202 12       		.uleb128 0x12
- 653 0203 53030000 		.4byte	.LASF40
- 654 0207 53030000 		.4byte	.LASF40
+ 653 0203 10030000 		.4byte	.LASF40
+ 654 0207 10030000 		.4byte	.LASF40
  655 020b 01       		.byte	0x1
  656 020c 4C       		.byte	0x4c
  657 020d 00       		.byte	0
@@ -718,7 +718,7 @@ ARM GAS  C:\PROGRA~1\KMSpico\temp\ccb70gpF.s 			page 1
  678 0012 00       		.byte	0
  679 0013 02       		.uleb128 0x2
  680 0014 24       		.uleb128 0x24
-ARM GAS  C:\PROGRA~1\KMSpico\temp\ccb70gpF.s 			page 13
+ARM GAS  C:\Users\mathi\AppData\Local\Temp\ccwqhSIH.s 			page 13
 
 
  681 0015 00       		.byte	0
@@ -778,7 +778,7 @@ ARM GAS  C:\PROGRA~1\KMSpico\temp\ccb70gpF.s 			page 1
  735 004b 19       		.uleb128 0x19
  736 004c 00       		.byte	0
  737 004d 00       		.byte	0
-ARM GAS  C:\PROGRA~1\KMSpico\temp\ccb70gpF.s 			page 14
+ARM GAS  C:\Users\mathi\AppData\Local\Temp\ccwqhSIH.s 			page 14
 
 
  738 004e 07       		.uleb128 0x7
@@ -838,7 +838,7 @@ ARM GAS  C:\PROGRA~1\KMSpico\temp\ccb70gpF.s 			page 1
  792 0084 0B       		.uleb128 0xb
  793 0085 49       		.uleb128 0x49
  794 0086 13       		.uleb128 0x13
-ARM GAS  C:\PROGRA~1\KMSpico\temp\ccb70gpF.s 			page 15
+ARM GAS  C:\Users\mathi\AppData\Local\Temp\ccwqhSIH.s 			page 15
 
 
  795 0087 38       		.uleb128 0x38
@@ -898,7 +898,7 @@ ARM GAS  C:\PROGRA~1\KMSpico\temp\ccb70gpF.s 			page 1
  849 00bd 12       		.uleb128 0x12
  850 00be 06       		.uleb128 0x6
  851 00bf 40       		.uleb128 0x40
-ARM GAS  C:\PROGRA~1\KMSpico\temp\ccb70gpF.s 			page 16
+ARM GAS  C:\Users\mathi\AppData\Local\Temp\ccwqhSIH.s 			page 16
 
 
  852 00c0 18       		.uleb128 0x18
@@ -958,7 +958,7 @@ ARM GAS  C:\PROGRA~1\KMSpico\temp\ccb70gpF.s 			page 1
  906 001c 00000000 		.4byte	0
  907              		.section	.debug_ranges,"",%progbits
  908              	.Ldebug_ranges0:
-ARM GAS  C:\PROGRA~1\KMSpico\temp\ccb70gpF.s 			page 17
+ARM GAS  C:\Users\mathi\AppData\Local\Temp\ccwqhSIH.s 			page 17
 
 
  909 0000 00000000 		.4byte	.LFB112
@@ -967,8 +967,8 @@ ARM GAS  C:\PROGRA~1\KMSpico\temp\ccb70gpF.s 			page 1
  912 000c 00000000 		.4byte	0
  913              		.section	.debug_line,"",%progbits
  914              	.Ldebug_line0:
- 915 0000 08020000 		.section	.debug_str,"MS",%progbits,1
- 915      0200F101 
+ 915 0000 B6010000 		.section	.debug_str,"MS",%progbits,1
+ 915      02009F01 
  915      00000201 
  915      FB0E0D00 
  915      01010101 
@@ -1011,339 +1011,339 @@ ARM GAS  C:\PROGRA~1\KMSpico\temp\ccb70gpF.s 			page 1
  931 0063 696E6974 		.ascii	"init_stack\000"
  931      5F737461 
  931      636B00
- 932              	.LASF38:
- 933 006e 433A5C55 		.ascii	"C:\\Users\\41774\\Documents\\EPFL\\BA6\\robotique\\"
- 933      73657273 
- 933      5C343137 
- 933      37345C44 
- 933      6F63756D 
- 934 009a 54505C54 		.ascii	"TP\\TP3\\TP3_Chibi\\Chibi\000"
-ARM GAS  C:\PROGRA~1\KMSpico\temp\ccb70gpF.s 			page 18
+ 932              	.LASF11:
+ 933 006e 696E7433 		.ascii	"int32_t\000"
+ 933      325F7400 
+ 934              	.LASF28:
+ 935 0076 64656275 		.ascii	"debugmonitor_handler\000"
+ 935      676D6F6E 
+ 935      69746F72 
+ARM GAS  C:\Users\mathi\AppData\Local\Temp\ccwqhSIH.s 			page 18
 
 
- 934      50335C54 
- 934      50335F43 
- 934      68696269 
- 934      5C436869 
- 935              	.LASF11:
- 936 00b1 696E7433 		.ascii	"int32_t\000"
- 936      325F7400 
- 937              	.LASF28:
- 938 00b9 64656275 		.ascii	"debugmonitor_handler\000"
- 938      676D6F6E 
- 938      69746F72 
- 938      5F68616E 
- 938      646C6572 
- 939              	.LASF1:
- 940 00ce 756E7369 		.ascii	"unsigned char\000"
- 940      676E6564 
- 940      20636861 
- 940      7200
- 941              	.LASF36:
- 942 00dc 474E5520 		.ascii	"GNU C11 7.2.1 20170904 (release) [ARM/embedded-7-br"
- 942      43313120 
- 942      372E322E 
- 942      31203230 
- 942      31373039 
- 943 010f 616E6368 		.ascii	"anch revision 255204] -mcpu=cortex-m4 -mfloat-abi=h"
- 943      20726576 
- 943      6973696F 
- 943      6E203235 
- 943      35323034 
- 944 0142 61726420 		.ascii	"ard -mfpu=fpv4-sp-d16 -mno-thumb-interwork -mthumb "
- 944      2D6D6670 
- 944      753D6670 
- 944      76342D73 
- 944      702D6431 
- 945 0175 2D676764 		.ascii	"-ggdb -O2 -fomit-frame-pointer -falign-functions=16"
- 945      62202D4F 
- 945      32202D66 
- 945      6F6D6974 
- 945      2D667261 
- 946 01a8 202D6666 		.ascii	" -ffunction-sections -fdata-sections -fno-common -f"
- 946      756E6374 
- 946      696F6E2D 
- 946      73656374 
- 946      696F6E73 
- 947 01db 73696E67 		.ascii	"single-precision-constant\000"
- 947      6C652D70 
- 947      72656369 
- 947      73696F6E 
- 947      2D636F6E 
- 948              	.LASF7:
- 949 01f5 6C6F6E67 		.ascii	"long unsigned int\000"
- 949      20756E73 
- 949      69676E65 
- 949      6420696E 
- 949      7400
- 950              	.LASF27:
- 951 0207 7376635F 		.ascii	"svc_handler\000"
-ARM GAS  C:\PROGRA~1\KMSpico\temp\ccb70gpF.s 			page 19
+ 935      5F68616E 
+ 935      646C6572 
+ 936              	.LASF1:
+ 937 008b 756E7369 		.ascii	"unsigned char\000"
+ 937      676E6564 
+ 937      20636861 
+ 937      7200
+ 938              	.LASF36:
+ 939 0099 474E5520 		.ascii	"GNU C11 7.2.1 20170904 (release) [ARM/embedded-7-br"
+ 939      43313120 
+ 939      372E322E 
+ 939      31203230 
+ 939      31373039 
+ 940 00cc 616E6368 		.ascii	"anch revision 255204] -mcpu=cortex-m4 -mfloat-abi=h"
+ 940      20726576 
+ 940      6973696F 
+ 940      6E203235 
+ 940      35323034 
+ 941 00ff 61726420 		.ascii	"ard -mfpu=fpv4-sp-d16 -mno-thumb-interwork -mthumb "
+ 941      2D6D6670 
+ 941      753D6670 
+ 941      76342D73 
+ 941      702D6431 
+ 942 0132 2D676764 		.ascii	"-ggdb -O2 -fomit-frame-pointer -falign-functions=16"
+ 942      62202D4F 
+ 942      32202D66 
+ 942      6F6D6974 
+ 942      2D667261 
+ 943 0165 202D6666 		.ascii	" -ffunction-sections -fdata-sections -fno-common -f"
+ 943      756E6374 
+ 943      696F6E2D 
+ 943      73656374 
+ 943      696F6E73 
+ 944 0198 73696E67 		.ascii	"single-precision-constant\000"
+ 944      6C652D70 
+ 944      72656369 
+ 944      73696F6E 
+ 944      2D636F6E 
+ 945              	.LASF7:
+ 946 01b2 6C6F6E67 		.ascii	"long unsigned int\000"
+ 946      20756E73 
+ 946      69676E65 
+ 946      6420696E 
+ 946      7400
+ 947              	.LASF27:
+ 948 01c4 7376635F 		.ascii	"svc_handler\000"
+ 948      68616E64 
+ 948      6C657200 
+ 949              	.LASF13:
+ 950 01d0 49544D5F 		.ascii	"ITM_RxBuffer\000"
+ 950      52784275 
+ 950      66666572 
+ 950      00
+ 951              	.LASF23:
+ 952 01dd 76656374 		.ascii	"vector1c\000"
+ 952      6F723163 
+ 952      00
+ARM GAS  C:\Users\mathi\AppData\Local\Temp\ccwqhSIH.s 			page 19
 
 
- 951      68616E64 
- 951      6C657200 
- 952              	.LASF13:
- 953 0213 49544D5F 		.ascii	"ITM_RxBuffer\000"
- 953      52784275 
- 953      66666572 
- 953      00
- 954              	.LASF23:
- 955 0220 76656374 		.ascii	"vector1c\000"
- 955      6F723163 
- 955      00
- 956              	.LASF19:
- 957 0229 68617264 		.ascii	"hardfault_handler\000"
- 957      6661756C 
- 957      745F6861 
- 957      6E646C65 
- 957      7200
- 958              	.LASF6:
- 959 023b 5F5F7569 		.ascii	"__uint32_t\000"
- 959      6E743332 
- 959      5F7400
- 960              	.LASF18:
- 961 0246 6E6D695F 		.ascii	"nmi_handler\000"
- 961      68616E64 
- 961      6C657200 
- 962              	.LASF10:
- 963 0252 756E7369 		.ascii	"unsigned int\000"
- 963      676E6564 
- 963      20696E74 
- 963      00
- 964              	.LASF24:
- 965 025f 76656374 		.ascii	"vector20\000"
- 965      6F723230 
- 965      00
- 966              	.LASF9:
- 967 0268 6C6F6E67 		.ascii	"long long unsigned int\000"
- 967      206C6F6E 
- 967      6720756E 
- 967      7369676E 
- 967      65642069 
- 968              	.LASF25:
- 969 027f 76656374 		.ascii	"vector24\000"
- 969      6F723234 
- 969      00
- 970              	.LASF26:
- 971 0288 76656374 		.ascii	"vector28\000"
- 971      6F723238 
- 971      00
- 972              	.LASF35:
- 973 0291 5F766563 		.ascii	"_vectors\000"
- 973      746F7273 
- 973      00
- 974              	.LASF17:
- 975 029a 72657365 		.ascii	"reset_handler\000"
- 975      745F6861 
- 975      6E646C65 
- 975      7200
-ARM GAS  C:\PROGRA~1\KMSpico\temp\ccb70gpF.s 			page 20
+ 953              	.LASF19:
+ 954 01e6 68617264 		.ascii	"hardfault_handler\000"
+ 954      6661756C 
+ 954      745F6861 
+ 954      6E646C65 
+ 954      7200
+ 955              	.LASF6:
+ 956 01f8 5F5F7569 		.ascii	"__uint32_t\000"
+ 956      6E743332 
+ 956      5F7400
+ 957              	.LASF18:
+ 958 0203 6E6D695F 		.ascii	"nmi_handler\000"
+ 958      68616E64 
+ 958      6C657200 
+ 959              	.LASF10:
+ 960 020f 756E7369 		.ascii	"unsigned int\000"
+ 960      676E6564 
+ 960      20696E74 
+ 960      00
+ 961              	.LASF24:
+ 962 021c 76656374 		.ascii	"vector20\000"
+ 962      6F723230 
+ 962      00
+ 963              	.LASF9:
+ 964 0225 6C6F6E67 		.ascii	"long long unsigned int\000"
+ 964      206C6F6E 
+ 964      6720756E 
+ 964      7369676E 
+ 964      65642069 
+ 965              	.LASF25:
+ 966 023c 76656374 		.ascii	"vector24\000"
+ 966      6F723234 
+ 966      00
+ 967              	.LASF26:
+ 968 0245 76656374 		.ascii	"vector28\000"
+ 968      6F723238 
+ 968      00
+ 969              	.LASF35:
+ 970 024e 5F766563 		.ascii	"_vectors\000"
+ 970      746F7273 
+ 970      00
+ 971              	.LASF17:
+ 972 0257 72657365 		.ascii	"reset_handler\000"
+ 972      745F6861 
+ 972      6E646C65 
+ 972      7200
+ 973              	.LASF22:
+ 974 0265 75736167 		.ascii	"usagefault_handler\000"
+ 974      65666175 
+ 974      6C745F68 
+ 974      616E646C 
+ 974      657200
+ 975              	.LASF8:
+ 976 0278 6C6F6E67 		.ascii	"long long int\000"
+ 976      206C6F6E 
+ 976      6720696E 
+ 976      7400
+ARM GAS  C:\Users\mathi\AppData\Local\Temp\ccwqhSIH.s 			page 20
 
 
- 976              	.LASF22:
- 977 02a8 75736167 		.ascii	"usagefault_handler\000"
- 977      65666175 
- 977      6C745F68 
- 977      616E646C 
- 977      657200
- 978              	.LASF8:
- 979 02bb 6C6F6E67 		.ascii	"long long int\000"
- 979      206C6F6E 
- 979      6720696E 
- 979      7400
- 980              	.LASF14:
- 981 02c9 53797374 		.ascii	"SystemCoreClock\000"
- 981      656D436F 
- 981      7265436C 
- 981      6F636B00 
- 982              	.LASF39:
- 983 02d9 5F756E68 		.ascii	"_unhandled_exception\000"
- 983      616E646C 
- 983      65645F65 
- 983      78636570 
- 983      74696F6E 
- 984              	.LASF32:
- 985 02ee 76656374 		.ascii	"vectors\000"
- 985      6F727300 
- 986              	.LASF2:
- 987 02f6 73686F72 		.ascii	"short int\000"
- 987      7420696E 
- 987      7400
- 988              	.LASF37:
- 989 0300 2E2E2F2E 		.ascii	"../../lib/ChibiOS/os/common/ports/ARMCMx/compilers/"
- 989      2E2F6C69 
- 989      622F4368 
- 989      6962694F 
- 989      532F6F73 
- 990 0333 4743432F 		.ascii	"GCC/vectors.c\000"
- 990      76656374 
- 990      6F72732E 
- 990      6300
- 991              	.LASF12:
- 992 0341 75696E74 		.ascii	"uint32_t\000"
- 992      33325F74 
- 992      00
- 993              	.LASF4:
- 994 034a 6C6F6E67 		.ascii	"long int\000"
- 994      20696E74 
- 994      00
- 995              	.LASF40:
- 996 0353 63685379 		.ascii	"chSysHalt\000"
- 996      7348616C 
- 996      7400
- 997              	.LASF20:
- 998 035d 6D656D6D 		.ascii	"memmanage_handler\000"
- 998      616E6167 
- 998      655F6861 
- 998      6E646C65 
- 998      7200
-ARM GAS  C:\PROGRA~1\KMSpico\temp\ccb70gpF.s 			page 21
+ 977              	.LASF14:
+ 978 0286 53797374 		.ascii	"SystemCoreClock\000"
+ 978      656D436F 
+ 978      7265436C 
+ 978      6F636B00 
+ 979              	.LASF39:
+ 980 0296 5F756E68 		.ascii	"_unhandled_exception\000"
+ 980      616E646C 
+ 980      65645F65 
+ 980      78636570 
+ 980      74696F6E 
+ 981              	.LASF32:
+ 982 02ab 76656374 		.ascii	"vectors\000"
+ 982      6F727300 
+ 983              	.LASF2:
+ 984 02b3 73686F72 		.ascii	"short int\000"
+ 984      7420696E 
+ 984      7400
+ 985              	.LASF37:
+ 986 02bd 2E2E2F2E 		.ascii	"../../lib/ChibiOS/os/common/ports/ARMCMx/compilers/"
+ 986      2E2F6C69 
+ 986      622F4368 
+ 986      6962694F 
+ 986      532F6F73 
+ 987 02f0 4743432F 		.ascii	"GCC/vectors.c\000"
+ 987      76656374 
+ 987      6F72732E 
+ 987      6300
+ 988              	.LASF12:
+ 989 02fe 75696E74 		.ascii	"uint32_t\000"
+ 989      33325F74 
+ 989      00
+ 990              	.LASF4:
+ 991 0307 6C6F6E67 		.ascii	"long int\000"
+ 991      20696E74 
+ 991      00
+ 992              	.LASF40:
+ 993 0310 63685379 		.ascii	"chSysHalt\000"
+ 993      7348616C 
+ 993      7400
+ 994              	.LASF20:
+ 995 031a 6D656D6D 		.ascii	"memmanage_handler\000"
+ 995      616E6167 
+ 995      655F6861 
+ 995      6E646C65 
+ 995      7200
+ 996              	.LASF0:
+ 997 032c 7369676E 		.ascii	"signed char\000"
+ 997      65642063 
+ 997      68617200 
+ 998              	.LASF33:
+ 999 0338 76656374 		.ascii	"vectors_t\000"
+ 999      6F72735F 
+ 999      7400
+ 1000              	.LASF34:
+ 1001 0342 5F5F6D61 		.ascii	"__main_stack_end__\000"
+ 1001      696E5F73 
+ARM GAS  C:\Users\mathi\AppData\Local\Temp\ccwqhSIH.s 			page 21
 
 
- 999              	.LASF0:
- 1000 036f 7369676E 		.ascii	"signed char\000"
- 1000      65642063 
- 1000      68617200 
- 1001              	.LASF33:
- 1002 037b 76656374 		.ascii	"vectors_t\000"
- 1002      6F72735F 
- 1002      7400
- 1003              	.LASF34:
- 1004 0385 5F5F6D61 		.ascii	"__main_stack_end__\000"
- 1004      696E5F73 
- 1004      7461636B 
- 1004      5F656E64 
- 1004      5F5F00
+ 1001      7461636B 
+ 1001      5F656E64 
+ 1001      5F5F00
+ 1002              	.LASF38:
+ 1003 0355 433A5C55 		.ascii	"C:\\Users\\mathi\\Documents\\robotique\\Sys-Emb-Puc"
+ 1003      73657273 
+ 1003      5C6D6174 
+ 1003      68695C44 
+ 1003      6F63756D 
+ 1004 0383 6B5C5450 		.ascii	"k\\TP3_Chibi\\Chibi\000"
+ 1004      335F4368 
+ 1004      6962695C 
+ 1004      43686962 
+ 1004      6900
  1005              		.ident	"GCC: (GNU Tools for Arm Embedded Processors 7-2017-q4-major) 7.2.1 20170904 (release) [ARM
-ARM GAS  C:\PROGRA~1\KMSpico\temp\ccb70gpF.s 			page 22
+ARM GAS  C:\Users\mathi\AppData\Local\Temp\ccwqhSIH.s 			page 22
 
 
 DEFINED SYMBOLS
                             *ABS*:00000000 vectors.c
-C:\PROGRA~1\KMSpico\temp\ccb70gpF.s:18     .text._unhandled_exception:00000000 $t
-C:\PROGRA~1\KMSpico\temp\ccb70gpF.s:26     .text._unhandled_exception:00000000 _unhandled_exception
-C:\PROGRA~1\KMSpico\temp\ccb70gpF.s:47     .text._unhandled_exception:0000000c $d
-C:\PROGRA~1\KMSpico\temp\ccb70gpF.s:26     .text._unhandled_exception:00000000 Vector1BC
-C:\PROGRA~1\KMSpico\temp\ccb70gpF.s:26     .text._unhandled_exception:00000000 Vector1B8
-C:\PROGRA~1\KMSpico\temp\ccb70gpF.s:26     .text._unhandled_exception:00000000 Vector1B4
-C:\PROGRA~1\KMSpico\temp\ccb70gpF.s:26     .text._unhandled_exception:00000000 Vector1B0
-C:\PROGRA~1\KMSpico\temp\ccb70gpF.s:26     .text._unhandled_exception:00000000 Vector1AC
-C:\PROGRA~1\KMSpico\temp\ccb70gpF.s:26     .text._unhandled_exception:00000000 Vector1A8
-C:\PROGRA~1\KMSpico\temp\ccb70gpF.s:26     .text._unhandled_exception:00000000 Vector1A4
-C:\PROGRA~1\KMSpico\temp\ccb70gpF.s:26     .text._unhandled_exception:00000000 Vector1A0
-C:\PROGRA~1\KMSpico\temp\ccb70gpF.s:26     .text._unhandled_exception:00000000 Vector19C
-C:\PROGRA~1\KMSpico\temp\ccb70gpF.s:26     .text._unhandled_exception:00000000 Vector198
-C:\PROGRA~1\KMSpico\temp\ccb70gpF.s:26     .text._unhandled_exception:00000000 Vector194
-C:\PROGRA~1\KMSpico\temp\ccb70gpF.s:26     .text._unhandled_exception:00000000 Vector190
-C:\PROGRA~1\KMSpico\temp\ccb70gpF.s:26     .text._unhandled_exception:00000000 Vector18C
-C:\PROGRA~1\KMSpico\temp\ccb70gpF.s:26     .text._unhandled_exception:00000000 Vector188
-C:\PROGRA~1\KMSpico\temp\ccb70gpF.s:26     .text._unhandled_exception:00000000 Vector184
-C:\PROGRA~1\KMSpico\temp\ccb70gpF.s:26     .text._unhandled_exception:00000000 Vector180
-C:\PROGRA~1\KMSpico\temp\ccb70gpF.s:26     .text._unhandled_exception:00000000 Vector17C
-C:\PROGRA~1\KMSpico\temp\ccb70gpF.s:26     .text._unhandled_exception:00000000 Vector178
-C:\PROGRA~1\KMSpico\temp\ccb70gpF.s:26     .text._unhandled_exception:00000000 Vector174
-C:\PROGRA~1\KMSpico\temp\ccb70gpF.s:26     .text._unhandled_exception:00000000 Vector170
-C:\PROGRA~1\KMSpico\temp\ccb70gpF.s:26     .text._unhandled_exception:00000000 Vector16C
-C:\PROGRA~1\KMSpico\temp\ccb70gpF.s:26     .text._unhandled_exception:00000000 Vector168
-C:\PROGRA~1\KMSpico\temp\ccb70gpF.s:26     .text._unhandled_exception:00000000 Vector164
-C:\PROGRA~1\KMSpico\temp\ccb70gpF.s:26     .text._unhandled_exception:00000000 Vector160
-C:\PROGRA~1\KMSpico\temp\ccb70gpF.s:26     .text._unhandled_exception:00000000 Vector15C
-C:\PROGRA~1\KMSpico\temp\ccb70gpF.s:26     .text._unhandled_exception:00000000 Vector158
-C:\PROGRA~1\KMSpico\temp\ccb70gpF.s:26     .text._unhandled_exception:00000000 Vector154
-C:\PROGRA~1\KMSpico\temp\ccb70gpF.s:26     .text._unhandled_exception:00000000 Vector150
-C:\PROGRA~1\KMSpico\temp\ccb70gpF.s:26     .text._unhandled_exception:00000000 Vector14C
-C:\PROGRA~1\KMSpico\temp\ccb70gpF.s:26     .text._unhandled_exception:00000000 Vector148
-C:\PROGRA~1\KMSpico\temp\ccb70gpF.s:26     .text._unhandled_exception:00000000 Vector144
-C:\PROGRA~1\KMSpico\temp\ccb70gpF.s:26     .text._unhandled_exception:00000000 Vector140
-C:\PROGRA~1\KMSpico\temp\ccb70gpF.s:26     .text._unhandled_exception:00000000 Vector13C
-C:\PROGRA~1\KMSpico\temp\ccb70gpF.s:26     .text._unhandled_exception:00000000 Vector138
-C:\PROGRA~1\KMSpico\temp\ccb70gpF.s:26     .text._unhandled_exception:00000000 Vector134
-C:\PROGRA~1\KMSpico\temp\ccb70gpF.s:26     .text._unhandled_exception:00000000 Vector130
-C:\PROGRA~1\KMSpico\temp\ccb70gpF.s:26     .text._unhandled_exception:00000000 Vector12C
-C:\PROGRA~1\KMSpico\temp\ccb70gpF.s:26     .text._unhandled_exception:00000000 Vector128
-C:\PROGRA~1\KMSpico\temp\ccb70gpF.s:26     .text._unhandled_exception:00000000 Vector124
-C:\PROGRA~1\KMSpico\temp\ccb70gpF.s:26     .text._unhandled_exception:00000000 Vector120
-C:\PROGRA~1\KMSpico\temp\ccb70gpF.s:26     .text._unhandled_exception:00000000 Vector11C
-C:\PROGRA~1\KMSpico\temp\ccb70gpF.s:26     .text._unhandled_exception:00000000 Vector118
-C:\PROGRA~1\KMSpico\temp\ccb70gpF.s:26     .text._unhandled_exception:00000000 Vector114
-C:\PROGRA~1\KMSpico\temp\ccb70gpF.s:26     .text._unhandled_exception:00000000 Vector110
-C:\PROGRA~1\KMSpico\temp\ccb70gpF.s:26     .text._unhandled_exception:00000000 Vector10C
-C:\PROGRA~1\KMSpico\temp\ccb70gpF.s:26     .text._unhandled_exception:00000000 Vector108
-C:\PROGRA~1\KMSpico\temp\ccb70gpF.s:26     .text._unhandled_exception:00000000 Vector104
-C:\PROGRA~1\KMSpico\temp\ccb70gpF.s:26     .text._unhandled_exception:00000000 Vector100
-C:\PROGRA~1\KMSpico\temp\ccb70gpF.s:26     .text._unhandled_exception:00000000 VectorFC
-C:\PROGRA~1\KMSpico\temp\ccb70gpF.s:26     .text._unhandled_exception:00000000 VectorF8
-C:\PROGRA~1\KMSpico\temp\ccb70gpF.s:26     .text._unhandled_exception:00000000 VectorF4
-C:\PROGRA~1\KMSpico\temp\ccb70gpF.s:26     .text._unhandled_exception:00000000 VectorF0
-ARM GAS  C:\PROGRA~1\KMSpico\temp\ccb70gpF.s 			page 23
+C:\Users\mathi\AppData\Local\Temp\ccwqhSIH.s:18     .text._unhandled_exception:00000000 $t
+C:\Users\mathi\AppData\Local\Temp\ccwqhSIH.s:26     .text._unhandled_exception:00000000 _unhandled_exception
+C:\Users\mathi\AppData\Local\Temp\ccwqhSIH.s:47     .text._unhandled_exception:0000000c $d
+C:\Users\mathi\AppData\Local\Temp\ccwqhSIH.s:26     .text._unhandled_exception:00000000 Vector1BC
+C:\Users\mathi\AppData\Local\Temp\ccwqhSIH.s:26     .text._unhandled_exception:00000000 Vector1B8
+C:\Users\mathi\AppData\Local\Temp\ccwqhSIH.s:26     .text._unhandled_exception:00000000 Vector1B4
+C:\Users\mathi\AppData\Local\Temp\ccwqhSIH.s:26     .text._unhandled_exception:00000000 Vector1B0
+C:\Users\mathi\AppData\Local\Temp\ccwqhSIH.s:26     .text._unhandled_exception:00000000 Vector1AC
+C:\Users\mathi\AppData\Local\Temp\ccwqhSIH.s:26     .text._unhandled_exception:00000000 Vector1A8
+C:\Users\mathi\AppData\Local\Temp\ccwqhSIH.s:26     .text._unhandled_exception:00000000 Vector1A4
+C:\Users\mathi\AppData\Local\Temp\ccwqhSIH.s:26     .text._unhandled_exception:00000000 Vector1A0
+C:\Users\mathi\AppData\Local\Temp\ccwqhSIH.s:26     .text._unhandled_exception:00000000 Vector19C
+C:\Users\mathi\AppData\Local\Temp\ccwqhSIH.s:26     .text._unhandled_exception:00000000 Vector198
+C:\Users\mathi\AppData\Local\Temp\ccwqhSIH.s:26     .text._unhandled_exception:00000000 Vector194
+C:\Users\mathi\AppData\Local\Temp\ccwqhSIH.s:26     .text._unhandled_exception:00000000 Vector190
+C:\Users\mathi\AppData\Local\Temp\ccwqhSIH.s:26     .text._unhandled_exception:00000000 Vector18C
+C:\Users\mathi\AppData\Local\Temp\ccwqhSIH.s:26     .text._unhandled_exception:00000000 Vector188
+C:\Users\mathi\AppData\Local\Temp\ccwqhSIH.s:26     .text._unhandled_exception:00000000 Vector184
+C:\Users\mathi\AppData\Local\Temp\ccwqhSIH.s:26     .text._unhandled_exception:00000000 Vector180
+C:\Users\mathi\AppData\Local\Temp\ccwqhSIH.s:26     .text._unhandled_exception:00000000 Vector17C
+C:\Users\mathi\AppData\Local\Temp\ccwqhSIH.s:26     .text._unhandled_exception:00000000 Vector178
+C:\Users\mathi\AppData\Local\Temp\ccwqhSIH.s:26     .text._unhandled_exception:00000000 Vector174
+C:\Users\mathi\AppData\Local\Temp\ccwqhSIH.s:26     .text._unhandled_exception:00000000 Vector170
+C:\Users\mathi\AppData\Local\Temp\ccwqhSIH.s:26     .text._unhandled_exception:00000000 Vector16C
+C:\Users\mathi\AppData\Local\Temp\ccwqhSIH.s:26     .text._unhandled_exception:00000000 Vector168
+C:\Users\mathi\AppData\Local\Temp\ccwqhSIH.s:26     .text._unhandled_exception:00000000 Vector164
+C:\Users\mathi\AppData\Local\Temp\ccwqhSIH.s:26     .text._unhandled_exception:00000000 Vector160
+C:\Users\mathi\AppData\Local\Temp\ccwqhSIH.s:26     .text._unhandled_exception:00000000 Vector15C
+C:\Users\mathi\AppData\Local\Temp\ccwqhSIH.s:26     .text._unhandled_exception:00000000 Vector158
+C:\Users\mathi\AppData\Local\Temp\ccwqhSIH.s:26     .text._unhandled_exception:00000000 Vector154
+C:\Users\mathi\AppData\Local\Temp\ccwqhSIH.s:26     .text._unhandled_exception:00000000 Vector150
+C:\Users\mathi\AppData\Local\Temp\ccwqhSIH.s:26     .text._unhandled_exception:00000000 Vector14C
+C:\Users\mathi\AppData\Local\Temp\ccwqhSIH.s:26     .text._unhandled_exception:00000000 Vector148
+C:\Users\mathi\AppData\Local\Temp\ccwqhSIH.s:26     .text._unhandled_exception:00000000 Vector144
+C:\Users\mathi\AppData\Local\Temp\ccwqhSIH.s:26     .text._unhandled_exception:00000000 Vector140
+C:\Users\mathi\AppData\Local\Temp\ccwqhSIH.s:26     .text._unhandled_exception:00000000 Vector13C
+C:\Users\mathi\AppData\Local\Temp\ccwqhSIH.s:26     .text._unhandled_exception:00000000 Vector138
+C:\Users\mathi\AppData\Local\Temp\ccwqhSIH.s:26     .text._unhandled_exception:00000000 Vector134
+C:\Users\mathi\AppData\Local\Temp\ccwqhSIH.s:26     .text._unhandled_exception:00000000 Vector130
+C:\Users\mathi\AppData\Local\Temp\ccwqhSIH.s:26     .text._unhandled_exception:00000000 Vector12C
+C:\Users\mathi\AppData\Local\Temp\ccwqhSIH.s:26     .text._unhandled_exception:00000000 Vector128
+C:\Users\mathi\AppData\Local\Temp\ccwqhSIH.s:26     .text._unhandled_exception:00000000 Vector124
+C:\Users\mathi\AppData\Local\Temp\ccwqhSIH.s:26     .text._unhandled_exception:00000000 Vector120
+C:\Users\mathi\AppData\Local\Temp\ccwqhSIH.s:26     .text._unhandled_exception:00000000 Vector11C
+C:\Users\mathi\AppData\Local\Temp\ccwqhSIH.s:26     .text._unhandled_exception:00000000 Vector118
+C:\Users\mathi\AppData\Local\Temp\ccwqhSIH.s:26     .text._unhandled_exception:00000000 Vector114
+C:\Users\mathi\AppData\Local\Temp\ccwqhSIH.s:26     .text._unhandled_exception:00000000 Vector110
+C:\Users\mathi\AppData\Local\Temp\ccwqhSIH.s:26     .text._unhandled_exception:00000000 Vector10C
+C:\Users\mathi\AppData\Local\Temp\ccwqhSIH.s:26     .text._unhandled_exception:00000000 Vector108
+C:\Users\mathi\AppData\Local\Temp\ccwqhSIH.s:26     .text._unhandled_exception:00000000 Vector104
+C:\Users\mathi\AppData\Local\Temp\ccwqhSIH.s:26     .text._unhandled_exception:00000000 Vector100
+C:\Users\mathi\AppData\Local\Temp\ccwqhSIH.s:26     .text._unhandled_exception:00000000 VectorFC
+C:\Users\mathi\AppData\Local\Temp\ccwqhSIH.s:26     .text._unhandled_exception:00000000 VectorF8
+C:\Users\mathi\AppData\Local\Temp\ccwqhSIH.s:26     .text._unhandled_exception:00000000 VectorF4
+C:\Users\mathi\AppData\Local\Temp\ccwqhSIH.s:26     .text._unhandled_exception:00000000 VectorF0
+ARM GAS  C:\Users\mathi\AppData\Local\Temp\ccwqhSIH.s 			page 23
 
 
-C:\PROGRA~1\KMSpico\temp\ccb70gpF.s:26     .text._unhandled_exception:00000000 VectorEC
-C:\PROGRA~1\KMSpico\temp\ccb70gpF.s:26     .text._unhandled_exception:00000000 VectorE8
-C:\PROGRA~1\KMSpico\temp\ccb70gpF.s:26     .text._unhandled_exception:00000000 VectorE4
-C:\PROGRA~1\KMSpico\temp\ccb70gpF.s:26     .text._unhandled_exception:00000000 VectorE0
-C:\PROGRA~1\KMSpico\temp\ccb70gpF.s:26     .text._unhandled_exception:00000000 VectorDC
-C:\PROGRA~1\KMSpico\temp\ccb70gpF.s:26     .text._unhandled_exception:00000000 VectorD8
-C:\PROGRA~1\KMSpico\temp\ccb70gpF.s:26     .text._unhandled_exception:00000000 VectorD4
-C:\PROGRA~1\KMSpico\temp\ccb70gpF.s:26     .text._unhandled_exception:00000000 VectorD0
-C:\PROGRA~1\KMSpico\temp\ccb70gpF.s:26     .text._unhandled_exception:00000000 VectorCC
-C:\PROGRA~1\KMSpico\temp\ccb70gpF.s:26     .text._unhandled_exception:00000000 VectorC8
-C:\PROGRA~1\KMSpico\temp\ccb70gpF.s:26     .text._unhandled_exception:00000000 VectorC4
-C:\PROGRA~1\KMSpico\temp\ccb70gpF.s:26     .text._unhandled_exception:00000000 VectorC0
-C:\PROGRA~1\KMSpico\temp\ccb70gpF.s:26     .text._unhandled_exception:00000000 VectorBC
-C:\PROGRA~1\KMSpico\temp\ccb70gpF.s:26     .text._unhandled_exception:00000000 VectorB8
-C:\PROGRA~1\KMSpico\temp\ccb70gpF.s:26     .text._unhandled_exception:00000000 VectorB4
-C:\PROGRA~1\KMSpico\temp\ccb70gpF.s:26     .text._unhandled_exception:00000000 VectorB0
-C:\PROGRA~1\KMSpico\temp\ccb70gpF.s:26     .text._unhandled_exception:00000000 VectorAC
-C:\PROGRA~1\KMSpico\temp\ccb70gpF.s:26     .text._unhandled_exception:00000000 VectorA8
-C:\PROGRA~1\KMSpico\temp\ccb70gpF.s:26     .text._unhandled_exception:00000000 VectorA4
-C:\PROGRA~1\KMSpico\temp\ccb70gpF.s:26     .text._unhandled_exception:00000000 VectorA0
-C:\PROGRA~1\KMSpico\temp\ccb70gpF.s:26     .text._unhandled_exception:00000000 Vector9C
-C:\PROGRA~1\KMSpico\temp\ccb70gpF.s:26     .text._unhandled_exception:00000000 Vector98
-C:\PROGRA~1\KMSpico\temp\ccb70gpF.s:26     .text._unhandled_exception:00000000 Vector94
-C:\PROGRA~1\KMSpico\temp\ccb70gpF.s:26     .text._unhandled_exception:00000000 Vector90
-C:\PROGRA~1\KMSpico\temp\ccb70gpF.s:26     .text._unhandled_exception:00000000 Vector8C
-C:\PROGRA~1\KMSpico\temp\ccb70gpF.s:26     .text._unhandled_exception:00000000 Vector88
-C:\PROGRA~1\KMSpico\temp\ccb70gpF.s:26     .text._unhandled_exception:00000000 Vector84
-C:\PROGRA~1\KMSpico\temp\ccb70gpF.s:26     .text._unhandled_exception:00000000 Vector80
-C:\PROGRA~1\KMSpico\temp\ccb70gpF.s:26     .text._unhandled_exception:00000000 Vector7C
-C:\PROGRA~1\KMSpico\temp\ccb70gpF.s:26     .text._unhandled_exception:00000000 Vector78
-C:\PROGRA~1\KMSpico\temp\ccb70gpF.s:26     .text._unhandled_exception:00000000 Vector74
-C:\PROGRA~1\KMSpico\temp\ccb70gpF.s:26     .text._unhandled_exception:00000000 Vector70
-C:\PROGRA~1\KMSpico\temp\ccb70gpF.s:26     .text._unhandled_exception:00000000 Vector6C
-C:\PROGRA~1\KMSpico\temp\ccb70gpF.s:26     .text._unhandled_exception:00000000 Vector68
-C:\PROGRA~1\KMSpico\temp\ccb70gpF.s:26     .text._unhandled_exception:00000000 Vector64
-C:\PROGRA~1\KMSpico\temp\ccb70gpF.s:26     .text._unhandled_exception:00000000 Vector60
-C:\PROGRA~1\KMSpico\temp\ccb70gpF.s:26     .text._unhandled_exception:00000000 Vector5C
-C:\PROGRA~1\KMSpico\temp\ccb70gpF.s:26     .text._unhandled_exception:00000000 Vector58
-C:\PROGRA~1\KMSpico\temp\ccb70gpF.s:26     .text._unhandled_exception:00000000 Vector54
-C:\PROGRA~1\KMSpico\temp\ccb70gpF.s:26     .text._unhandled_exception:00000000 Vector50
-C:\PROGRA~1\KMSpico\temp\ccb70gpF.s:26     .text._unhandled_exception:00000000 Vector4C
-C:\PROGRA~1\KMSpico\temp\ccb70gpF.s:26     .text._unhandled_exception:00000000 Vector48
-C:\PROGRA~1\KMSpico\temp\ccb70gpF.s:26     .text._unhandled_exception:00000000 Vector44
-C:\PROGRA~1\KMSpico\temp\ccb70gpF.s:26     .text._unhandled_exception:00000000 Vector40
-C:\PROGRA~1\KMSpico\temp\ccb70gpF.s:26     .text._unhandled_exception:00000000 SysTick_Handler
-C:\PROGRA~1\KMSpico\temp\ccb70gpF.s:26     .text._unhandled_exception:00000000 PendSV_Handler
-C:\PROGRA~1\KMSpico\temp\ccb70gpF.s:26     .text._unhandled_exception:00000000 Vector34
-C:\PROGRA~1\KMSpico\temp\ccb70gpF.s:26     .text._unhandled_exception:00000000 DebugMon_Handler
-C:\PROGRA~1\KMSpico\temp\ccb70gpF.s:26     .text._unhandled_exception:00000000 SVC_Handler
-C:\PROGRA~1\KMSpico\temp\ccb70gpF.s:26     .text._unhandled_exception:00000000 Vector28
-C:\PROGRA~1\KMSpico\temp\ccb70gpF.s:26     .text._unhandled_exception:00000000 Vector24
-C:\PROGRA~1\KMSpico\temp\ccb70gpF.s:26     .text._unhandled_exception:00000000 Vector20
-C:\PROGRA~1\KMSpico\temp\ccb70gpF.s:26     .text._unhandled_exception:00000000 Vector1C
-C:\PROGRA~1\KMSpico\temp\ccb70gpF.s:26     .text._unhandled_exception:00000000 UsageFault_Handler
-C:\PROGRA~1\KMSpico\temp\ccb70gpF.s:26     .text._unhandled_exception:00000000 BusFault_Handler
-C:\PROGRA~1\KMSpico\temp\ccb70gpF.s:26     .text._unhandled_exception:00000000 MemManage_Handler
-C:\PROGRA~1\KMSpico\temp\ccb70gpF.s:26     .text._unhandled_exception:00000000 HardFault_Handler
-ARM GAS  C:\PROGRA~1\KMSpico\temp\ccb70gpF.s 			page 24
+C:\Users\mathi\AppData\Local\Temp\ccwqhSIH.s:26     .text._unhandled_exception:00000000 VectorEC
+C:\Users\mathi\AppData\Local\Temp\ccwqhSIH.s:26     .text._unhandled_exception:00000000 VectorE8
+C:\Users\mathi\AppData\Local\Temp\ccwqhSIH.s:26     .text._unhandled_exception:00000000 VectorE4
+C:\Users\mathi\AppData\Local\Temp\ccwqhSIH.s:26     .text._unhandled_exception:00000000 VectorE0
+C:\Users\mathi\AppData\Local\Temp\ccwqhSIH.s:26     .text._unhandled_exception:00000000 VectorDC
+C:\Users\mathi\AppData\Local\Temp\ccwqhSIH.s:26     .text._unhandled_exception:00000000 VectorD8
+C:\Users\mathi\AppData\Local\Temp\ccwqhSIH.s:26     .text._unhandled_exception:00000000 VectorD4
+C:\Users\mathi\AppData\Local\Temp\ccwqhSIH.s:26     .text._unhandled_exception:00000000 VectorD0
+C:\Users\mathi\AppData\Local\Temp\ccwqhSIH.s:26     .text._unhandled_exception:00000000 VectorCC
+C:\Users\mathi\AppData\Local\Temp\ccwqhSIH.s:26     .text._unhandled_exception:00000000 VectorC8
+C:\Users\mathi\AppData\Local\Temp\ccwqhSIH.s:26     .text._unhandled_exception:00000000 VectorC4
+C:\Users\mathi\AppData\Local\Temp\ccwqhSIH.s:26     .text._unhandled_exception:00000000 VectorC0
+C:\Users\mathi\AppData\Local\Temp\ccwqhSIH.s:26     .text._unhandled_exception:00000000 VectorBC
+C:\Users\mathi\AppData\Local\Temp\ccwqhSIH.s:26     .text._unhandled_exception:00000000 VectorB8
+C:\Users\mathi\AppData\Local\Temp\ccwqhSIH.s:26     .text._unhandled_exception:00000000 VectorB4
+C:\Users\mathi\AppData\Local\Temp\ccwqhSIH.s:26     .text._unhandled_exception:00000000 VectorB0
+C:\Users\mathi\AppData\Local\Temp\ccwqhSIH.s:26     .text._unhandled_exception:00000000 VectorAC
+C:\Users\mathi\AppData\Local\Temp\ccwqhSIH.s:26     .text._unhandled_exception:00000000 VectorA8
+C:\Users\mathi\AppData\Local\Temp\ccwqhSIH.s:26     .text._unhandled_exception:00000000 VectorA4
+C:\Users\mathi\AppData\Local\Temp\ccwqhSIH.s:26     .text._unhandled_exception:00000000 VectorA0
+C:\Users\mathi\AppData\Local\Temp\ccwqhSIH.s:26     .text._unhandled_exception:00000000 Vector9C
+C:\Users\mathi\AppData\Local\Temp\ccwqhSIH.s:26     .text._unhandled_exception:00000000 Vector98
+C:\Users\mathi\AppData\Local\Temp\ccwqhSIH.s:26     .text._unhandled_exception:00000000 Vector94
+C:\Users\mathi\AppData\Local\Temp\ccwqhSIH.s:26     .text._unhandled_exception:00000000 Vector90
+C:\Users\mathi\AppData\Local\Temp\ccwqhSIH.s:26     .text._unhandled_exception:00000000 Vector8C
+C:\Users\mathi\AppData\Local\Temp\ccwqhSIH.s:26     .text._unhandled_exception:00000000 Vector88
+C:\Users\mathi\AppData\Local\Temp\ccwqhSIH.s:26     .text._unhandled_exception:00000000 Vector84
+C:\Users\mathi\AppData\Local\Temp\ccwqhSIH.s:26     .text._unhandled_exception:00000000 Vector80
+C:\Users\mathi\AppData\Local\Temp\ccwqhSIH.s:26     .text._unhandled_exception:00000000 Vector7C
+C:\Users\mathi\AppData\Local\Temp\ccwqhSIH.s:26     .text._unhandled_exception:00000000 Vector78
+C:\Users\mathi\AppData\Local\Temp\ccwqhSIH.s:26     .text._unhandled_exception:00000000 Vector74
+C:\Users\mathi\AppData\Local\Temp\ccwqhSIH.s:26     .text._unhandled_exception:00000000 Vector70
+C:\Users\mathi\AppData\Local\Temp\ccwqhSIH.s:26     .text._unhandled_exception:00000000 Vector6C
+C:\Users\mathi\AppData\Local\Temp\ccwqhSIH.s:26     .text._unhandled_exception:00000000 Vector68
+C:\Users\mathi\AppData\Local\Temp\ccwqhSIH.s:26     .text._unhandled_exception:00000000 Vector64
+C:\Users\mathi\AppData\Local\Temp\ccwqhSIH.s:26     .text._unhandled_exception:00000000 Vector60
+C:\Users\mathi\AppData\Local\Temp\ccwqhSIH.s:26     .text._unhandled_exception:00000000 Vector5C
+C:\Users\mathi\AppData\Local\Temp\ccwqhSIH.s:26     .text._unhandled_exception:00000000 Vector58
+C:\Users\mathi\AppData\Local\Temp\ccwqhSIH.s:26     .text._unhandled_exception:00000000 Vector54
+C:\Users\mathi\AppData\Local\Temp\ccwqhSIH.s:26     .text._unhandled_exception:00000000 Vector50
+C:\Users\mathi\AppData\Local\Temp\ccwqhSIH.s:26     .text._unhandled_exception:00000000 Vector4C
+C:\Users\mathi\AppData\Local\Temp\ccwqhSIH.s:26     .text._unhandled_exception:00000000 Vector48
+C:\Users\mathi\AppData\Local\Temp\ccwqhSIH.s:26     .text._unhandled_exception:00000000 Vector44
+C:\Users\mathi\AppData\Local\Temp\ccwqhSIH.s:26     .text._unhandled_exception:00000000 Vector40
+C:\Users\mathi\AppData\Local\Temp\ccwqhSIH.s:26     .text._unhandled_exception:00000000 SysTick_Handler
+C:\Users\mathi\AppData\Local\Temp\ccwqhSIH.s:26     .text._unhandled_exception:00000000 PendSV_Handler
+C:\Users\mathi\AppData\Local\Temp\ccwqhSIH.s:26     .text._unhandled_exception:00000000 Vector34
+C:\Users\mathi\AppData\Local\Temp\ccwqhSIH.s:26     .text._unhandled_exception:00000000 DebugMon_Handler
+C:\Users\mathi\AppData\Local\Temp\ccwqhSIH.s:26     .text._unhandled_exception:00000000 SVC_Handler
+C:\Users\mathi\AppData\Local\Temp\ccwqhSIH.s:26     .text._unhandled_exception:00000000 Vector28
+C:\Users\mathi\AppData\Local\Temp\ccwqhSIH.s:26     .text._unhandled_exception:00000000 Vector24
+C:\Users\mathi\AppData\Local\Temp\ccwqhSIH.s:26     .text._unhandled_exception:00000000 Vector20
+C:\Users\mathi\AppData\Local\Temp\ccwqhSIH.s:26     .text._unhandled_exception:00000000 Vector1C
+C:\Users\mathi\AppData\Local\Temp\ccwqhSIH.s:26     .text._unhandled_exception:00000000 UsageFault_Handler
+C:\Users\mathi\AppData\Local\Temp\ccwqhSIH.s:26     .text._unhandled_exception:00000000 BusFault_Handler
+C:\Users\mathi\AppData\Local\Temp\ccwqhSIH.s:26     .text._unhandled_exception:00000000 MemManage_Handler
+C:\Users\mathi\AppData\Local\Temp\ccwqhSIH.s:26     .text._unhandled_exception:00000000 HardFault_Handler
+ARM GAS  C:\Users\mathi\AppData\Local\Temp\ccwqhSIH.s 			page 24
 
 
-C:\PROGRA~1\KMSpico\temp\ccb70gpF.s:26     .text._unhandled_exception:00000000 NMI_Handler
-C:\PROGRA~1\KMSpico\temp\ccb70gpF.s:26     .text._unhandled_exception:00000000 Reset_Handler
-C:\PROGRA~1\KMSpico\temp\ccb70gpF.s:282    .vectors:00000000 _vectors
-C:\PROGRA~1\KMSpico\temp\ccb70gpF.s:275    .rodata._unhandled_exception.str1.4:00000000 $d
-C:\PROGRA~1\KMSpico\temp\ccb70gpF.s:279    .vectors:00000000 $d
+C:\Users\mathi\AppData\Local\Temp\ccwqhSIH.s:26     .text._unhandled_exception:00000000 NMI_Handler
+C:\Users\mathi\AppData\Local\Temp\ccwqhSIH.s:26     .text._unhandled_exception:00000000 Reset_Handler
+C:\Users\mathi\AppData\Local\Temp\ccwqhSIH.s:282    .vectors:00000000 _vectors
+C:\Users\mathi\AppData\Local\Temp\ccwqhSIH.s:275    .rodata._unhandled_exception.str1.4:00000000 $d
+C:\Users\mathi\AppData\Local\Temp\ccwqhSIH.s:279    .vectors:00000000 $d
 
 UNDEFINED SYMBOLS
 chSysHalt

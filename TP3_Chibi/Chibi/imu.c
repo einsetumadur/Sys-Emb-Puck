@@ -5,9 +5,9 @@
 #include <imu.h>
 
 #define STANDARD_GRAVITY    9.80665f
-<<<<<<< HEAD
+
 #define DEG2RAD(deg) (deg / 180 * M_PI)
-=======
+
 #define DEG2RAD(deg) 		(deg / 180 * M_PI)
 
 #define RES_2G				2.0f
@@ -16,7 +16,6 @@
 
 #define ACC_RAW2G			(RES_2G/MAX_INT16)
 #define GYRO_RAW2DPS		(RES_250DPS/MAX_INT16)
->>>>>>> TP3_working
 
 extern messagebus_t bus;
 
@@ -36,15 +35,10 @@ void imu_compute_units(void){
 	/*
     *   TASK 10 : TO COMPLETE
     */
-<<<<<<< HEAD
-=======
 	for(unsigned int k = 0;k<NB_AXIS;++k){
 		imu_values.acceleration[k]=(imu_values.acc_raw[k]-imu_values.acc_offset[k])*STANDARD_GRAVITY*ACC_RAW2G;
 		imu_values.gyro_rate[k]=DEG2RAD(GYRO_RAW2DPS)*(imu_values.gyro_raw[k]-imu_values.gyro_offset[k]);
 	}
-
-
->>>>>>> TP3_working
 }
 
  /**
@@ -120,8 +114,6 @@ void imu_compute_offset(messagebus_topic_t * imu_topic, uint16_t nb_samples){
     /*
     *   TASK 9 : TO COMPLETE
     */
-<<<<<<< HEAD
-=======
 	uint32_t acc_sum[NB_AXIS];
 	uint32_t gyro_sum[NB_AXIS];
 	for(unsigned int i = 0;i<nb_samples;++i){
@@ -141,8 +133,6 @@ void imu_compute_offset(messagebus_topic_t * imu_topic, uint16_t nb_samples){
 	//specific case for the z axis because it should not be zero but -1g
 	//deletes the standard gravity to have only the offset
 	imu_values.acc_offset[Z_AXIS] += (MAX_INT16 / RES_2G); //16384 = 1g with a scale of 2G
-
->>>>>>> TP3_working
 }
 
 int16_t get_acc(uint8_t axis) {

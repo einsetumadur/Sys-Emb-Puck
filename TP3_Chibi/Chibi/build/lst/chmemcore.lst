@@ -1,4 +1,4 @@
-ARM GAS  C:\PROGRA~1\KMSpico\temp\ccSXL2V8.s 			page 1
+ARM GAS  C:\Users\mathi\AppData\Local\Temp\ccOic8SM.s 			page 1
 
 
    1              		.cpu cortex-m4
@@ -58,7 +58,7 @@ ARM GAS  C:\PROGRA~1\KMSpico\temp\ccSXL2V8.s 			page 1
   55 0018 07000000 		.word	__heap_base__+7
   56 001c 00000000 		.word	__heap_end__
   57 0020 00000000 		.word	.LANCHOR0
-ARM GAS  C:\PROGRA~1\KMSpico\temp\ccSXL2V8.s 			page 2
+ARM GAS  C:\Users\mathi\AppData\Local\Temp\ccOic8SM.s 			page 2
 
 
   58 0024 00000000 		.word	.LANCHOR1
@@ -118,7 +118,7 @@ ARM GAS  C:\PROGRA~1\KMSpico\temp\ccSXL2V8.s 			page 1
  112              	.LBE33:
  113              	.LBB38:
  114              	.LBB39:
-ARM GAS  C:\PROGRA~1\KMSpico\temp\ccSXL2V8.s 			page 3
+ARM GAS  C:\Users\mathi\AppData\Local\Temp\ccOic8SM.s 			page 3
 
 
  115              		.loc 1 134 0
@@ -178,7 +178,7 @@ ARM GAS  C:\PROGRA~1\KMSpico\temp\ccSXL2V8.s 			page 1
  169              	@ 0 "" 2
  170              	.LVL12:
  171              		.thumb
-ARM GAS  C:\PROGRA~1\KMSpico\temp\ccSXL2V8.s 			page 4
+ARM GAS  C:\Users\mathi\AppData\Local\Temp\ccOic8SM.s 			page 4
 
 
  172              		.syntax unified
@@ -238,7 +238,7 @@ ARM GAS  C:\PROGRA~1\KMSpico\temp\ccSXL2V8.s 			page 1
  226              		.thumb_func
  227              		.fpu fpv4-sp-d16
  228              		.type	chCoreAllocI, %function
-ARM GAS  C:\PROGRA~1\KMSpico\temp\ccSXL2V8.s 			page 5
+ARM GAS  C:\Users\mathi\AppData\Local\Temp\ccOic8SM.s 			page 5
 
 
  229              	chCoreAllocI:
@@ -298,7 +298,7 @@ ARM GAS  C:\PROGRA~1\KMSpico\temp\ccSXL2V8.s 			page 1
  283              		.thumb_func
  284              		.fpu fpv4-sp-d16
  285              		.type	chCoreGetStatusX, %function
-ARM GAS  C:\PROGRA~1\KMSpico\temp\ccSXL2V8.s 			page 6
+ARM GAS  C:\Users\mathi\AppData\Local\Temp\ccOic8SM.s 			page 6
 
 
  286              	chCoreGetStatusX:
@@ -349,16 +349,16 @@ ARM GAS  C:\PROGRA~1\KMSpico\temp\ccSXL2V8.s 			page 1
  329      6F636B00 
  330              		.text
  331              	.Letext0:
- 332              		.file 4 "c:\\users\\41774\\documents\\epfl\\ba6\\robotique\\eclipse_e-puck2\\tools\\gcc-arm-none-e
- 333              		.file 5 "c:\\users\\41774\\documents\\epfl\\ba6\\robotique\\eclipse_e-puck2\\tools\\gcc-arm-none-e
- 334              		.file 6 "c:\\users\\41774\\documents\\epfl\\ba6\\robotique\\eclipse_e-puck2\\tools\\gcc-arm-none-e
+ 332              		.file 4 "c:\\eclipse_e-puck2\\tools\\gcc-arm-none-eabi-7-2017-q4-major-win32\\lib\\gcc\\arm-none-e
+ 333              		.file 5 "c:\\eclipse_e-puck2\\tools\\gcc-arm-none-eabi-7-2017-q4-major-win32\\arm-none-eabi\\inclu
+ 334              		.file 6 "c:\\eclipse_e-puck2\\tools\\gcc-arm-none-eabi-7-2017-q4-major-win32\\arm-none-eabi\\inclu
  335              		.file 7 "../../lib/ChibiOS/os/rt/ports/ARMCMx/compilers/GCC/chtypes.h"
  336              		.file 8 "../../lib/ChibiOS/os/rt/include/chsystypes.h"
  337              		.file 9 "../../lib/ChibiOS/os/rt/include/chschd.h"
  338              		.file 10 "../../lib/ChibiOS/os/ext/CMSIS/include/core_cm4.h"
  339              		.file 11 "../../lib/ChibiOS/os/ext/CMSIS/ST/system_stm32f4xx.h"
  340              		.file 12 "../../lib/ChibiOS/os/rt/ports/ARMCMx/chcore.h"
-ARM GAS  C:\PROGRA~1\KMSpico\temp\ccSXL2V8.s 			page 7
+ARM GAS  C:\Users\mathi\AppData\Local\Temp\ccOic8SM.s 			page 7
 
 
  341              		.file 13 "../../lib/ChibiOS/os/rt/ports/ARMCMx/chcore_v7m.h"
@@ -375,10 +375,10 @@ ARM GAS  C:\PROGRA~1\KMSpico\temp\ccSXL2V8.s 			page 1
  352 0006 00000000 		.4byte	.Ldebug_abbrev0
  353 000a 04       		.byte	0x4
  354 000b 01       		.uleb128 0x1
- 355 000c 0C030000 		.4byte	.LASF175
+ 355 000c D3020000 		.4byte	.LASF175
  356 0010 0C       		.byte	0xc
- 357 0011 E5070000 		.4byte	.LASF176
- 358 0015 ED000000 		.4byte	.LASF177
+ 357 0011 EC070000 		.4byte	.LASF176
+ 358 0015 67040000 		.4byte	.LASF177
  359 0019 30000000 		.4byte	.Ldebug_ranges0+0x30
  360 001d 00000000 		.4byte	0
  361 0021 00000000 		.4byte	.Ldebug_line0
@@ -394,19 +394,19 @@ ARM GAS  C:\PROGRA~1\KMSpico\temp\ccSXL2V8.s 			page 1
  371 0037 04       		.uleb128 0x4
  372 0038 04       		.byte	0x4
  373 0039 07       		.byte	0x7
- 374 003a C3020000 		.4byte	.LASF0
+ 374 003a 8A020000 		.4byte	.LASF0
  375 003e 04       		.uleb128 0x4
  376 003f 08       		.byte	0x8
  377 0040 05       		.byte	0x5
- 378 0041 A2010000 		.4byte	.LASF1
+ 378 0041 5F010000 		.4byte	.LASF1
  379 0045 04       		.uleb128 0x4
  380 0046 08       		.byte	0x8
  381 0047 04       		.byte	0x4
- 382 0048 5F050000 		.4byte	.LASF2
+ 382 0048 66050000 		.4byte	.LASF2
  383 004c 04       		.uleb128 0x4
  384 004d 01       		.byte	0x1
  385 004e 06       		.byte	0x6
- 386 004f B0010000 		.4byte	.LASF3
+ 386 004f 6D010000 		.4byte	.LASF3
  387 0053 03       		.uleb128 0x3
  388 0054 4C000000 		.4byte	.LASF5
  389 0058 05       		.byte	0x5
@@ -415,43 +415,43 @@ ARM GAS  C:\PROGRA~1\KMSpico\temp\ccSXL2V8.s 			page 1
  392 005e 04       		.uleb128 0x4
  393 005f 01       		.byte	0x1
  394 0060 08       		.byte	0x8
- 395 0061 33060000 		.4byte	.LASF6
+ 395 0061 3A060000 		.4byte	.LASF6
  396 0065 04       		.uleb128 0x4
  397 0066 02       		.byte	0x2
-ARM GAS  C:\PROGRA~1\KMSpico\temp\ccSXL2V8.s 			page 8
+ARM GAS  C:\Users\mathi\AppData\Local\Temp\ccOic8SM.s 			page 8
 
 
  398 0067 05       		.byte	0x5
- 399 0068 56060000 		.4byte	.LASF7
+ 399 0068 5D060000 		.4byte	.LASF7
  400 006c 03       		.uleb128 0x3
- 401 006d 67070000 		.4byte	.LASF8
+ 401 006d 6E070000 		.4byte	.LASF8
  402 0071 05       		.byte	0x5
  403 0072 39       		.byte	0x39
  404 0073 77000000 		.4byte	0x77
  405 0077 04       		.uleb128 0x4
  406 0078 02       		.byte	0x2
  407 0079 07       		.byte	0x7
- 408 007a 45040000 		.4byte	.LASF9
+ 408 007a 0C040000 		.4byte	.LASF9
  409 007e 03       		.uleb128 0x3
- 410 007f D1040000 		.4byte	.LASF10
+ 410 007f D8040000 		.4byte	.LASF10
  411 0083 05       		.byte	0x5
  412 0084 4D       		.byte	0x4d
  413 0085 89000000 		.4byte	0x89
  414 0089 04       		.uleb128 0x4
  415 008a 04       		.byte	0x4
  416 008b 05       		.byte	0x5
- 417 008c 16020000 		.4byte	.LASF11
+ 417 008c D3010000 		.4byte	.LASF11
  418 0090 03       		.uleb128 0x3
- 419 0091 AD070000 		.4byte	.LASF12
+ 419 0091 B4070000 		.4byte	.LASF12
  420 0095 05       		.byte	0x5
  421 0096 4F       		.byte	0x4f
  422 0097 9B000000 		.4byte	0x9b
  423 009b 04       		.uleb128 0x4
  424 009c 04       		.byte	0x4
  425 009d 07       		.byte	0x7
- 426 009e 49070000 		.4byte	.LASF13
+ 426 009e 50070000 		.4byte	.LASF13
  427 00a2 03       		.uleb128 0x3
- 428 00a3 D0050000 		.4byte	.LASF14
+ 428 00a3 D7050000 		.4byte	.LASF14
  429 00a7 05       		.byte	0x5
  430 00a8 69       		.byte	0x69
  431 00a9 AD000000 		.4byte	0xad
@@ -460,25 +460,25 @@ ARM GAS  C:\PROGRA~1\KMSpico\temp\ccSXL2V8.s 			page 1
  434 00af 07       		.byte	0x7
  435 00b0 A5000000 		.4byte	.LASF15
  436 00b4 03       		.uleb128 0x3
- 437 00b5 54080000 		.4byte	.LASF16
+ 437 00b5 5B080000 		.4byte	.LASF16
  438 00b9 06       		.byte	0x6
  439 00ba 18       		.byte	0x18
  440 00bb 53000000 		.4byte	0x53
  441 00bf 03       		.uleb128 0x3
- 442 00c0 D8020000 		.4byte	.LASF17
+ 442 00c0 9F020000 		.4byte	.LASF17
  443 00c4 06       		.byte	0x6
  444 00c5 24       		.byte	0x24
  445 00c6 6C000000 		.4byte	0x6c
  446 00ca 03       		.uleb128 0x3
- 447 00cb 2B060000 		.4byte	.LASF18
+ 447 00cb 32060000 		.4byte	.LASF18
  448 00cf 06       		.byte	0x6
  449 00d0 2C       		.byte	0x2c
  450 00d1 7E000000 		.4byte	0x7e
  451 00d5 05       		.uleb128 0x5
  452 00d6 CA000000 		.4byte	0xca
  453 00da 03       		.uleb128 0x3
- 454 00db 14070000 		.4byte	.LASF19
-ARM GAS  C:\PROGRA~1\KMSpico\temp\ccSXL2V8.s 			page 9
+ 454 00db 1B070000 		.4byte	.LASF19
+ARM GAS  C:\Users\mathi\AppData\Local\Temp\ccOic8SM.s 			page 9
 
 
  455 00df 06       		.byte	0x6
@@ -490,158 +490,158 @@ ARM GAS  C:\PROGRA~1\KMSpico\temp\ccSXL2V8.s 			page 1
  461 00eb 3C       		.byte	0x3c
  462 00ec A2000000 		.4byte	0xa2
  463 00f0 03       		.uleb128 0x3
- 464 00f1 30050000 		.4byte	.LASF21
+ 464 00f1 37050000 		.4byte	.LASF21
  465 00f5 07       		.byte	0x7
  466 00f6 45       		.byte	0x45
  467 00f7 DA000000 		.4byte	0xda
  468 00fb 03       		.uleb128 0x3
- 469 00fc 85010000 		.4byte	.LASF22
+ 469 00fc 42010000 		.4byte	.LASF22
  470 0100 07       		.byte	0x7
  471 0101 46       		.byte	0x46
  472 0102 E5000000 		.4byte	0xe5
  473 0106 03       		.uleb128 0x3
- 474 0107 94060000 		.4byte	.LASF23
+ 474 0107 9B060000 		.4byte	.LASF23
  475 010b 07       		.byte	0x7
  476 010c 48       		.byte	0x48
  477 010d B4000000 		.4byte	0xb4
  478 0111 03       		.uleb128 0x3
- 479 0112 1F020000 		.4byte	.LASF24
+ 479 0112 DC010000 		.4byte	.LASF24
  480 0116 07       		.byte	0x7
  481 0117 49       		.byte	0x49
  482 0118 B4000000 		.4byte	0xb4
  483 011c 03       		.uleb128 0x3
- 484 011d E6050000 		.4byte	.LASF25
+ 484 011d ED050000 		.4byte	.LASF25
  485 0121 07       		.byte	0x7
  486 0122 4A       		.byte	0x4a
  487 0123 B4000000 		.4byte	0xb4
  488 0127 03       		.uleb128 0x3
- 489 0128 FC010000 		.4byte	.LASF26
+ 489 0128 B9010000 		.4byte	.LASF26
  490 012c 07       		.byte	0x7
  491 012d 4B       		.byte	0x4b
  492 012e B4000000 		.4byte	0xb4
  493 0132 03       		.uleb128 0x3
- 494 0133 1A060000 		.4byte	.LASF27
+ 494 0133 21060000 		.4byte	.LASF27
  495 0137 07       		.byte	0x7
  496 0138 4C       		.byte	0x4c
  497 0139 DA000000 		.4byte	0xda
  498 013d 03       		.uleb128 0x3
- 499 013e 71040000 		.4byte	.LASF28
+ 499 013e 38040000 		.4byte	.LASF28
  500 0142 07       		.byte	0x7
  501 0143 4D       		.byte	0x4d
  502 0144 CA000000 		.4byte	0xca
  503 0148 03       		.uleb128 0x3
- 504 0149 C5040000 		.4byte	.LASF29
+ 504 0149 CC040000 		.4byte	.LASF29
  505 014d 07       		.byte	0x7
  506 014e 4F       		.byte	0x4f
  507 014f DA000000 		.4byte	0xda
  508 0153 03       		.uleb128 0x3
- 509 0154 B2020000 		.4byte	.LASF30
+ 509 0154 79020000 		.4byte	.LASF30
  510 0158 07       		.byte	0x7
  511 0159 51       		.byte	0x51
-ARM GAS  C:\PROGRA~1\KMSpico\temp\ccSXL2V8.s 			page 10
+ARM GAS  C:\Users\mathi\AppData\Local\Temp\ccOic8SM.s 			page 10
 
 
  512 015a CA000000 		.4byte	0xca
  513 015e 03       		.uleb128 0x3
- 514 015f 7C040000 		.4byte	.LASF31
+ 514 015f 43040000 		.4byte	.LASF31
  515 0163 07       		.byte	0x7
  516 0164 52       		.byte	0x52
  517 0165 DA000000 		.4byte	0xda
  518 0169 03       		.uleb128 0x3
- 519 016a 8F070000 		.4byte	.LASF32
+ 519 016a 96070000 		.4byte	.LASF32
  520 016e 08       		.byte	0x8
  521 016f 33       		.byte	0x33
  522 0170 DA000000 		.4byte	0xda
  523 0174 05       		.uleb128 0x5
  524 0175 69010000 		.4byte	0x169
  525 0179 03       		.uleb128 0x3
- 526 017a 72070000 		.4byte	.LASF33
+ 526 017a 79070000 		.4byte	.LASF33
  527 017e 08       		.byte	0x8
  528 017f 3F       		.byte	0x3f
  529 0180 84010000 		.4byte	0x184
  530 0184 06       		.uleb128 0x6
- 531 0185 67040000 		.4byte	.LASF57
+ 531 0185 2E040000 		.4byte	.LASF57
  532 0189 68       		.byte	0x68
  533 018a 09       		.byte	0x9
  534 018b C2       		.byte	0xc2
  535 018c A2020000 		.4byte	0x2a2
  536 0190 07       		.uleb128 0x7
- 537 0191 8D060000 		.4byte	.LASF34
+ 537 0191 94060000 		.4byte	.LASF34
  538 0195 09       		.byte	0x9
  539 0196 C3       		.byte	0xc3
  540 0197 AD020000 		.4byte	0x2ad
  541 019b 00       		.byte	0
  542 019c 07       		.uleb128 0x7
- 543 019d 13060000 		.4byte	.LASF35
+ 543 019d 1A060000 		.4byte	.LASF35
  544 01a1 09       		.byte	0x9
  545 01a2 C5       		.byte	0xc5
  546 01a3 AD020000 		.4byte	0x2ad
  547 01a7 04       		.byte	0x4
  548 01a8 07       		.uleb128 0x7
- 549 01a9 8E010000 		.4byte	.LASF36
+ 549 01a9 4B010000 		.4byte	.LASF36
  550 01ad 09       		.byte	0x9
  551 01ae C7       		.byte	0xc7
  552 01af 32010000 		.4byte	0x132
  553 01b3 08       		.byte	0x8
  554 01b4 07       		.uleb128 0x7
- 555 01b5 A7050000 		.4byte	.LASF37
+ 555 01b5 AE050000 		.4byte	.LASF37
  556 01b9 09       		.byte	0x9
  557 01ba C8       		.byte	0xc8
  558 01bb 26050000 		.4byte	0x526
  559 01bf 0C       		.byte	0xc
  560 01c0 07       		.uleb128 0x7
- 561 01c1 2E020000 		.4byte	.LASF38
+ 561 01c1 F5010000 		.4byte	.LASF38
  562 01c5 09       		.byte	0x9
  563 01c6 CA       		.byte	0xca
  564 01c7 AD020000 		.4byte	0x2ad
  565 01cb 10       		.byte	0x10
  566 01cc 07       		.uleb128 0x7
- 567 01cd 99050000 		.4byte	.LASF39
+ 567 01cd A0050000 		.4byte	.LASF39
  568 01d1 09       		.byte	0x9
-ARM GAS  C:\PROGRA~1\KMSpico\temp\ccSXL2V8.s 			page 11
+ARM GAS  C:\Users\mathi\AppData\Local\Temp\ccOic8SM.s 			page 11
 
 
  569 01d2 CB       		.byte	0xcb
  570 01d3 AD020000 		.4byte	0x2ad
  571 01d7 14       		.byte	0x14
  572 01d8 07       		.uleb128 0x7
- 573 01d9 88080000 		.4byte	.LASF40
+ 573 01d9 8F080000 		.4byte	.LASF40
  574 01dd 09       		.byte	0x9
  575 01de D2       		.byte	0xd2
  576 01df 9C080000 		.4byte	0x89c
  577 01e3 18       		.byte	0x18
  578 01e4 07       		.uleb128 0x7
- 579 01e5 B8020000 		.4byte	.LASF41
+ 579 01e5 7F020000 		.4byte	.LASF41
  580 01e9 09       		.byte	0x9
  581 01ea D8       		.byte	0xd8
  582 01eb B3080000 		.4byte	0x8b3
  583 01ef 1C       		.byte	0x1c
  584 01f0 07       		.uleb128 0x7
- 585 01f1 60060000 		.4byte	.LASF42
+ 585 01f1 67060000 		.4byte	.LASF42
  586 01f5 09       		.byte	0x9
  587 01f6 DD       		.byte	0xdd
  588 01f7 11010000 		.4byte	0x111
  589 01fb 20       		.byte	0x20
  590 01fc 07       		.uleb128 0x7
- 591 01fd AB060000 		.4byte	.LASF43
+ 591 01fd B2060000 		.4byte	.LASF43
  592 0201 09       		.byte	0x9
  593 0202 E1       		.byte	0xe1
  594 0203 06010000 		.4byte	0x106
  595 0207 21       		.byte	0x21
  596 0208 07       		.uleb128 0x7
- 597 0209 36080000 		.4byte	.LASF44
+ 597 0209 3D080000 		.4byte	.LASF44
  598 020d 09       		.byte	0x9
  599 020e E6       		.byte	0xe6
  600 020f 1C010000 		.4byte	0x11c
  601 0213 22       		.byte	0x22
  602 0214 07       		.uleb128 0x7
- 603 0215 68060000 		.4byte	.LASF45
+ 603 0215 6F060000 		.4byte	.LASF45
  604 0219 09       		.byte	0x9
  605 021a EC       		.byte	0xec
  606 021b 27010000 		.4byte	0x127
  607 021f 23       		.byte	0x23
  608 0220 07       		.uleb128 0x7
- 609 0221 F1020000 		.4byte	.LASF46
+ 609 0221 B8020000 		.4byte	.LASF46
  610 0225 09       		.byte	0x9
  611 0226 F3       		.byte	0xf3
  612 0227 74010000 		.4byte	0x174
@@ -653,59 +653,59 @@ ARM GAS  C:\PROGRA~1\KMSpico\temp\ccSXL2V8.s 			page 1
  618 0234 CB070000 		.4byte	0x7cb
  619 0238 28       		.byte	0x28
  620 0239 09       		.uleb128 0x9
- 621 023a 09050000 		.4byte	.LASF47
+ 621 023a 10050000 		.4byte	.LASF47
  622 023e 09       		.byte	0x9
  623 023f 3601     		.2byte	0x136
  624 0241 B3020000 		.4byte	0x2b3
  625 0245 2C       		.byte	0x2c
-ARM GAS  C:\PROGRA~1\KMSpico\temp\ccSXL2V8.s 			page 12
+ARM GAS  C:\Users\mathi\AppData\Local\Temp\ccOic8SM.s 			page 12
 
 
  626 0246 09       		.uleb128 0x9
- 627 0247 25040000 		.4byte	.LASF48
+ 627 0247 EC030000 		.4byte	.LASF48
  628 024b 09       		.byte	0x9
  629 024c 3C01     		.2byte	0x13c
  630 024e D7020000 		.4byte	0x2d7
  631 0252 30       		.byte	0x30
  632 0253 09       		.uleb128 0x9
- 633 0254 DF070000 		.4byte	.LASF49
+ 633 0254 E6070000 		.4byte	.LASF49
  634 0258 09       		.byte	0x9
  635 0259 4001     		.2byte	0x140
  636 025b 3D010000 		.4byte	0x13d
  637 025f 38       		.byte	0x38
  638 0260 09       		.uleb128 0x9
- 639 0261 09070000 		.4byte	.LASF50
+ 639 0261 10070000 		.4byte	.LASF50
  640 0265 09       		.byte	0x9
  641 0266 4601     		.2byte	0x146
  642 0268 48010000 		.4byte	0x148
  643 026c 3C       		.byte	0x3c
  644 026d 09       		.uleb128 0x9
- 645 026e 4C060000 		.4byte	.LASF51
+ 645 026e 53060000 		.4byte	.LASF51
  646 0272 09       		.byte	0x9
  647 0273 4D01     		.2byte	0x14d
  648 0275 96080000 		.4byte	0x896
  649 0279 40       		.byte	0x40
  650 027a 09       		.uleb128 0x9
- 651 027b 99070000 		.4byte	.LASF52
+ 651 027b A0070000 		.4byte	.LASF52
  652 027f 09       		.byte	0x9
  653 0280 5101     		.2byte	0x151
  654 0282 32010000 		.4byte	0x132
  655 0286 44       		.byte	0x44
  656 0287 09       		.uleb128 0x9
- 657 0288 D9010000 		.4byte	.LASF53
+ 657 0288 96010000 		.4byte	.LASF53
  658 028c 09       		.byte	0x9
  659 028d 5801     		.2byte	0x158
  660 028f 8A030000 		.4byte	0x38a
  661 0293 48       		.byte	0x48
  662 0294 09       		.uleb128 0x9
- 663 0295 BC060000 		.4byte	.LASF54
+ 663 0295 C3060000 		.4byte	.LASF54
  664 0299 09       		.byte	0x9
  665 029a 5E01     		.2byte	0x15e
  666 029c 7C070000 		.4byte	0x77c
  667 02a0 50       		.byte	0x50
  668 02a1 00       		.byte	0
  669 02a2 03       		.uleb128 0x3
- 670 02a3 6E080000 		.4byte	.LASF55
+ 670 02a3 75080000 		.4byte	.LASF55
  671 02a7 08       		.byte	0x8
  672 02a8 44       		.byte	0x44
  673 02a9 AD020000 		.4byte	0x2ad
@@ -713,28 +713,28 @@ ARM GAS  C:\PROGRA~1\KMSpico\temp\ccSXL2V8.s 			page 1
  675 02ae 04       		.byte	0x4
  676 02af 79010000 		.4byte	0x179
  677 02b3 03       		.uleb128 0x3
- 678 02b4 E6040000 		.4byte	.LASF56
+ 678 02b4 ED040000 		.4byte	.LASF56
  679 02b8 08       		.byte	0x8
  680 02b9 49       		.byte	0x49
  681 02ba BE020000 		.4byte	0x2be
  682 02be 06       		.uleb128 0x6
-ARM GAS  C:\PROGRA~1\KMSpico\temp\ccSXL2V8.s 			page 13
+ARM GAS  C:\Users\mathi\AppData\Local\Temp\ccOic8SM.s 			page 13
 
 
- 683 02bf 31070000 		.4byte	.LASF58
+ 683 02bf 38070000 		.4byte	.LASF58
  684 02c3 04       		.byte	0x4
  685 02c4 09       		.byte	0x9
  686 02c5 B0       		.byte	0xb0
  687 02c6 D7020000 		.4byte	0x2d7
  688 02ca 07       		.uleb128 0x7
- 689 02cb 8D060000 		.4byte	.LASF34
+ 689 02cb 94060000 		.4byte	.LASF34
  690 02cf 09       		.byte	0x9
  691 02d0 B1       		.byte	0xb1
  692 02d1 AD020000 		.4byte	0x2ad
  693 02d5 00       		.byte	0
  694 02d6 00       		.byte	0
  695 02d7 03       		.uleb128 0x3
- 696 02d8 CE060000 		.4byte	.LASF59
+ 696 02d8 D5060000 		.4byte	.LASF59
  697 02dc 08       		.byte	0x8
  698 02dd 50       		.byte	0x50
  699 02de E2020000 		.4byte	0x2e2
@@ -745,13 +745,13 @@ ARM GAS  C:\PROGRA~1\KMSpico\temp\ccSXL2V8.s 			page 1
  704 02e9 B7       		.byte	0xb7
  705 02ea 07030000 		.4byte	0x307
  706 02ee 07       		.uleb128 0x7
- 707 02ef 8D060000 		.4byte	.LASF34
+ 707 02ef 94060000 		.4byte	.LASF34
  708 02f3 09       		.byte	0x9
  709 02f4 B8       		.byte	0xb8
  710 02f5 AD020000 		.4byte	0x2ad
  711 02f9 00       		.byte	0
  712 02fa 07       		.uleb128 0x7
- 713 02fb 13060000 		.4byte	.LASF35
+ 713 02fb 1A060000 		.4byte	.LASF35
  714 02ff 09       		.byte	0x9
  715 0300 B9       		.byte	0xb9
  716 0301 AD020000 		.4byte	0x2ad
@@ -763,53 +763,53 @@ ARM GAS  C:\PROGRA~1\KMSpico\temp\ccSXL2V8.s 			page 1
  722 030d 57       		.byte	0x57
  723 030e 12030000 		.4byte	0x312
  724 0312 0B       		.uleb128 0xb
- 725 0313 B7040000 		.4byte	.LASF62
+ 725 0313 BE040000 		.4byte	.LASF62
  726 0317 1C       		.byte	0x1c
  727 0318 09       		.byte	0x9
  728 0319 9001     		.2byte	0x190
  729 031b 6E030000 		.4byte	0x36e
  730 031f 09       		.uleb128 0x9
- 731 0320 29070000 		.4byte	.LASF63
+ 731 0320 30070000 		.4byte	.LASF63
  732 0324 09       		.byte	0x9
  733 0325 9101     		.2byte	0x191
  734 0327 D7020000 		.4byte	0x2d7
  735 032b 00       		.byte	0
  736 032c 09       		.uleb128 0x9
- 737 032d 7F060000 		.4byte	.LASF64
+ 737 032d 86060000 		.4byte	.LASF64
  738 0331 09       		.byte	0x9
  739 0332 9201     		.2byte	0x192
-ARM GAS  C:\PROGRA~1\KMSpico\temp\ccSXL2V8.s 			page 14
+ARM GAS  C:\Users\mathi\AppData\Local\Temp\ccOic8SM.s 			page 14
 
 
  740 0334 32010000 		.4byte	0x132
  741 0338 08       		.byte	0x8
  742 0339 09       		.uleb128 0x9
- 743 033a A1050000 		.4byte	.LASF65
+ 743 033a A8050000 		.4byte	.LASF65
  744 033e 09       		.byte	0x9
  745 033f 9401     		.2byte	0x194
  746 0341 26050000 		.4byte	0x526
  747 0345 0C       		.byte	0xc
  748 0346 09       		.uleb128 0x9
- 749 0347 53020000 		.4byte	.LASF66
+ 749 0347 1A020000 		.4byte	.LASF66
  750 034b 09       		.byte	0x9
  751 034c 9701     		.2byte	0x197
  752 034e AD020000 		.4byte	0x2ad
  753 0352 10       		.byte	0x10
  754 0353 09       		.uleb128 0x9
- 755 0354 C8050000 		.4byte	.LASF67
+ 755 0354 CF050000 		.4byte	.LASF67
  756 0358 09       		.byte	0x9
  757 0359 9801     		.2byte	0x198
  758 035b AD020000 		.4byte	0x2ad
  759 035f 14       		.byte	0x14
  760 0360 09       		.uleb128 0x9
- 761 0361 BE050000 		.4byte	.LASF68
+ 761 0361 C5050000 		.4byte	.LASF68
  762 0365 09       		.byte	0x9
  763 0366 9B01     		.2byte	0x19b
  764 0368 AD020000 		.4byte	0x2ad
  765 036c 18       		.byte	0x18
  766 036d 00       		.byte	0
  767 036e 03       		.uleb128 0x3
- 768 036f A4070000 		.4byte	.LASF69
+ 768 036f AB070000 		.4byte	.LASF69
  769 0373 08       		.byte	0x8
  770 0374 5C       		.byte	0x5c
  771 0375 79030000 		.4byte	0x379
@@ -824,84 +824,84 @@ ARM GAS  C:\PROGRA~1\KMSpico\temp\ccSXL2V8.s 			page 1
  780 038a 0E       		.uleb128 0xe
  781 038b 04       		.byte	0x4
  782 038c 03       		.uleb128 0x3
- 783 038d 03060000 		.4byte	.LASF70
+ 783 038d 0A060000 		.4byte	.LASF70
  784 0391 08       		.byte	0x8
  785 0392 61       		.byte	0x61
  786 0393 97030000 		.4byte	0x397
  787 0397 0B       		.uleb128 0xb
- 788 0398 DE060000 		.4byte	.LASF71
+ 788 0398 E5060000 		.4byte	.LASF71
  789 039c 14       		.byte	0x14
  790 039d 09       		.byte	0x9
  791 039e 6B01     		.2byte	0x16b
  792 03a0 E6030000 		.4byte	0x3e6
  793 03a4 09       		.uleb128 0x9
- 794 03a5 D0020000 		.4byte	.LASF72
+ 794 03a5 97020000 		.4byte	.LASF72
  795 03a9 09       		.byte	0x9
  796 03aa 6C01     		.2byte	0x16c
-ARM GAS  C:\PROGRA~1\KMSpico\temp\ccSXL2V8.s 			page 15
+ARM GAS  C:\Users\mathi\AppData\Local\Temp\ccOic8SM.s 			page 15
 
 
  797 03ac B9080000 		.4byte	0x8b9
  798 03b0 00       		.byte	0
  799 03b1 09       		.uleb128 0x9
- 800 03b2 64020000 		.4byte	.LASF73
+ 800 03b2 2B020000 		.4byte	.LASF73
  801 03b6 09       		.byte	0x9
  802 03b7 6D01     		.2byte	0x16d
  803 03b9 B9080000 		.4byte	0x8b9
  804 03bd 04       		.byte	0x4
  805 03be 09       		.uleb128 0x9
- 806 03bf AC080000 		.4byte	.LASF74
+ 806 03bf B3080000 		.4byte	.LASF74
  807 03c3 09       		.byte	0x9
  808 03c4 6E01     		.2byte	0x16e
  809 03c6 69010000 		.4byte	0x169
  810 03ca 08       		.byte	0x8
  811 03cb 09       		.uleb128 0x9
- 812 03cc 01090000 		.4byte	.LASF75
+ 812 03cc FE080000 		.4byte	.LASF75
  813 03d0 09       		.byte	0x9
  814 03d1 6F01     		.2byte	0x16f
  815 03d3 6E030000 		.4byte	0x36e
  816 03d7 0C       		.byte	0xc
  817 03d8 09       		.uleb128 0x9
- 818 03d9 0D080000 		.4byte	.LASF76
+ 818 03d9 14080000 		.4byte	.LASF76
  819 03dd 09       		.byte	0x9
  820 03de 7101     		.2byte	0x171
  821 03e0 8A030000 		.4byte	0x38a
  822 03e4 10       		.byte	0x10
  823 03e5 00       		.byte	0
  824 03e6 03       		.uleb128 0x3
- 825 03e7 62010000 		.4byte	.LASF77
+ 825 03e7 1F010000 		.4byte	.LASF77
  826 03eb 08       		.byte	0x8
  827 03ec 66       		.byte	0x66
  828 03ed F1030000 		.4byte	0x3f1
  829 03f1 0B       		.uleb128 0xb
- 830 03f2 48050000 		.4byte	.LASF78
+ 830 03f2 4F050000 		.4byte	.LASF78
  831 03f6 10       		.byte	0x10
  832 03f7 09       		.byte	0x9
  833 03f8 7B01     		.2byte	0x17b
  834 03fa 33040000 		.4byte	0x433
  835 03fe 09       		.uleb128 0x9
- 836 03ff D0020000 		.4byte	.LASF72
+ 836 03ff 97020000 		.4byte	.LASF72
  837 0403 09       		.byte	0x9
  838 0404 7C01     		.2byte	0x17c
  839 0406 B9080000 		.4byte	0x8b9
  840 040a 00       		.byte	0
  841 040b 09       		.uleb128 0x9
- 842 040c 64020000 		.4byte	.LASF73
+ 842 040c 2B020000 		.4byte	.LASF73
  843 0410 09       		.byte	0x9
  844 0411 7E01     		.2byte	0x17e
  845 0413 B9080000 		.4byte	0x8b9
  846 0417 04       		.byte	0x4
  847 0418 09       		.uleb128 0x9
- 848 0419 AC080000 		.4byte	.LASF74
+ 848 0419 B3080000 		.4byte	.LASF74
  849 041d 09       		.byte	0x9
  850 041e 8001     		.2byte	0x180
  851 0420 69010000 		.4byte	0x169
  852 0424 08       		.byte	0x8
  853 0425 09       		.uleb128 0x9
-ARM GAS  C:\PROGRA~1\KMSpico\temp\ccSXL2V8.s 			page 16
+ARM GAS  C:\Users\mathi\AppData\Local\Temp\ccOic8SM.s 			page 16
 
 
- 854 0426 94080000 		.4byte	.LASF79
+ 854 0426 9B080000 		.4byte	.LASF79
  855 042a 09       		.byte	0x9
  856 042b 8201     		.2byte	0x182
  857 042d 74010000 		.4byte	0x174
@@ -913,58 +913,58 @@ ARM GAS  C:\PROGRA~1\KMSpico\temp\ccSXL2V8.s 			page 1
  863 0439 6B       		.byte	0x6b
  864 043a 3E040000 		.4byte	0x43e
  865 043e 0F       		.uleb128 0xf
- 866 043f 76020000 		.4byte	.LASF81
+ 866 043f 3D020000 		.4byte	.LASF81
  867 0443 1404     		.2byte	0x414
  868 0445 09       		.byte	0x9
  869 0446 A201     		.2byte	0x1a2
  870 0448 81040000 		.4byte	0x481
  871 044c 09       		.uleb128 0x9
- 872 044d C6070000 		.4byte	.LASF82
+ 872 044d CD070000 		.4byte	.LASF82
  873 0451 09       		.byte	0x9
  874 0452 AA01     		.2byte	0x1aa
  875 0454 A2080000 		.4byte	0x8a2
  876 0458 00       		.byte	0
  877 0459 09       		.uleb128 0x9
- 878 045a 3D080000 		.4byte	.LASF83
+ 878 045a 44080000 		.4byte	.LASF83
  879 045e 09       		.byte	0x9
  880 045f AF01     		.2byte	0x1af
  881 0461 53010000 		.4byte	0x153
  882 0465 04       		.byte	0x4
  883 0466 09       		.uleb128 0x9
- 884 0467 9A020000 		.4byte	.LASF84
+ 884 0467 61020000 		.4byte	.LASF84
  885 046b 09       		.byte	0x9
  886 046c B301     		.2byte	0x1b3
  887 046e 53010000 		.4byte	0x153
  888 0472 08       		.byte	0x8
  889 0473 09       		.uleb128 0x9
- 890 0474 9F080000 		.4byte	.LASF85
+ 890 0474 A6080000 		.4byte	.LASF85
  891 0478 09       		.byte	0x9
  892 0479 B901     		.2byte	0x1b9
  893 047b 0E070000 		.4byte	0x70e
  894 047f 0C       		.byte	0xc
  895 0480 00       		.byte	0
  896 0481 03       		.uleb128 0x3
- 897 0482 94040000 		.4byte	.LASF86
+ 897 0482 5B040000 		.4byte	.LASF86
  898 0486 08       		.byte	0x8
  899 0487 70       		.byte	0x70
  900 0488 8C040000 		.4byte	0x48c
  901 048c 0F       		.uleb128 0xf
- 902 048d 0C020000 		.4byte	.LASF87
+ 902 048d C9010000 		.4byte	.LASF87
  903 0491 7006     		.2byte	0x670
  904 0493 09       		.byte	0x9
  905 0494 C201     		.2byte	0x1c2
  906 0496 F9040000 		.4byte	0x4f9
  907 049a 09       		.uleb128 0x9
- 908 049b 4E080000 		.4byte	.LASF88
+ 908 049b 55080000 		.4byte	.LASF88
  909 049f 09       		.byte	0x9
  910 04a0 C601     		.2byte	0x1c6
-ARM GAS  C:\PROGRA~1\KMSpico\temp\ccSXL2V8.s 			page 17
+ARM GAS  C:\Users\mathi\AppData\Local\Temp\ccOic8SM.s 			page 17
 
 
  911 04a2 07030000 		.4byte	0x307
  912 04a6 00       		.byte	0
  913 04a7 09       		.uleb128 0x9
- 914 04a8 E9010000 		.4byte	.LASF89
+ 914 04a8 A6010000 		.4byte	.LASF89
  915 04ac 09       		.byte	0x9
  916 04ad CA01     		.2byte	0x1ca
  917 04af E6030000 		.4byte	0x3e6
@@ -976,7 +976,7 @@ ARM GAS  C:\PROGRA~1\KMSpico\temp\ccSXL2V8.s 			page 1
  923 04bc 33040000 		.4byte	0x433
  924 04c0 2C       		.byte	0x2c
  925 04c1 10       		.uleb128 0x10
- 926 04c2 39010000 		.4byte	.LASF90
+ 926 04c2 F6000000 		.4byte	.LASF90
  927 04c6 09       		.byte	0x9
  928 04c7 D201     		.2byte	0x1d2
  929 04c9 79010000 		.4byte	0x179
@@ -994,37 +994,37 @@ ARM GAS  C:\PROGRA~1\KMSpico\temp\ccSXL2V8.s 			page 1
  941 04e4 C0070000 		.4byte	0x7c0
  942 04e8 B004     		.2byte	0x4b0
  943 04ea 10       		.uleb128 0x10
- 944 04eb A3020000 		.4byte	.LASF92
+ 944 04eb 6A020000 		.4byte	.LASF92
  945 04ef 09       		.byte	0x9
  946 04f0 E301     		.2byte	0x1e3
  947 04f2 BF080000 		.4byte	0x8bf
  948 04f6 E804     		.2byte	0x4e8
  949 04f8 00       		.byte	0
  950 04f9 12       		.uleb128 0x12
- 951 04fa 78010000 		.4byte	.LASF93
+ 951 04fa 35010000 		.4byte	.LASF93
  952 04fe 0A       		.byte	0xa
  953 04ff A706     		.2byte	0x6a7
  954 0501 D5000000 		.4byte	0xd5
  955 0505 13       		.uleb128 0x13
- 956 0506 E1020000 		.4byte	.LASF94
+ 956 0506 A8020000 		.4byte	.LASF94
  957 050a 0B       		.byte	0xb
  958 050b 4C       		.byte	0x4c
  959 050c DA000000 		.4byte	0xda
  960 0510 03       		.uleb128 0x3
- 961 0511 5B020000 		.4byte	.LASF95
+ 961 0511 22020000 		.4byte	.LASF95
  962 0515 0C       		.byte	0xc
  963 0516 65       		.byte	0x65
  964 0517 8A030000 		.4byte	0x38a
  965 051b 03       		.uleb128 0x3
- 966 051c DB040000 		.4byte	.LASF96
+ 966 051c E2040000 		.4byte	.LASF96
  967 0520 0C       		.byte	0xc
-ARM GAS  C:\PROGRA~1\KMSpico\temp\ccSXL2V8.s 			page 18
+ARM GAS  C:\Users\mathi\AppData\Local\Temp\ccOic8SM.s 			page 18
 
 
  968 0521 6D       		.byte	0x6d
  969 0522 E5000000 		.4byte	0xe5
  970 0526 06       		.uleb128 0x6
- 971 0527 D7070000 		.4byte	.LASF97
+ 971 0527 DE070000 		.4byte	.LASF97
  972 052b 04       		.byte	0x4
  973 052c 0C       		.byte	0xc
  974 052d 89       		.byte	0x89
@@ -1078,7 +1078,7 @@ ARM GAS  C:\PROGRA~1\KMSpico\temp\ccSXL2V8.s 			page 1
  1022 058d FB       		.byte	0xfb
  1023 058e 10050000 		.4byte	0x510
  1024 0592 14       		.byte	0x14
-ARM GAS  C:\PROGRA~1\KMSpico\temp\ccSXL2V8.s 			page 19
+ARM GAS  C:\Users\mathi\AppData\Local\Temp\ccOic8SM.s 			page 19
 
 
  1025 0593 14       		.uleb128 0x14
@@ -1138,7 +1138,7 @@ ARM GAS  C:\PROGRA~1\KMSpico\temp\ccSXL2V8.s 			page 1
  1079 0604 08       		.uleb128 0x8
  1080 0605 73333100 		.ascii	"s31\000"
  1081 0609 0D       		.byte	0xd
-ARM GAS  C:\PROGRA~1\KMSpico\temp\ccSXL2V8.s 			page 20
+ARM GAS  C:\Users\mathi\AppData\Local\Temp\ccOic8SM.s 			page 20
 
 
  1082 060a 0501     		.2byte	0x105
@@ -1198,7 +1198,7 @@ ARM GAS  C:\PROGRA~1\KMSpico\temp\ccSXL2V8.s 			page 1
  1136 0678 0F01     		.2byte	0x10f
  1137 067a 10050000 		.4byte	0x510
  1138 067e 60       		.byte	0x60
-ARM GAS  C:\PROGRA~1\KMSpico\temp\ccSXL2V8.s 			page 21
+ARM GAS  C:\Users\mathi\AppData\Local\Temp\ccOic8SM.s 			page 21
 
 
  1139 067f 00       		.byte	0
@@ -1217,26 +1217,26 @@ ARM GAS  C:\PROGRA~1\KMSpico\temp\ccSXL2V8.s 			page 1
  1152 0695 69010000 		.4byte	0x169
  1153 0699 00       		.byte	0
  1154 069a 07       		.uleb128 0x7
- 1155 069b 28020000 		.4byte	.LASF100
+ 1155 069b E5010000 		.4byte	.LASF100
  1156 069f 0E       		.byte	0xe
  1157 06a0 59       		.byte	0x59
  1158 06a1 AD020000 		.4byte	0x2ad
  1159 06a5 04       		.byte	0x4
  1160 06a6 07       		.uleb128 0x7
- 1161 06a7 E9080000 		.4byte	.LASF101
+ 1161 06a7 E6080000 		.4byte	.LASF101
  1162 06ab 0E       		.byte	0xe
  1163 06ac 5D       		.byte	0x5d
  1164 06ad 8A030000 		.4byte	0x38a
  1165 06b1 08       		.byte	0x8
  1166 06b2 07       		.uleb128 0x7
- 1167 06b3 45080000 		.4byte	.LASF102
+ 1167 06b3 4C080000 		.4byte	.LASF102
  1168 06b7 0E       		.byte	0xe
  1169 06b8 61       		.byte	0x61
  1170 06b9 B4000000 		.4byte	0xb4
  1171 06bd 0C       		.byte	0xc
  1172 06be 00       		.byte	0
  1173 06bf 03       		.uleb128 0x3
- 1174 06c0 7E050000 		.4byte	.LASF103
+ 1174 06c0 85050000 		.4byte	.LASF103
  1175 06c4 0E       		.byte	0xe
  1176 06c5 62       		.byte	0x62
  1177 06c6 86060000 		.4byte	0x686
@@ -1246,22 +1246,22 @@ ARM GAS  C:\PROGRA~1\KMSpico\temp\ccSXL2V8.s 			page 1
  1181 06ce 67       		.byte	0x67
  1182 06cf F8060000 		.4byte	0x6f8
  1183 06d3 07       		.uleb128 0x7
- 1184 06d4 4B020000 		.4byte	.LASF104
+ 1184 06d4 12020000 		.4byte	.LASF104
  1185 06d8 0E       		.byte	0xe
  1186 06d9 6B       		.byte	0x6b
  1187 06da 37000000 		.4byte	0x37
  1188 06de 00       		.byte	0
  1189 06df 07       		.uleb128 0x7
- 1190 06e0 77050000 		.4byte	.LASF105
+ 1190 06e0 7E050000 		.4byte	.LASF105
  1191 06e4 0E       		.byte	0xe
  1192 06e5 6F       		.byte	0x6f
  1193 06e6 F8060000 		.4byte	0x6f8
  1194 06ea 04       		.byte	0x4
  1195 06eb 07       		.uleb128 0x7
-ARM GAS  C:\PROGRA~1\KMSpico\temp\ccSXL2V8.s 			page 22
+ARM GAS  C:\Users\mathi\AppData\Local\Temp\ccOic8SM.s 			page 22
 
 
- 1196 06ec EE050000 		.4byte	.LASF106
+ 1196 06ec F5050000 		.4byte	.LASF106
  1197 06f0 0E       		.byte	0xe
  1198 06f1 73       		.byte	0x73
  1199 06f2 FE060000 		.4byte	0x6fe
@@ -1288,14 +1288,14 @@ ARM GAS  C:\PROGRA~1\KMSpico\temp\ccSXL2V8.s 			page 1
  1220 071c 38       		.byte	0x38
  1221 071d 2E070000 		.4byte	0x72e
  1222 0721 07       		.uleb128 0x7
- 1223 0722 D0070000 		.4byte	.LASF108
+ 1223 0722 D7070000 		.4byte	.LASF108
  1224 0726 0F       		.byte	0xf
  1225 0727 3C       		.byte	0x3c
  1226 0728 F0000000 		.4byte	0xf0
  1227 072c 00       		.byte	0
  1228 072d 00       		.byte	0
  1229 072e 03       		.uleb128 0x3
- 1230 072f AD050000 		.4byte	.LASF109
+ 1230 072f B4050000 		.4byte	.LASF109
  1231 0733 0F       		.byte	0xf
  1232 0734 3D       		.byte	0x3d
  1233 0735 19070000 		.4byte	0x719
@@ -1305,7 +1305,7 @@ ARM GAS  C:\PROGRA~1\KMSpico\temp\ccSXL2V8.s 			page 1
  1237 073c 48       		.byte	0x48
  1238 073d 7C070000 		.4byte	0x77c
  1239 0741 07       		.uleb128 0x7
- 1240 0742 7B070000 		.4byte	.LASF110
+ 1240 0742 82070000 		.4byte	.LASF110
  1241 0746 0F       		.byte	0xf
  1242 0747 49       		.byte	0x49
  1243 0748 F0000000 		.4byte	0xf0
@@ -1317,8 +1317,8 @@ ARM GAS  C:\PROGRA~1\KMSpico\temp\ccSXL2V8.s 			page 1
  1249 0754 F0000000 		.4byte	0xf0
  1250 0758 04       		.byte	0x4
  1251 0759 07       		.uleb128 0x7
- 1252 075a 77040000 		.4byte	.LASF112
-ARM GAS  C:\PROGRA~1\KMSpico\temp\ccSXL2V8.s 			page 23
+ 1252 075a 3E040000 		.4byte	.LASF112
+ARM GAS  C:\Users\mathi\AppData\Local\Temp\ccOic8SM.s 			page 23
 
 
  1253 075e 0F       		.byte	0xf
@@ -1332,7 +1332,7 @@ ARM GAS  C:\PROGRA~1\KMSpico\temp\ccSXL2V8.s 			page 1
  1261 076a 5E010000 		.4byte	0x15e
  1262 076e 0C       		.byte	0xc
  1263 076f 07       		.uleb128 0x7
- 1264 0770 DB050000 		.4byte	.LASF113
+ 1264 0770 E2050000 		.4byte	.LASF113
  1265 0774 0F       		.byte	0xf
  1266 0775 4D       		.byte	0x4d
  1267 0776 FB000000 		.4byte	0xfb
@@ -1349,36 +1349,36 @@ ARM GAS  C:\PROGRA~1\KMSpico\temp\ccSXL2V8.s 			page 1
  1278 078a 38       		.byte	0x38
  1279 078b C0070000 		.4byte	0x7c0
  1280 078f 07       		.uleb128 0x7
- 1281 0790 39040000 		.4byte	.LASF115
+ 1281 0790 00040000 		.4byte	.LASF115
  1282 0794 10       		.byte	0x10
  1283 0795 39       		.byte	0x39
  1284 0796 5E010000 		.4byte	0x15e
  1285 079a 00       		.byte	0
  1286 079b 07       		.uleb128 0x7
- 1287 079c 22060000 		.4byte	.LASF116
+ 1287 079c 29060000 		.4byte	.LASF116
  1288 07a0 10       		.byte	0x10
  1289 07a1 3A       		.byte	0x3a
  1290 07a2 5E010000 		.4byte	0x15e
  1291 07a6 04       		.byte	0x4
  1292 07a7 07       		.uleb128 0x7
- 1293 07a8 CC080000 		.4byte	.LASF117
+ 1293 07a8 D3080000 		.4byte	.LASF117
  1294 07ac 10       		.byte	0x10
  1295 07ad 3B       		.byte	0x3b
  1296 07ae 7C070000 		.4byte	0x77c
  1297 07b2 08       		.byte	0x8
  1298 07b3 07       		.uleb128 0x7
- 1299 07b4 AC040000 		.4byte	.LASF118
+ 1299 07b4 B3040000 		.4byte	.LASF118
  1300 07b8 10       		.byte	0x10
  1301 07b9 3D       		.byte	0x3d
  1302 07ba 7C070000 		.4byte	0x77c
  1303 07be 20       		.byte	0x20
  1304 07bf 00       		.byte	0
  1305 07c0 03       		.uleb128 0x3
- 1306 07c1 58040000 		.4byte	.LASF119
+ 1306 07c1 1F040000 		.4byte	.LASF119
  1307 07c5 10       		.byte	0x10
  1308 07c6 3F       		.byte	0x3f
  1309 07c7 87070000 		.4byte	0x787
-ARM GAS  C:\PROGRA~1\KMSpico\temp\ccSXL2V8.s 			page 24
+ARM GAS  C:\Users\mathi\AppData\Local\Temp\ccOic8SM.s 			page 24
 
 
  1310 07cb 19       		.uleb128 0x19
@@ -1392,32 +1392,32 @@ ARM GAS  C:\PROGRA~1\KMSpico\temp\ccSXL2V8.s 			page 1
  1318 07d9 0101     		.2byte	0x101
  1319 07db 3D010000 		.4byte	0x13d
  1320 07df 1A       		.uleb128 0x1a
- 1321 07e0 30010000 		.4byte	.LASF121
+ 1321 07e0 ED000000 		.4byte	.LASF121
  1322 07e4 09       		.byte	0x9
  1323 07e5 0801     		.2byte	0x108
  1324 07e7 3D010000 		.4byte	0x13d
  1325 07eb 1A       		.uleb128 0x1a
- 1326 07ec 81080000 		.4byte	.LASF122
+ 1326 07ec 88080000 		.4byte	.LASF122
  1327 07f0 09       		.byte	0x9
  1328 07f1 0F01     		.2byte	0x10f
  1329 07f3 8A030000 		.4byte	0x38a
  1330 07f7 1A       		.uleb128 0x1a
- 1331 07f8 06020000 		.4byte	.LASF123
+ 1331 07f8 C3010000 		.4byte	.LASF123
  1332 07fc 09       		.byte	0x9
  1333 07fd 1601     		.2byte	0x116
  1334 07ff 28080000 		.4byte	0x828
  1335 0803 1A       		.uleb128 0x1a
- 1336 0804 F8020000 		.4byte	.LASF124
+ 1336 0804 BF020000 		.4byte	.LASF124
  1337 0808 09       		.byte	0x9
  1338 0809 1E01     		.2byte	0x11e
  1339 080b 53080000 		.4byte	0x853
  1340 080f 1A       		.uleb128 0x1a
- 1341 0810 60070000 		.4byte	.LASF125
+ 1341 0810 67070000 		.4byte	.LASF125
  1342 0814 09       		.byte	0x9
  1343 0815 2701     		.2byte	0x127
  1344 0817 96080000 		.4byte	0x896
  1345 081b 1A       		.uleb128 0x1a
- 1346 081c 86060000 		.4byte	.LASF126
+ 1346 081c 8D060000 		.4byte	.LASF126
  1347 0820 09       		.byte	0x9
  1348 0821 2F01     		.2byte	0x12f
  1349 0823 48010000 		.4byte	0x148
@@ -1426,22 +1426,22 @@ ARM GAS  C:\PROGRA~1\KMSpico\temp\ccSXL2V8.s 			page 1
  1352 0829 04       		.byte	0x4
  1353 082a A2020000 		.4byte	0x2a2
  1354 082e 06       		.uleb128 0x6
- 1355 082f FC060000 		.4byte	.LASF127
+ 1355 082f 03070000 		.4byte	.LASF127
  1356 0833 0C       		.byte	0xc
  1357 0834 11       		.byte	0x11
  1358 0835 34       		.byte	0x34
  1359 0836 53080000 		.4byte	0x853
  1360 083a 07       		.uleb128 0x7
- 1361 083b 36020000 		.4byte	.LASF128
+ 1361 083b FD010000 		.4byte	.LASF128
  1362 083f 11       		.byte	0x11
  1363 0840 35       		.byte	0x35
  1364 0841 D7020000 		.4byte	0x2d7
  1365 0845 00       		.byte	0
  1366 0846 07       		.uleb128 0x7
-ARM GAS  C:\PROGRA~1\KMSpico\temp\ccSXL2V8.s 			page 25
+ARM GAS  C:\Users\mathi\AppData\Local\Temp\ccOic8SM.s 			page 25
 
 
- 1367 0847 3F040000 		.4byte	.LASF129
+ 1367 0847 06040000 		.4byte	.LASF129
  1368 084b 11       		.byte	0x11
  1369 084c 37       		.byte	0x37
  1370 084d 53010000 		.4byte	0x153
@@ -1451,31 +1451,31 @@ ARM GAS  C:\PROGRA~1\KMSpico\temp\ccSXL2V8.s 			page 1
  1374 0854 04       		.byte	0x4
  1375 0855 2E080000 		.4byte	0x82e
  1376 0859 06       		.uleb128 0x6
- 1377 085a 2D080000 		.4byte	.LASF130
+ 1377 085a 34080000 		.4byte	.LASF130
  1378 085e 14       		.byte	0x14
  1379 085f 12       		.byte	0x12
  1380 0860 39       		.byte	0x39
  1381 0861 96080000 		.4byte	0x896
  1382 0865 07       		.uleb128 0x7
- 1383 0866 E1010000 		.4byte	.LASF131
+ 1383 0866 9E010000 		.4byte	.LASF131
  1384 086a 12       		.byte	0x12
  1385 086b 3A       		.byte	0x3a
  1386 086c D7020000 		.4byte	0x2d7
  1387 0870 00       		.byte	0
  1388 0871 07       		.uleb128 0x7
- 1389 0872 D7080000 		.4byte	.LASF132
+ 1389 0872 DE080000 		.4byte	.LASF132
  1390 0876 12       		.byte	0x12
  1391 0877 3C       		.byte	0x3c
  1392 0878 AD020000 		.4byte	0x2ad
  1393 087c 08       		.byte	0x8
  1394 087d 07       		.uleb128 0x7
- 1395 087e 88070000 		.4byte	.LASF133
+ 1395 087e 8F070000 		.4byte	.LASF133
  1396 0882 12       		.byte	0x12
  1397 0883 3E       		.byte	0x3e
  1398 0884 F1090000 		.4byte	0x9f1
  1399 0888 0C       		.byte	0xc
  1400 0889 07       		.uleb128 0x7
- 1401 088a 86020000 		.4byte	.LASF134
+ 1401 088a 4D020000 		.4byte	.LASF134
  1402 088e 12       		.byte	0x12
  1403 088f 41       		.byte	0x41
  1404 0890 53010000 		.4byte	0x153
@@ -1492,13 +1492,13 @@ ARM GAS  C:\PROGRA~1\KMSpico\temp\ccSXL2V8.s 			page 1
  1415 08a7 04       		.uleb128 0x4
  1416 08a8 01       		.byte	0x1
  1417 08a9 08       		.byte	0x8
- 1418 08aa 5B070000 		.4byte	.LASF135
+ 1418 08aa 62070000 		.4byte	.LASF135
  1419 08ae 1B       		.uleb128 0x1b
  1420 08af A7080000 		.4byte	0x8a7
  1421 08b3 0A       		.uleb128 0xa
  1422 08b4 04       		.byte	0x4
  1423 08b5 1B050000 		.4byte	0x51b
-ARM GAS  C:\PROGRA~1\KMSpico\temp\ccSXL2V8.s 			page 26
+ARM GAS  C:\Users\mathi\AppData\Local\Temp\ccOic8SM.s 			page 26
 
 
  1424 08b9 0A       		.uleb128 0xa
@@ -1522,43 +1522,43 @@ ARM GAS  C:\PROGRA~1\KMSpico\temp\ccSXL2V8.s 			page 1
  1442 08dd 34       		.byte	0x34
  1443 08de BB090000 		.4byte	0x9bb
  1444 08e2 07       		.uleb128 0x7
- 1445 08e3 F3080000 		.4byte	.LASF136
+ 1445 08e3 F0080000 		.4byte	.LASF136
  1446 08e7 13       		.byte	0x13
  1447 08e8 35       		.byte	0x35
  1448 08e9 BB090000 		.4byte	0x9bb
  1449 08ed 00       		.byte	0
  1450 08ee 07       		.uleb128 0x7
- 1451 08ef F5040000 		.4byte	.LASF137
+ 1451 08ef FC040000 		.4byte	.LASF137
  1452 08f3 13       		.byte	0x13
  1453 08f4 36       		.byte	0x36
  1454 08f5 B4000000 		.4byte	0xb4
  1455 08f9 04       		.byte	0x4
  1456 08fa 07       		.uleb128 0x7
- 1457 08fb 41070000 		.4byte	.LASF138
+ 1457 08fb 48070000 		.4byte	.LASF138
  1458 08ff 13       		.byte	0x13
  1459 0900 37       		.byte	0x37
  1460 0901 B4000000 		.4byte	0xb4
  1461 0905 05       		.byte	0x5
  1462 0906 07       		.uleb128 0x7
- 1463 0907 C1080000 		.4byte	.LASF139
+ 1463 0907 C8080000 		.4byte	.LASF139
  1464 090b 13       		.byte	0x13
  1465 090c 38       		.byte	0x38
  1466 090d BF000000 		.4byte	0xbf
  1467 0911 06       		.byte	0x6
  1468 0912 07       		.uleb128 0x7
- 1469 0913 F8050000 		.4byte	.LASF140
+ 1469 0913 FF050000 		.4byte	.LASF140
  1470 0917 13       		.byte	0x13
  1471 0918 39       		.byte	0x39
  1472 0919 B4000000 		.4byte	0xb4
  1473 091d 08       		.byte	0x8
  1474 091e 07       		.uleb128 0x7
- 1475 091f 6B050000 		.4byte	.LASF141
+ 1475 091f 72050000 		.4byte	.LASF141
  1476 0923 13       		.byte	0x13
  1477 0924 3A       		.byte	0x3a
  1478 0925 B4000000 		.4byte	0xb4
  1479 0929 09       		.byte	0x9
  1480 092a 07       		.uleb128 0x7
-ARM GAS  C:\PROGRA~1\KMSpico\temp\ccSXL2V8.s 			page 27
+ARM GAS  C:\Users\mathi\AppData\Local\Temp\ccOic8SM.s 			page 27
 
 
  1481 092b DF000000 		.4byte	.LASF142
@@ -1567,70 +1567,70 @@ ARM GAS  C:\PROGRA~1\KMSpico\temp\ccSXL2V8.s 			page 1
  1484 0931 B4000000 		.4byte	0xb4
  1485 0935 0A       		.byte	0xa
  1486 0936 07       		.uleb128 0x7
- 1487 0937 1D070000 		.4byte	.LASF143
+ 1487 0937 24070000 		.4byte	.LASF143
  1488 093b 13       		.byte	0x13
  1489 093c 3C       		.byte	0x3c
  1490 093d B4000000 		.4byte	0xb4
  1491 0941 0B       		.byte	0xb
  1492 0942 07       		.uleb128 0x7
- 1493 0943 22080000 		.4byte	.LASF144
+ 1493 0943 29080000 		.4byte	.LASF144
  1494 0947 13       		.byte	0x13
  1495 0948 3D       		.byte	0x3d
  1496 0949 B4000000 		.4byte	0xb4
  1497 094d 0C       		.byte	0xc
  1498 094e 07       		.uleb128 0x7
- 1499 094f EF060000 		.4byte	.LASF145
+ 1499 094f F6060000 		.4byte	.LASF145
  1500 0953 13       		.byte	0x13
  1501 0954 3E       		.byte	0x3e
  1502 0955 B4000000 		.4byte	0xb4
  1503 0959 0D       		.byte	0xd
  1504 095a 07       		.uleb128 0x7
- 1505 095b FF020000 		.4byte	.LASF146
+ 1505 095b C6020000 		.4byte	.LASF146
  1506 095f 13       		.byte	0x13
  1507 0960 3F       		.byte	0x3f
  1508 0961 B4000000 		.4byte	0xb4
  1509 0965 0E       		.byte	0xe
  1510 0966 07       		.uleb128 0x7
- 1511 0967 8D050000 		.4byte	.LASF147
+ 1511 0967 94050000 		.4byte	.LASF147
  1512 096b 13       		.byte	0x13
  1513 096c 40       		.byte	0x40
  1514 096d B4000000 		.4byte	0xb4
  1515 0971 0F       		.byte	0xf
  1516 0972 07       		.uleb128 0x7
- 1517 0973 BC010000 		.4byte	.LASF148
+ 1517 0973 79010000 		.4byte	.LASF148
  1518 0977 13       		.byte	0x13
  1519 0978 41       		.byte	0x41
  1520 0979 B4000000 		.4byte	0xb4
  1521 097d 10       		.byte	0x10
  1522 097e 07       		.uleb128 0x7
- 1523 097f 95010000 		.4byte	.LASF149
+ 1523 097f 52010000 		.4byte	.LASF149
  1524 0983 13       		.byte	0x13
  1525 0984 43       		.byte	0x43
  1526 0985 B4000000 		.4byte	0xb4
  1527 0989 11       		.byte	0x11
  1528 098a 07       		.uleb128 0x7
- 1529 098b CC010000 		.4byte	.LASF150
+ 1529 098b 89010000 		.4byte	.LASF150
  1530 098f 13       		.byte	0x13
  1531 0990 44       		.byte	0x44
  1532 0991 B4000000 		.4byte	0xb4
  1533 0995 12       		.byte	0x12
  1534 0996 07       		.uleb128 0x7
- 1535 0997 FD040000 		.4byte	.LASF151
+ 1535 0997 04050000 		.4byte	.LASF151
  1536 099b 13       		.byte	0x13
  1537 099c 45       		.byte	0x45
-ARM GAS  C:\PROGRA~1\KMSpico\temp\ccSXL2V8.s 			page 28
+ARM GAS  C:\Users\mathi\AppData\Local\Temp\ccOic8SM.s 			page 28
 
 
  1538 099d B4000000 		.4byte	0xb4
  1539 09a1 13       		.byte	0x13
  1540 09a2 07       		.uleb128 0x7
- 1541 09a3 9C060000 		.4byte	.LASF152
+ 1541 09a3 A3060000 		.4byte	.LASF152
  1542 09a7 13       		.byte	0x13
  1543 09a8 46       		.byte	0x46
  1544 09a9 B4000000 		.4byte	0xb4
  1545 09ad 14       		.byte	0x14
  1546 09ae 07       		.uleb128 0x7
- 1547 09af A0040000 		.4byte	.LASF153
+ 1547 09af A7040000 		.4byte	.LASF153
  1548 09b3 13       		.byte	0x13
  1549 09b4 48       		.byte	0x48
  1550 09b5 B4000000 		.4byte	0xb4
@@ -1644,19 +1644,19 @@ ARM GAS  C:\PROGRA~1\KMSpico\temp\ccSXL2V8.s 			page 1
  1558 09c9 03       		.byte	0x3
  1559 09ca 00       		.byte	0
  1560 09cb 03       		.uleb128 0x3
- 1561 09cc DF080000 		.4byte	.LASF154
+ 1561 09cc EB010000 		.4byte	.LASF154
  1562 09d0 13       		.byte	0x13
  1563 09d1 49       		.byte	0x49
  1564 09d2 DA080000 		.4byte	0x8da
  1565 09d6 1B       		.uleb128 0x1b
  1566 09d7 CB090000 		.4byte	0x9cb
  1567 09db 13       		.uleb128 0x13
- 1568 09dc 30040000 		.4byte	.LASF155
+ 1568 09dc F7030000 		.4byte	.LASF155
  1569 09e0 13       		.byte	0x13
  1570 09e1 6E       		.byte	0x6e
  1571 09e2 D6090000 		.4byte	0x9d6
  1572 09e6 03       		.uleb128 0x3
- 1573 09e7 8C020000 		.4byte	.LASF156
+ 1573 09e7 53020000 		.4byte	.LASF156
  1574 09eb 12       		.byte	0x12
  1575 09ec 34       		.byte	0x34
  1576 09ed 59080000 		.4byte	0x859
@@ -1667,7 +1667,7 @@ ARM GAS  C:\PROGRA~1\KMSpico\temp\ccSXL2V8.s 			page 1
  1581 09f8 04       		.byte	0x4
  1582 09f9 B4000000 		.4byte	0xb4
  1583 09fd 1D       		.uleb128 0x1d
- 1584 09fe 80070000 		.4byte	.LASF157
+ 1584 09fe 87070000 		.4byte	.LASF157
  1585 0a02 01       		.byte	0x1
  1586 0a03 3E       		.byte	0x3e
  1587 0a04 F7090000 		.4byte	0x9f7
@@ -1678,7 +1678,7 @@ ARM GAS  C:\PROGRA~1\KMSpico\temp\ccSXL2V8.s 			page 1
  1592 0a0f 00000000 		.4byte	.LASF158
  1593 0a13 01       		.byte	0x1
  1594 0a14 3F       		.byte	0x3f
-ARM GAS  C:\PROGRA~1\KMSpico\temp\ccSXL2V8.s 			page 29
+ARM GAS  C:\Users\mathi\AppData\Local\Temp\ccOic8SM.s 			page 29
 
 
  1595 0a15 F7090000 		.4byte	0x9f7
@@ -1695,14 +1695,14 @@ ARM GAS  C:\PROGRA~1\KMSpico\temp\ccSXL2V8.s 			page 1
  1606 0a32 01       		.uleb128 0x1
  1607 0a33 9C       		.byte	0x9c
  1608 0a34 1F       		.uleb128 0x1f
- 1609 0a35 3E020000 		.4byte	.LASF179
+ 1609 0a35 05020000 		.4byte	.LASF179
  1610 0a39 01       		.byte	0x1
  1611 0a3a 83       		.byte	0x83
  1612 0a3b 8A030000 		.4byte	0x38a
  1613 0a3f 01       		.byte	0x1
  1614 0a40 590A0000 		.4byte	0xa59
  1615 0a44 20       		.uleb128 0x20
- 1616 0a45 8F080000 		.4byte	.LASF167
+ 1616 0a45 96080000 		.4byte	.LASF167
  1617 0a49 01       		.byte	0x1
  1618 0a4a 83       		.byte	0x83
  1619 0a4b 2C000000 		.4byte	0x2c
@@ -1723,7 +1723,7 @@ ARM GAS  C:\PROGRA~1\KMSpico\temp\ccSXL2V8.s 			page 1
  1634 0a6d 9C       		.byte	0x9c
  1635 0a6e 880B0000 		.4byte	0xb88
  1636 0a72 23       		.uleb128 0x23
- 1637 0a73 8F080000 		.4byte	.LASF167
+ 1637 0a73 96080000 		.4byte	.LASF167
  1638 0a77 01       		.byte	0x1
  1639 0a78 6D       		.byte	0x6d
  1640 0a79 2C000000 		.4byte	0x2c
@@ -1738,7 +1738,7 @@ ARM GAS  C:\PROGRA~1\KMSpico\temp\ccSXL2V8.s 			page 1
  1649 0a8f 04000000 		.4byte	.LBB33
  1650 0a93 0E000000 		.4byte	.LBE33-.LBB33
  1651 0a97 01       		.byte	0x1
-ARM GAS  C:\PROGRA~1\KMSpico\temp\ccSXL2V8.s 			page 30
+ARM GAS  C:\Users\mathi\AppData\Local\Temp\ccOic8SM.s 			page 30
 
 
  1652 0a98 70       		.byte	0x70
@@ -1798,7 +1798,7 @@ ARM GAS  C:\PROGRA~1\KMSpico\temp\ccSXL2V8.s 			page 1
  1706 0b27 2C       		.uleb128 0x2c
  1707 0b28 00000000 		.4byte	.Ldebug_ranges0+0
  1708 0b2c 2D       		.uleb128 0x2d
-ARM GAS  C:\PROGRA~1\KMSpico\temp\ccSXL2V8.s 			page 31
+ARM GAS  C:\Users\mathi\AppData\Local\Temp\ccOic8SM.s 			page 31
 
 
  1709 0b2d CC0B0000 		.4byte	0xbcc
@@ -1840,7 +1840,7 @@ ARM GAS  C:\PROGRA~1\KMSpico\temp\ccSXL2V8.s 			page 1
  1745 0b86 00       		.byte	0
  1746 0b87 00       		.byte	0
  1747 0b88 32       		.uleb128 0x32
- 1748 0b89 41060000 		.4byte	.LASF181
+ 1748 0b89 48060000 		.4byte	.LASF181
  1749 0b8d 01       		.byte	0x1
  1750 0b8e 4E       		.byte	0x4e
  1751 0b8f 00000000 		.4byte	.LFB219
@@ -1849,16 +1849,16 @@ ARM GAS  C:\PROGRA~1\KMSpico\temp\ccSXL2V8.s 			page 1
  1754 0b98 9C       		.byte	0x9c
  1755 0b99 B40B0000 		.4byte	0xbb4
  1756 0b9d 13       		.uleb128 0x13
- 1757 0b9e 14080000 		.4byte	.LASF159
+ 1757 0b9e 1B080000 		.4byte	.LASF159
  1758 0ba2 01       		.byte	0x1
  1759 0ba3 50       		.byte	0x50
  1760 0ba4 B40B0000 		.4byte	0xbb4
  1761 0ba8 13       		.uleb128 0x13
- 1762 0ba9 72060000 		.4byte	.LASF160
+ 1762 0ba9 79060000 		.4byte	.LASF160
  1763 0bad 01       		.byte	0x1
  1764 0bae 51       		.byte	0x51
  1765 0baf B40B0000 		.4byte	0xbb4
-ARM GAS  C:\PROGRA~1\KMSpico\temp\ccSXL2V8.s 			page 32
+ARM GAS  C:\Users\mathi\AppData\Local\Temp\ccOic8SM.s 			page 32
 
 
  1766 0bb3 00       		.byte	0
@@ -1868,15 +1868,15 @@ ARM GAS  C:\PROGRA~1\KMSpico\temp\ccSXL2V8.s 			page 1
  1770 0bbd 33       		.uleb128 0x33
  1771 0bbe 00       		.byte	0
  1772 0bbf 34       		.uleb128 0x34
- 1773 0bc0 B5080000 		.4byte	.LASF165
+ 1773 0bc0 BC080000 		.4byte	.LASF165
  1774 0bc4 03       		.byte	0x3
  1775 0bc5 6601     		.2byte	0x166
  1776 0bc7 03       		.byte	0x3
  1777 0bc8 DA0B0000 		.4byte	0xbda
  1778 0bcc 35       		.uleb128 0x35
- 1779 0bcd B3060000 		.4byte	.LASF161
+ 1779 0bcd BA060000 		.4byte	.LASF161
  1780 0bd1 EA0B0000 		.4byte	0xbea
- 1781 0bd5 B5080000 		.4byte	.LASF165
+ 1781 0bd5 BC080000 		.4byte	.LASF165
  1782 0bd9 00       		.byte	0
  1783 0bda 17       		.uleb128 0x17
  1784 0bdb AE080000 		.4byte	0x8ae
@@ -1888,12 +1888,12 @@ ARM GAS  C:\PROGRA~1\KMSpico\temp\ccSXL2V8.s 			page 1
  1790 0bea 1B       		.uleb128 0x1b
  1791 0beb DA0B0000 		.4byte	0xbda
  1792 0bef 36       		.uleb128 0x36
- 1793 0bf0 C4060000 		.4byte	.LASF162
+ 1793 0bf0 CB060000 		.4byte	.LASF162
  1794 0bf4 03       		.byte	0x3
  1795 0bf5 5A01     		.2byte	0x15a
  1796 0bf7 03       		.byte	0x3
  1797 0bf8 36       		.uleb128 0x36
- 1798 0bf9 F0010000 		.4byte	.LASF163
+ 1798 0bf9 AD010000 		.4byte	.LASF163
  1799 0bfd 0D       		.byte	0xd
  1800 0bfe CA01     		.2byte	0x1ca
  1801 0c00 03       		.byte	0x3
@@ -1903,13 +1903,13 @@ ARM GAS  C:\PROGRA~1\KMSpico\temp\ccSXL2V8.s 			page 1
  1805 0c07 BC01     		.2byte	0x1bc
  1806 0c09 03       		.byte	0x3
  1807 0c0a 34       		.uleb128 0x34
- 1808 0c0b B8070000 		.4byte	.LASF166
+ 1808 0c0b BF070000 		.4byte	.LASF166
  1809 0c0f 02       		.byte	0x2
  1810 0c10 2002     		.2byte	0x220
  1811 0c12 03       		.byte	0x3
  1812 0c13 240C0000 		.4byte	0xc24
  1813 0c17 37       		.uleb128 0x37
- 1814 0c18 94020000 		.4byte	.LASF168
+ 1814 0c18 5B020000 		.4byte	.LASF168
  1815 0c1c 02       		.byte	0x2
  1816 0c1d 2002     		.2byte	0x220
  1817 0c1f DA000000 		.4byte	0xda
@@ -1918,7 +1918,7 @@ ARM GAS  C:\PROGRA~1\KMSpico\temp\ccSXL2V8.s 			page 1
  1820 0c25 340A0000 		.4byte	0xa34
  1821 0c29 00000000 		.4byte	.LFB221
  1822 0c2d 2C000000 		.4byte	.LFE221-.LFB221
-ARM GAS  C:\PROGRA~1\KMSpico\temp\ccSXL2V8.s 			page 33
+ARM GAS  C:\Users\mathi\AppData\Local\Temp\ccOic8SM.s 			page 33
 
 
  1823 0c31 01       		.uleb128 0x1
@@ -1935,33 +1935,33 @@ ARM GAS  C:\PROGRA~1\KMSpico\temp\ccSXL2V8.s 			page 1
  1834 0c4e 690C0000 		.4byte	0xc69
  1835 0c52 00       		.byte	0
  1836 0c53 39       		.uleb128 0x39
- 1837 0c54 44010000 		.4byte	.LASF169
- 1838 0c58 44010000 		.4byte	.LASF169
+ 1837 0c54 01010000 		.4byte	.LASF169
+ 1838 0c58 01010000 		.4byte	.LASF169
  1839 0c5c 10       		.byte	0x10
  1840 0c5d 4F       		.byte	0x4f
  1841 0c5e 39       		.uleb128 0x39
- 1842 0c5f 38050000 		.4byte	.LASF170
- 1843 0c63 38050000 		.4byte	.LASF170
+ 1842 0c5f 3F050000 		.4byte	.LASF170
+ 1843 0c63 3F050000 		.4byte	.LASF170
  1844 0c67 0E       		.byte	0xe
  1845 0c68 D8       		.byte	0xd8
  1846 0c69 39       		.uleb128 0x39
- 1847 0c6a 83040000 		.4byte	.LASF171
- 1848 0c6e 83040000 		.4byte	.LASF171
+ 1847 0c6a 4A040000 		.4byte	.LASF171
+ 1848 0c6e 4A040000 		.4byte	.LASF171
  1849 0c72 0E       		.byte	0xe
  1850 0c73 DE       		.byte	0xde
  1851 0c74 39       		.uleb128 0x39
- 1852 0c75 5C080000 		.4byte	.LASF172
- 1853 0c79 5C080000 		.4byte	.LASF172
+ 1852 0c75 63080000 		.4byte	.LASF172
+ 1853 0c79 63080000 		.4byte	.LASF172
  1854 0c7d 0E       		.byte	0xe
  1855 0c7e D9       		.byte	0xd9
  1856 0c7f 39       		.uleb128 0x39
- 1857 0c80 13050000 		.4byte	.LASF173
- 1858 0c84 13050000 		.4byte	.LASF173
+ 1857 0c80 1A050000 		.4byte	.LASF173
+ 1858 0c84 1A050000 		.4byte	.LASF173
  1859 0c88 10       		.byte	0x10
  1860 0c89 50       		.byte	0x50
  1861 0c8a 3A       		.uleb128 0x3a
- 1862 0c8b 6C020000 		.4byte	.LASF174
- 1863 0c8f 6C020000 		.4byte	.LASF174
+ 1862 0c8b 33020000 		.4byte	.LASF174
+ 1863 0c8f 33020000 		.4byte	.LASF174
  1864 0c93 03       		.byte	0x3
  1865 0c94 1601     		.2byte	0x116
  1866 0c96 00       		.byte	0
@@ -1978,7 +1978,7 @@ ARM GAS  C:\PROGRA~1\KMSpico\temp\ccSXL2V8.s 			page 1
  1877 0008 0E       		.uleb128 0xe
  1878 0009 1B       		.uleb128 0x1b
  1879 000a 0E       		.uleb128 0xe
-ARM GAS  C:\PROGRA~1\KMSpico\temp\ccSXL2V8.s 			page 34
+ARM GAS  C:\Users\mathi\AppData\Local\Temp\ccOic8SM.s 			page 34
 
 
  1880 000b 55       		.uleb128 0x55
@@ -2038,7 +2038,7 @@ ARM GAS  C:\PROGRA~1\KMSpico\temp\ccSXL2V8.s 			page 1
  1934 0041 0E       		.uleb128 0xe
  1935 0042 0B       		.uleb128 0xb
  1936 0043 0B       		.uleb128 0xb
-ARM GAS  C:\PROGRA~1\KMSpico\temp\ccSXL2V8.s 			page 35
+ARM GAS  C:\Users\mathi\AppData\Local\Temp\ccOic8SM.s 			page 35
 
 
  1937 0044 3A       		.uleb128 0x3a
@@ -2098,7 +2098,7 @@ ARM GAS  C:\PROGRA~1\KMSpico\temp\ccSXL2V8.s 			page 1
  1991 007a 0F       		.uleb128 0xf
  1992 007b 00       		.byte	0
  1993 007c 0B       		.uleb128 0xb
-ARM GAS  C:\PROGRA~1\KMSpico\temp\ccSXL2V8.s 			page 36
+ARM GAS  C:\Users\mathi\AppData\Local\Temp\ccOic8SM.s 			page 36
 
 
  1994 007d 0B       		.uleb128 0xb
@@ -2158,7 +2158,7 @@ ARM GAS  C:\PROGRA~1\KMSpico\temp\ccSXL2V8.s 			page 1
  2048 00b3 01       		.uleb128 0x1
  2049 00b4 13       		.uleb128 0x13
  2050 00b5 00       		.byte	0
-ARM GAS  C:\PROGRA~1\KMSpico\temp\ccSXL2V8.s 			page 37
+ARM GAS  C:\Users\mathi\AppData\Local\Temp\ccOic8SM.s 			page 37
 
 
  2051 00b6 00       		.byte	0
@@ -2218,7 +2218,7 @@ ARM GAS  C:\PROGRA~1\KMSpico\temp\ccSXL2V8.s 			page 1
  2105 00ec 0B       		.uleb128 0xb
  2106 00ed 3B       		.uleb128 0x3b
  2107 00ee 0B       		.uleb128 0xb
-ARM GAS  C:\PROGRA~1\KMSpico\temp\ccSXL2V8.s 			page 38
+ARM GAS  C:\Users\mathi\AppData\Local\Temp\ccOic8SM.s 			page 38
 
 
  2108 00ef 49       		.uleb128 0x49
@@ -2278,7 +2278,7 @@ ARM GAS  C:\PROGRA~1\KMSpico\temp\ccSXL2V8.s 			page 1
  2162 0125 01       		.uleb128 0x1
  2163 0126 13       		.uleb128 0x13
  2164 0127 00       		.byte	0
-ARM GAS  C:\PROGRA~1\KMSpico\temp\ccSXL2V8.s 			page 39
+ARM GAS  C:\Users\mathi\AppData\Local\Temp\ccOic8SM.s 			page 39
 
 
  2165 0128 00       		.byte	0
@@ -2338,7 +2338,7 @@ ARM GAS  C:\PROGRA~1\KMSpico\temp\ccSXL2V8.s 			page 1
  2219 015e 3F       		.uleb128 0x3f
  2220 015f 19       		.uleb128 0x19
  2221 0160 3C       		.uleb128 0x3c
-ARM GAS  C:\PROGRA~1\KMSpico\temp\ccSXL2V8.s 			page 40
+ARM GAS  C:\Users\mathi\AppData\Local\Temp\ccOic8SM.s 			page 40
 
 
  2222 0161 19       		.uleb128 0x19
@@ -2398,7 +2398,7 @@ ARM GAS  C:\PROGRA~1\KMSpico\temp\ccSXL2V8.s 			page 1
  2276 0198 27       		.uleb128 0x27
  2277 0199 19       		.uleb128 0x19
  2278 019a 49       		.uleb128 0x49
-ARM GAS  C:\PROGRA~1\KMSpico\temp\ccSXL2V8.s 			page 41
+ARM GAS  C:\Users\mathi\AppData\Local\Temp\ccOic8SM.s 			page 41
 
 
  2279 019b 13       		.uleb128 0x13
@@ -2458,7 +2458,7 @@ ARM GAS  C:\PROGRA~1\KMSpico\temp\ccSXL2V8.s 			page 1
  2333 01d1 9742     		.uleb128 0x2117
  2334 01d3 19       		.uleb128 0x19
  2335 01d4 01       		.uleb128 0x1
-ARM GAS  C:\PROGRA~1\KMSpico\temp\ccSXL2V8.s 			page 42
+ARM GAS  C:\Users\mathi\AppData\Local\Temp\ccOic8SM.s 			page 42
 
 
  2336 01d5 13       		.uleb128 0x13
@@ -2518,7 +2518,7 @@ ARM GAS  C:\PROGRA~1\KMSpico\temp\ccSXL2V8.s 			page 1
  2390 020b 01       		.byte	0x1
  2391 020c 31       		.uleb128 0x31
  2392 020d 13       		.uleb128 0x13
-ARM GAS  C:\PROGRA~1\KMSpico\temp\ccSXL2V8.s 			page 43
+ARM GAS  C:\Users\mathi\AppData\Local\Temp\ccOic8SM.s 			page 43
 
 
  2393 020e 11       		.uleb128 0x11
@@ -2578,7 +2578,7 @@ ARM GAS  C:\PROGRA~1\KMSpico\temp\ccSXL2V8.s 			page 1
  2447 0246 17       		.uleb128 0x17
  2448 0247 58       		.uleb128 0x58
  2449 0248 0B       		.uleb128 0xb
-ARM GAS  C:\PROGRA~1\KMSpico\temp\ccSXL2V8.s 			page 44
+ARM GAS  C:\Users\mathi\AppData\Local\Temp\ccOic8SM.s 			page 44
 
 
  2450 0249 59       		.uleb128 0x59
@@ -2638,7 +2638,7 @@ ARM GAS  C:\PROGRA~1\KMSpico\temp\ccSXL2V8.s 			page 1
  2504 0281 01       		.uleb128 0x1
  2505 0282 31       		.uleb128 0x31
  2506 0283 13       		.uleb128 0x13
-ARM GAS  C:\PROGRA~1\KMSpico\temp\ccSXL2V8.s 			page 45
+ARM GAS  C:\Users\mathi\AppData\Local\Temp\ccOic8SM.s 			page 45
 
 
  2507 0284 00       		.byte	0
@@ -2698,7 +2698,7 @@ ARM GAS  C:\PROGRA~1\KMSpico\temp\ccSXL2V8.s 			page 1
  2561 02be 01       		.uleb128 0x1
  2562 02bf 13       		.uleb128 0x13
  2563 02c0 00       		.byte	0
-ARM GAS  C:\PROGRA~1\KMSpico\temp\ccSXL2V8.s 			page 46
+ARM GAS  C:\Users\mathi\AppData\Local\Temp\ccOic8SM.s 			page 46
 
 
  2564 02c1 00       		.byte	0
@@ -2758,7 +2758,7 @@ ARM GAS  C:\PROGRA~1\KMSpico\temp\ccSXL2V8.s 			page 1
  2618 02f8 19       		.uleb128 0x19
  2619 02f9 01       		.uleb128 0x1
  2620 02fa 13       		.uleb128 0x13
-ARM GAS  C:\PROGRA~1\KMSpico\temp\ccSXL2V8.s 			page 47
+ARM GAS  C:\Users\mathi\AppData\Local\Temp\ccOic8SM.s 			page 47
 
 
  2621 02fb 00       		.byte	0
@@ -2818,7 +2818,7 @@ ARM GAS  C:\PROGRA~1\KMSpico\temp\ccSXL2V8.s 			page 1
  2675 0023 9F       		.byte	0x9f
  2676 0024 00000000 		.4byte	0
  2677 0028 00000000 		.4byte	0
-ARM GAS  C:\PROGRA~1\KMSpico\temp\ccSXL2V8.s 			page 48
+ARM GAS  C:\Users\mathi\AppData\Local\Temp\ccOic8SM.s 			page 48
 
 
  2678              	.LLST1:
@@ -2878,7 +2878,7 @@ ARM GAS  C:\PROGRA~1\KMSpico\temp\ccSXL2V8.s 			page 1
  2732 00ad 07000000 		.4byte	.LVL18-1
  2733 00b1 16000000 		.4byte	.LVL19
  2734 00b5 0100     		.2byte	0x1
-ARM GAS  C:\PROGRA~1\KMSpico\temp\ccSXL2V8.s 			page 49
+ARM GAS  C:\Users\mathi\AppData\Local\Temp\ccOic8SM.s 			page 49
 
 
  2735 00b7 54       		.byte	0x54
@@ -2938,7 +2938,7 @@ ARM GAS  C:\PROGRA~1\KMSpico\temp\ccSXL2V8.s 			page 1
  2789              	.Ldebug_ranges0:
  2790 0000 30000000 		.4byte	.LBB40
  2791 0004 50000000 		.4byte	.LBE40
-ARM GAS  C:\PROGRA~1\KMSpico\temp\ccSXL2V8.s 			page 50
+ARM GAS  C:\Users\mathi\AppData\Local\Temp\ccOic8SM.s 			page 50
 
 
  2792 0008 54000000 		.4byte	.LBB49
@@ -2963,8 +2963,8 @@ ARM GAS  C:\PROGRA~1\KMSpico\temp\ccSXL2V8.s 			page 1
  2811 0054 00000000 		.4byte	0
  2812              		.section	.debug_line,"",%progbits
  2813              	.Ldebug_line0:
- 2814 0000 2F040000 		.section	.debug_str,"MS",%progbits,1
- 2814      02009503 
+ 2814 0000 B4030000 		.section	.debug_str,"MS",%progbits,1
+ 2814      02001A03 
  2814      00000201 
  2814      FB0E0D00 
  2814      01010101 
@@ -2998,7 +2998,7 @@ ARM GAS  C:\PROGRA~1\KMSpico\temp\ccSXL2V8.s 			page 1
  2830 0040 6368436F 		.ascii	"chCoreAlloc\000"
  2830      7265416C 
  2830      6C6F6300 
-ARM GAS  C:\PROGRA~1\KMSpico\temp\ccSXL2V8.s 			page 51
+ARM GAS  C:\Users\mathi\AppData\Local\Temp\ccOic8SM.s 			page 51
 
 
  2831              	.LASF5:
@@ -3056,743 +3056,743 @@ ARM GAS  C:\PROGRA~1\KMSpico\temp\ccSXL2V8.s 			page 1
  2852      68726561 
  2852      6473697A 
  2852      6500
- 2853              	.LASF177:
- 2854 00ed 433A5C55 		.ascii	"C:\\Users\\41774\\Documents\\EPFL\\BA6\\robotique\\"
-ARM GAS  C:\PROGRA~1\KMSpico\temp\ccSXL2V8.s 			page 52
+ 2853              	.LASF121:
+ 2854 00ed 65786974 		.ascii	"exitcode\000"
+ARM GAS  C:\Users\mathi\AppData\Local\Temp\ccOic8SM.s 			page 52
 
 
- 2854      73657273 
- 2854      5C343137 
- 2854      37345C44 
- 2854      6F63756D 
- 2855 0119 54505C54 		.ascii	"TP\\TP3\\TP3_Chibi\\Chibi\000"
- 2855      50335C54 
- 2855      50335F43 
- 2855      68696269 
- 2855      5C436869 
- 2856              	.LASF121:
- 2857 0130 65786974 		.ascii	"exitcode\000"
- 2857      636F6465 
- 2857      00
- 2858              	.LASF90:
- 2859 0139 6D61696E 		.ascii	"mainthread\000"
- 2859      74687265 
- 2859      616400
- 2860              	.LASF169:
- 2861 0144 5F737461 		.ascii	"_stats_start_measure_crit_thd\000"
- 2861      74735F73 
- 2861      74617274 
- 2861      5F6D6561 
- 2861      73757265 
- 2862              	.LASF77:
- 2863 0162 76697274 		.ascii	"virtual_timers_list_t\000"
- 2863      75616C5F 
- 2863      74696D65 
- 2863      72735F6C 
- 2863      6973745F 
- 2864              	.LASF93:
- 2865 0178 49544D5F 		.ascii	"ITM_RxBuffer\000"
- 2865      52784275 
- 2865      66666572 
- 2865      00
- 2866              	.LASF22:
- 2867 0185 72747469 		.ascii	"rttime_t\000"
- 2867      6D655F74 
- 2867      00
- 2868              	.LASF36:
- 2869 018e 705F7072 		.ascii	"p_prio\000"
- 2869      696F00
- 2870              	.LASF149:
- 2871 0195 63665F6F 		.ascii	"cf_off_state\000"
- 2871      66665F73 
- 2871      74617465 
- 2871      00
- 2872              	.LASF1:
- 2873 01a2 6C6F6E67 		.ascii	"long long int\000"
- 2873      206C6F6E 
- 2873      6720696E 
- 2873      7400
- 2874              	.LASF3:
- 2875 01b0 7369676E 		.ascii	"signed char\000"
- 2875      65642063 
- 2875      68617200 
- 2876              	.LASF148:
- 2877 01bc 63665F6F 		.ascii	"cf_off_stklimit\000"
-ARM GAS  C:\PROGRA~1\KMSpico\temp\ccSXL2V8.s 			page 53
+ 2854      636F6465 
+ 2854      00
+ 2855              	.LASF90:
+ 2856 00f6 6D61696E 		.ascii	"mainthread\000"
+ 2856      74687265 
+ 2856      616400
+ 2857              	.LASF169:
+ 2858 0101 5F737461 		.ascii	"_stats_start_measure_crit_thd\000"
+ 2858      74735F73 
+ 2858      74617274 
+ 2858      5F6D6561 
+ 2858      73757265 
+ 2859              	.LASF77:
+ 2860 011f 76697274 		.ascii	"virtual_timers_list_t\000"
+ 2860      75616C5F 
+ 2860      74696D65 
+ 2860      72735F6C 
+ 2860      6973745F 
+ 2861              	.LASF93:
+ 2862 0135 49544D5F 		.ascii	"ITM_RxBuffer\000"
+ 2862      52784275 
+ 2862      66666572 
+ 2862      00
+ 2863              	.LASF22:
+ 2864 0142 72747469 		.ascii	"rttime_t\000"
+ 2864      6D655F74 
+ 2864      00
+ 2865              	.LASF36:
+ 2866 014b 705F7072 		.ascii	"p_prio\000"
+ 2866      696F00
+ 2867              	.LASF149:
+ 2868 0152 63665F6F 		.ascii	"cf_off_state\000"
+ 2868      66665F73 
+ 2868      74617465 
+ 2868      00
+ 2869              	.LASF1:
+ 2870 015f 6C6F6E67 		.ascii	"long long int\000"
+ 2870      206C6F6E 
+ 2870      6720696E 
+ 2870      7400
+ 2871              	.LASF3:
+ 2872 016d 7369676E 		.ascii	"signed char\000"
+ 2872      65642063 
+ 2872      68617200 
+ 2873              	.LASF148:
+ 2874 0179 63665F6F 		.ascii	"cf_off_stklimit\000"
+ 2874      66665F73 
+ 2874      746B6C69 
+ 2874      6D697400 
+ 2875              	.LASF150:
+ 2876 0189 63665F6F 		.ascii	"cf_off_flags\000"
+ 2876      66665F66 
+ 2876      6C616773 
+ 2876      00
+ 2877              	.LASF53:
+ 2878 0196 705F6D70 		.ascii	"p_mpool\000"
+ 2878      6F6F6C00 
+ARM GAS  C:\Users\mathi\AppData\Local\Temp\ccOic8SM.s 			page 53
 
 
- 2877      66665F73 
- 2877      746B6C69 
- 2877      6D697400 
- 2878              	.LASF150:
- 2879 01cc 63665F6F 		.ascii	"cf_off_flags\000"
- 2879      66665F66 
- 2879      6C616773 
- 2879      00
- 2880              	.LASF53:
- 2881 01d9 705F6D70 		.ascii	"p_mpool\000"
- 2881      6F6F6C00 
- 2882              	.LASF131:
- 2883 01e1 6D5F7175 		.ascii	"m_queue\000"
- 2883      65756500 
- 2884              	.LASF89:
- 2885 01e9 76746C69 		.ascii	"vtlist\000"
- 2885      737400
- 2886              	.LASF163:
- 2887 01f0 706F7274 		.ascii	"port_unlock\000"
- 2887      5F756E6C 
- 2887      6F636B00 
- 2888              	.LASF26:
- 2889 01fc 74736C69 		.ascii	"tslices_t\000"
- 2889      6365735F 
- 2889      7400
- 2890              	.LASF123:
- 2891 0206 77747472 		.ascii	"wttrp\000"
- 2891      7000
- 2892              	.LASF87:
- 2893 020c 63685F73 		.ascii	"ch_system\000"
- 2893      79737465 
- 2893      6D00
- 2894              	.LASF11:
- 2895 0216 6C6F6E67 		.ascii	"long int\000"
- 2895      20696E74 
- 2895      00
- 2896              	.LASF24:
- 2897 021f 74737461 		.ascii	"tstate_t\000"
- 2897      74655F74 
- 2897      00
- 2898              	.LASF100:
- 2899 0228 73655F74 		.ascii	"se_tp\000"
- 2899      7000
- 2900              	.LASF38:
- 2901 022e 705F6E65 		.ascii	"p_newer\000"
- 2901      77657200 
- 2902              	.LASF128:
- 2903 0236 735F7175 		.ascii	"s_queue\000"
- 2903      65756500 
- 2904              	.LASF179:
- 2905 023e 6368436F 		.ascii	"chCoreAllocI\000"
- 2905      7265416C 
- 2905      6C6F6349 
- 2905      00
- 2906              	.LASF104:
- 2907 024b 74625F73 		.ascii	"tb_size\000"
- 2907      697A6500 
-ARM GAS  C:\PROGRA~1\KMSpico\temp\ccSXL2V8.s 			page 54
+ 2879              	.LASF131:
+ 2880 019e 6D5F7175 		.ascii	"m_queue\000"
+ 2880      65756500 
+ 2881              	.LASF89:
+ 2882 01a6 76746C69 		.ascii	"vtlist\000"
+ 2882      737400
+ 2883              	.LASF163:
+ 2884 01ad 706F7274 		.ascii	"port_unlock\000"
+ 2884      5F756E6C 
+ 2884      6F636B00 
+ 2885              	.LASF26:
+ 2886 01b9 74736C69 		.ascii	"tslices_t\000"
+ 2886      6365735F 
+ 2886      7400
+ 2887              	.LASF123:
+ 2888 01c3 77747472 		.ascii	"wttrp\000"
+ 2888      7000
+ 2889              	.LASF87:
+ 2890 01c9 63685F73 		.ascii	"ch_system\000"
+ 2890      79737465 
+ 2890      6D00
+ 2891              	.LASF11:
+ 2892 01d3 6C6F6E67 		.ascii	"long int\000"
+ 2892      20696E74 
+ 2892      00
+ 2893              	.LASF24:
+ 2894 01dc 74737461 		.ascii	"tstate_t\000"
+ 2894      74655F74 
+ 2894      00
+ 2895              	.LASF100:
+ 2896 01e5 73655F74 		.ascii	"se_tp\000"
+ 2896      7000
+ 2897              	.LASF154:
+ 2898 01eb 63686465 		.ascii	"chdebug_t\000"
+ 2898      6275675F 
+ 2898      7400
+ 2899              	.LASF38:
+ 2900 01f5 705F6E65 		.ascii	"p_newer\000"
+ 2900      77657200 
+ 2901              	.LASF128:
+ 2902 01fd 735F7175 		.ascii	"s_queue\000"
+ 2902      65756500 
+ 2903              	.LASF179:
+ 2904 0205 6368436F 		.ascii	"chCoreAllocI\000"
+ 2904      7265416C 
+ 2904      6C6F6349 
+ 2904      00
+ 2905              	.LASF104:
+ 2906 0212 74625F73 		.ascii	"tb_size\000"
+ 2906      697A6500 
+ 2907              	.LASF66:
+ 2908 021a 725F6E65 		.ascii	"r_newer\000"
+ 2908      77657200 
+ 2909              	.LASF95:
+ 2910 0222 72656761 		.ascii	"regarm_t\000"
+ 2910      726D5F74 
+ 2910      00
+ARM GAS  C:\Users\mathi\AppData\Local\Temp\ccOic8SM.s 			page 54
 
 
- 2908              	.LASF66:
- 2909 0253 725F6E65 		.ascii	"r_newer\000"
- 2909      77657200 
- 2910              	.LASF95:
- 2911 025b 72656761 		.ascii	"regarm_t\000"
- 2911      726D5F74 
- 2911      00
- 2912              	.LASF73:
- 2913 0264 76745F70 		.ascii	"vt_prev\000"
- 2913      72657600 
- 2914              	.LASF174:
- 2915 026c 63685379 		.ascii	"chSysHalt\000"
- 2915      7348616C 
- 2915      7400
- 2916              	.LASF81:
- 2917 0276 63685F73 		.ascii	"ch_system_debug\000"
- 2917      79737465 
- 2917      6D5F6465 
- 2917      62756700 
- 2918              	.LASF134:
- 2919 0286 6D5F636E 		.ascii	"m_cnt\000"
- 2919      7400
- 2920              	.LASF156:
- 2921 028c 6D757465 		.ascii	"mutex_t\000"
- 2921      785F7400 
- 2922              	.LASF168:
- 2923 0294 76616C75 		.ascii	"value\000"
- 2923      6500
- 2924              	.LASF84:
- 2925 029a 6C6F636B 		.ascii	"lock_cnt\000"
- 2925      5F636E74 
- 2925      00
- 2926              	.LASF92:
- 2927 02a3 69646C65 		.ascii	"idle_thread_wa\000"
- 2927      5F746872 
- 2927      6561645F 
- 2927      776100
- 2928              	.LASF30:
- 2929 02b2 636E745F 		.ascii	"cnt_t\000"
- 2929      7400
- 2930              	.LASF41:
- 2931 02b8 705F7374 		.ascii	"p_stklimit\000"
- 2931      6B6C696D 
- 2931      697400
- 2932              	.LASF0:
- 2933 02c3 756E7369 		.ascii	"unsigned int\000"
- 2933      676E6564 
- 2933      20696E74 
- 2933      00
- 2934              	.LASF72:
- 2935 02d0 76745F6E 		.ascii	"vt_next\000"
- 2935      65787400 
- 2936              	.LASF17:
- 2937 02d8 75696E74 		.ascii	"uint16_t\000"
- 2937      31365F74 
- 2937      00
- 2938              	.LASF94:
-ARM GAS  C:\PROGRA~1\KMSpico\temp\ccSXL2V8.s 			page 55
+ 2911              	.LASF73:
+ 2912 022b 76745F70 		.ascii	"vt_prev\000"
+ 2912      72657600 
+ 2913              	.LASF174:
+ 2914 0233 63685379 		.ascii	"chSysHalt\000"
+ 2914      7348616C 
+ 2914      7400
+ 2915              	.LASF81:
+ 2916 023d 63685F73 		.ascii	"ch_system_debug\000"
+ 2916      79737465 
+ 2916      6D5F6465 
+ 2916      62756700 
+ 2917              	.LASF134:
+ 2918 024d 6D5F636E 		.ascii	"m_cnt\000"
+ 2918      7400
+ 2919              	.LASF156:
+ 2920 0253 6D757465 		.ascii	"mutex_t\000"
+ 2920      785F7400 
+ 2921              	.LASF168:
+ 2922 025b 76616C75 		.ascii	"value\000"
+ 2922      6500
+ 2923              	.LASF84:
+ 2924 0261 6C6F636B 		.ascii	"lock_cnt\000"
+ 2924      5F636E74 
+ 2924      00
+ 2925              	.LASF92:
+ 2926 026a 69646C65 		.ascii	"idle_thread_wa\000"
+ 2926      5F746872 
+ 2926      6561645F 
+ 2926      776100
+ 2927              	.LASF30:
+ 2928 0279 636E745F 		.ascii	"cnt_t\000"
+ 2928      7400
+ 2929              	.LASF41:
+ 2930 027f 705F7374 		.ascii	"p_stklimit\000"
+ 2930      6B6C696D 
+ 2930      697400
+ 2931              	.LASF0:
+ 2932 028a 756E7369 		.ascii	"unsigned int\000"
+ 2932      676E6564 
+ 2932      20696E74 
+ 2932      00
+ 2933              	.LASF72:
+ 2934 0297 76745F6E 		.ascii	"vt_next\000"
+ 2934      65787400 
+ 2935              	.LASF17:
+ 2936 029f 75696E74 		.ascii	"uint16_t\000"
+ 2936      31365F74 
+ 2936      00
+ 2937              	.LASF94:
+ 2938 02a8 53797374 		.ascii	"SystemCoreClock\000"
+ 2938      656D436F 
+ 2938      7265436C 
+ 2938      6F636B00 
+ 2939              	.LASF46:
+ 2940 02b8 705F7469 		.ascii	"p_time\000"
+ 2940      6D6500
+ARM GAS  C:\Users\mathi\AppData\Local\Temp\ccOic8SM.s 			page 55
 
 
- 2939 02e1 53797374 		.ascii	"SystemCoreClock\000"
- 2939      656D436F 
- 2939      7265436C 
- 2939      6F636B00 
- 2940              	.LASF46:
- 2941 02f1 705F7469 		.ascii	"p_time\000"
- 2941      6D6500
- 2942              	.LASF124:
- 2943 02f8 77747365 		.ascii	"wtsemp\000"
- 2943      6D7000
- 2944              	.LASF146:
- 2945 02ff 63665F6F 		.ascii	"cf_off_older\000"
- 2945      66665F6F 
- 2945      6C646572 
- 2945      00
- 2946              	.LASF175:
- 2947 030c 474E5520 		.ascii	"GNU C11 7.2.1 20170904 (release) [ARM/embedded-7-br"
- 2947      43313120 
- 2947      372E322E 
- 2947      31203230 
- 2947      31373039 
- 2948 033f 616E6368 		.ascii	"anch revision 255204] -mcpu=cortex-m4 -mfloat-abi=h"
- 2948      20726576 
- 2948      6973696F 
- 2948      6E203235 
- 2948      35323034 
- 2949 0372 61726420 		.ascii	"ard -mfpu=fpv4-sp-d16 -mno-thumb-interwork -mthumb "
- 2949      2D6D6670 
- 2949      753D6670 
- 2949      76342D73 
- 2949      702D6431 
- 2950 03a5 2D676764 		.ascii	"-ggdb -O2 -fomit-frame-pointer -falign-functions=16"
- 2950      62202D4F 
- 2950      32202D66 
- 2950      6F6D6974 
- 2950      2D667261 
- 2951 03d8 202D6666 		.ascii	" -ffunction-sections -fdata-sections -fno-common -f"
- 2951      756E6374 
- 2951      696F6E2D 
- 2951      73656374 
- 2951      696F6E73 
- 2952 040b 73696E67 		.ascii	"single-precision-constant\000"
- 2952      6C652D70 
- 2952      72656369 
- 2952      73696F6E 
- 2952      2D636F6E 
- 2953              	.LASF48:
- 2954 0425 705F6D73 		.ascii	"p_msgqueue\000"
- 2954      67717565 
- 2954      756500
- 2955              	.LASF155:
- 2956 0430 63685F64 		.ascii	"ch_debug\000"
- 2956      65627567 
- 2956      00
- 2957              	.LASF115:
- 2958 0439 6E5F6972 		.ascii	"n_irq\000"
- 2958      7100
-ARM GAS  C:\PROGRA~1\KMSpico\temp\ccSXL2V8.s 			page 56
+ 2941              	.LASF124:
+ 2942 02bf 77747365 		.ascii	"wtsemp\000"
+ 2942      6D7000
+ 2943              	.LASF146:
+ 2944 02c6 63665F6F 		.ascii	"cf_off_older\000"
+ 2944      66665F6F 
+ 2944      6C646572 
+ 2944      00
+ 2945              	.LASF175:
+ 2946 02d3 474E5520 		.ascii	"GNU C11 7.2.1 20170904 (release) [ARM/embedded-7-br"
+ 2946      43313120 
+ 2946      372E322E 
+ 2946      31203230 
+ 2946      31373039 
+ 2947 0306 616E6368 		.ascii	"anch revision 255204] -mcpu=cortex-m4 -mfloat-abi=h"
+ 2947      20726576 
+ 2947      6973696F 
+ 2947      6E203235 
+ 2947      35323034 
+ 2948 0339 61726420 		.ascii	"ard -mfpu=fpv4-sp-d16 -mno-thumb-interwork -mthumb "
+ 2948      2D6D6670 
+ 2948      753D6670 
+ 2948      76342D73 
+ 2948      702D6431 
+ 2949 036c 2D676764 		.ascii	"-ggdb -O2 -fomit-frame-pointer -falign-functions=16"
+ 2949      62202D4F 
+ 2949      32202D66 
+ 2949      6F6D6974 
+ 2949      2D667261 
+ 2950 039f 202D6666 		.ascii	" -ffunction-sections -fdata-sections -fno-common -f"
+ 2950      756E6374 
+ 2950      696F6E2D 
+ 2950      73656374 
+ 2950      696F6E73 
+ 2951 03d2 73696E67 		.ascii	"single-precision-constant\000"
+ 2951      6C652D70 
+ 2951      72656369 
+ 2951      73696F6E 
+ 2951      2D636F6E 
+ 2952              	.LASF48:
+ 2953 03ec 705F6D73 		.ascii	"p_msgqueue\000"
+ 2953      67717565 
+ 2953      756500
+ 2954              	.LASF155:
+ 2955 03f7 63685F64 		.ascii	"ch_debug\000"
+ 2955      65627567 
+ 2955      00
+ 2956              	.LASF115:
+ 2957 0400 6E5F6972 		.ascii	"n_irq\000"
+ 2957      7100
+ 2958              	.LASF129:
+ 2959 0406 735F636E 		.ascii	"s_cnt\000"
+ 2959      7400
+ 2960              	.LASF9:
+ 2961 040c 73686F72 		.ascii	"short unsigned int\000"
+ 2961      7420756E 
+ 2961      7369676E 
+ARM GAS  C:\Users\mathi\AppData\Local\Temp\ccOic8SM.s 			page 56
 
 
- 2959              	.LASF129:
- 2960 043f 735F636E 		.ascii	"s_cnt\000"
- 2960      7400
- 2961              	.LASF9:
- 2962 0445 73686F72 		.ascii	"short unsigned int\000"
- 2962      7420756E 
- 2962      7369676E 
- 2962      65642069 
- 2962      6E7400
- 2963              	.LASF119:
- 2964 0458 6B65726E 		.ascii	"kernel_stats_t\000"
- 2964      656C5F73 
- 2964      74617473 
- 2964      5F7400
- 2965              	.LASF57:
- 2966 0467 63685F74 		.ascii	"ch_thread\000"
- 2966      68726561 
- 2966      6400
- 2967              	.LASF28:
- 2968 0471 6D73675F 		.ascii	"msg_t\000"
- 2968      7400
- 2969              	.LASF112:
- 2970 0477 6C617374 		.ascii	"last\000"
- 2970      00
- 2971              	.LASF31:
- 2972 047c 75636E74 		.ascii	"ucnt_t\000"
- 2972      5F7400
- 2973              	.LASF171:
- 2974 0483 63684462 		.ascii	"chDbgCheckClassI\000"
- 2974      67436865 
- 2974      636B436C 
- 2974      61737349 
- 2974      00
- 2975              	.LASF86:
- 2976 0494 63685F73 		.ascii	"ch_system_t\000"
- 2976      79737465 
- 2976      6D5F7400 
- 2977              	.LASF153:
- 2978 04a0 63665F6F 		.ascii	"cf_off_time\000"
- 2978      66665F74 
- 2978      696D6500 
- 2979              	.LASF118:
- 2980 04ac 6D5F6372 		.ascii	"m_crit_isr\000"
- 2980      69745F69 
- 2980      737200
- 2981              	.LASF62:
- 2982 04b7 63685F72 		.ascii	"ch_ready_list\000"
- 2982      65616479 
- 2982      5F6C6973 
- 2982      7400
- 2983              	.LASF29:
- 2984 04c5 6576656E 		.ascii	"eventmask_t\000"
- 2984      746D6173 
- 2984      6B5F7400 
- 2985              	.LASF10:
- 2986 04d1 5F5F696E 		.ascii	"__int32_t\000"
- 2986      7433325F 
-ARM GAS  C:\PROGRA~1\KMSpico\temp\ccSXL2V8.s 			page 57
+ 2961      65642069 
+ 2961      6E7400
+ 2962              	.LASF119:
+ 2963 041f 6B65726E 		.ascii	"kernel_stats_t\000"
+ 2963      656C5F73 
+ 2963      74617473 
+ 2963      5F7400
+ 2964              	.LASF57:
+ 2965 042e 63685F74 		.ascii	"ch_thread\000"
+ 2965      68726561 
+ 2965      6400
+ 2966              	.LASF28:
+ 2967 0438 6D73675F 		.ascii	"msg_t\000"
+ 2967      7400
+ 2968              	.LASF112:
+ 2969 043e 6C617374 		.ascii	"last\000"
+ 2969      00
+ 2970              	.LASF31:
+ 2971 0443 75636E74 		.ascii	"ucnt_t\000"
+ 2971      5F7400
+ 2972              	.LASF171:
+ 2973 044a 63684462 		.ascii	"chDbgCheckClassI\000"
+ 2973      67436865 
+ 2973      636B436C 
+ 2973      61737349 
+ 2973      00
+ 2974              	.LASF86:
+ 2975 045b 63685F73 		.ascii	"ch_system_t\000"
+ 2975      79737465 
+ 2975      6D5F7400 
+ 2976              	.LASF177:
+ 2977 0467 433A5C55 		.ascii	"C:\\Users\\mathi\\Documents\\robotique\\Sys-Emb-Puc"
+ 2977      73657273 
+ 2977      5C6D6174 
+ 2977      68695C44 
+ 2977      6F63756D 
+ 2978 0495 6B5C5450 		.ascii	"k\\TP3_Chibi\\Chibi\000"
+ 2978      335F4368 
+ 2978      6962695C 
+ 2978      43686962 
+ 2978      6900
+ 2979              	.LASF153:
+ 2980 04a7 63665F6F 		.ascii	"cf_off_time\000"
+ 2980      66665F74 
+ 2980      696D6500 
+ 2981              	.LASF118:
+ 2982 04b3 6D5F6372 		.ascii	"m_crit_isr\000"
+ 2982      69745F69 
+ 2982      737200
+ 2983              	.LASF62:
+ 2984 04be 63685F72 		.ascii	"ch_ready_list\000"
+ 2984      65616479 
+ 2984      5F6C6973 
+ 2984      7400
+ 2985              	.LASF29:
+ 2986 04cc 6576656E 		.ascii	"eventmask_t\000"
+ 2986      746D6173 
+ARM GAS  C:\Users\mathi\AppData\Local\Temp\ccOic8SM.s 			page 57
 
 
- 2986      7400
- 2987              	.LASF96:
- 2988 04db 73746B61 		.ascii	"stkalign_t\000"
- 2988      6C69676E 
- 2988      5F7400
- 2989              	.LASF56:
- 2990 04e6 74687265 		.ascii	"threads_list_t\000"
- 2990      6164735F 
- 2990      6C697374 
+ 2986      6B5F7400 
+ 2987              	.LASF10:
+ 2988 04d8 5F5F696E 		.ascii	"__int32_t\000"
+ 2988      7433325F 
+ 2988      7400
+ 2989              	.LASF96:
+ 2990 04e2 73746B61 		.ascii	"stkalign_t\000"
+ 2990      6C69676E 
  2990      5F7400
- 2991              	.LASF137:
- 2992 04f5 63685F7A 		.ascii	"ch_zero\000"
- 2992      65726F00 
- 2993              	.LASF151:
- 2994 04fd 63665F6F 		.ascii	"cf_off_refs\000"
- 2994      66665F72 
- 2994      65667300 
- 2995              	.LASF47:
- 2996 0509 705F7761 		.ascii	"p_waiting\000"
- 2996      6974696E 
- 2996      6700
- 2997              	.LASF173:
- 2998 0513 5F737461 		.ascii	"_stats_stop_measure_crit_thd\000"
- 2998      74735F73 
- 2998      746F705F 
- 2998      6D656173 
- 2998      7572655F 
- 2999              	.LASF21:
- 3000 0530 7274636E 		.ascii	"rtcnt_t\000"
- 3000      745F7400 
- 3001              	.LASF170:
- 3002 0538 5F646267 		.ascii	"_dbg_check_lock\000"
- 3002      5F636865 
- 3002      636B5F6C 
- 3002      6F636B00 
- 3003              	.LASF78:
- 3004 0548 63685F76 		.ascii	"ch_virtual_timers_list\000"
- 3004      69727475 
- 3004      616C5F74 
- 3004      696D6572 
- 3004      735F6C69 
- 3005              	.LASF2:
- 3006 055f 6C6F6E67 		.ascii	"long double\000"
- 3006      20646F75 
- 3006      626C6500 
- 3007              	.LASF141:
- 3008 056b 63685F74 		.ascii	"ch_timesize\000"
- 3008      696D6573 
- 3008      697A6500 
- 3009              	.LASF105:
- 3010 0577 74625F70 		.ascii	"tb_ptr\000"
- 3010      747200
- 3011              	.LASF103:
- 3012 057e 63685F73 		.ascii	"ch_swc_event_t\000"
- 3012      77635F65 
- 3012      76656E74 
- 3012      5F7400
-ARM GAS  C:\PROGRA~1\KMSpico\temp\ccSXL2V8.s 			page 58
+ 2991              	.LASF56:
+ 2992 04ed 74687265 		.ascii	"threads_list_t\000"
+ 2992      6164735F 
+ 2992      6C697374 
+ 2992      5F7400
+ 2993              	.LASF137:
+ 2994 04fc 63685F7A 		.ascii	"ch_zero\000"
+ 2994      65726F00 
+ 2995              	.LASF151:
+ 2996 0504 63665F6F 		.ascii	"cf_off_refs\000"
+ 2996      66665F72 
+ 2996      65667300 
+ 2997              	.LASF47:
+ 2998 0510 705F7761 		.ascii	"p_waiting\000"
+ 2998      6974696E 
+ 2998      6700
+ 2999              	.LASF173:
+ 3000 051a 5F737461 		.ascii	"_stats_stop_measure_crit_thd\000"
+ 3000      74735F73 
+ 3000      746F705F 
+ 3000      6D656173 
+ 3000      7572655F 
+ 3001              	.LASF21:
+ 3002 0537 7274636E 		.ascii	"rtcnt_t\000"
+ 3002      745F7400 
+ 3003              	.LASF170:
+ 3004 053f 5F646267 		.ascii	"_dbg_check_lock\000"
+ 3004      5F636865 
+ 3004      636B5F6C 
+ 3004      6F636B00 
+ 3005              	.LASF78:
+ 3006 054f 63685F76 		.ascii	"ch_virtual_timers_list\000"
+ 3006      69727475 
+ 3006      616C5F74 
+ 3006      696D6572 
+ 3006      735F6C69 
+ 3007              	.LASF2:
+ 3008 0566 6C6F6E67 		.ascii	"long double\000"
+ 3008      20646F75 
+ 3008      626C6500 
+ 3009              	.LASF141:
+ 3010 0572 63685F74 		.ascii	"ch_timesize\000"
+ 3010      696D6573 
+ 3010      697A6500 
+ 3011              	.LASF105:
+ 3012 057e 74625F70 		.ascii	"tb_ptr\000"
+ 3012      747200
+ 3013              	.LASF103:
+ARM GAS  C:\Users\mathi\AppData\Local\Temp\ccOic8SM.s 			page 58
 
 
- 3013              	.LASF147:
- 3014 058d 63665F6F 		.ascii	"cf_off_name\000"
- 3014      66665F6E 
- 3014      616D6500 
- 3015              	.LASF39:
- 3016 0599 705F6F6C 		.ascii	"p_older\000"
- 3016      64657200 
- 3017              	.LASF65:
- 3018 05a1 725F6374 		.ascii	"r_ctx\000"
- 3018      7800
- 3019              	.LASF37:
- 3020 05a7 705F6374 		.ascii	"p_ctx\000"
+ 3014 0585 63685F73 		.ascii	"ch_swc_event_t\000"
+ 3014      77635F65 
+ 3014      76656E74 
+ 3014      5F7400
+ 3015              	.LASF147:
+ 3016 0594 63665F6F 		.ascii	"cf_off_name\000"
+ 3016      66665F6E 
+ 3016      616D6500 
+ 3017              	.LASF39:
+ 3018 05a0 705F6F6C 		.ascii	"p_older\000"
+ 3018      64657200 
+ 3019              	.LASF65:
+ 3020 05a8 725F6374 		.ascii	"r_ctx\000"
  3020      7800
- 3021              	.LASF109:
- 3022 05ad 746D5F63 		.ascii	"tm_calibration_t\000"
- 3022      616C6962 
- 3022      72617469 
- 3022      6F6E5F74 
- 3022      00
- 3023              	.LASF68:
- 3024 05be 725F6375 		.ascii	"r_current\000"
- 3024      7272656E 
- 3024      7400
- 3025              	.LASF67:
- 3026 05c8 725F6F6C 		.ascii	"r_older\000"
- 3026      64657200 
- 3027              	.LASF14:
- 3028 05d0 5F5F7569 		.ascii	"__uint64_t\000"
- 3028      6E743634 
- 3028      5F7400
- 3029              	.LASF113:
- 3030 05db 63756D75 		.ascii	"cumulative\000"
- 3030      6C617469 
- 3030      766500
- 3031              	.LASF25:
- 3032 05e6 74726566 		.ascii	"trefs_t\000"
- 3032      735F7400 
- 3033              	.LASF106:
- 3034 05ee 74625F62 		.ascii	"tb_buffer\000"
- 3034      75666665 
- 3034      7200
- 3035              	.LASF140:
- 3036 05f8 63685F70 		.ascii	"ch_ptrsize\000"
- 3036      74727369 
- 3036      7A6500
- 3037              	.LASF70:
- 3038 0603 76697274 		.ascii	"virtual_timer_t\000"
- 3038      75616C5F 
- 3038      74696D65 
- 3038      725F7400 
- 3039              	.LASF35:
- 3040 0613 705F7072 		.ascii	"p_prev\000"
- 3040      657600
- 3041              	.LASF27:
- 3042 061a 74707269 		.ascii	"tprio_t\000"
- 3042      6F5F7400 
- 3043              	.LASF116:
-ARM GAS  C:\PROGRA~1\KMSpico\temp\ccSXL2V8.s 			page 59
+ 3021              	.LASF37:
+ 3022 05ae 705F6374 		.ascii	"p_ctx\000"
+ 3022      7800
+ 3023              	.LASF109:
+ 3024 05b4 746D5F63 		.ascii	"tm_calibration_t\000"
+ 3024      616C6962 
+ 3024      72617469 
+ 3024      6F6E5F74 
+ 3024      00
+ 3025              	.LASF68:
+ 3026 05c5 725F6375 		.ascii	"r_current\000"
+ 3026      7272656E 
+ 3026      7400
+ 3027              	.LASF67:
+ 3028 05cf 725F6F6C 		.ascii	"r_older\000"
+ 3028      64657200 
+ 3029              	.LASF14:
+ 3030 05d7 5F5F7569 		.ascii	"__uint64_t\000"
+ 3030      6E743634 
+ 3030      5F7400
+ 3031              	.LASF113:
+ 3032 05e2 63756D75 		.ascii	"cumulative\000"
+ 3032      6C617469 
+ 3032      766500
+ 3033              	.LASF25:
+ 3034 05ed 74726566 		.ascii	"trefs_t\000"
+ 3034      735F7400 
+ 3035              	.LASF106:
+ 3036 05f5 74625F62 		.ascii	"tb_buffer\000"
+ 3036      75666665 
+ 3036      7200
+ 3037              	.LASF140:
+ 3038 05ff 63685F70 		.ascii	"ch_ptrsize\000"
+ 3038      74727369 
+ 3038      7A6500
+ 3039              	.LASF70:
+ 3040 060a 76697274 		.ascii	"virtual_timer_t\000"
+ 3040      75616C5F 
+ 3040      74696D65 
+ 3040      725F7400 
+ 3041              	.LASF35:
+ 3042 061a 705F7072 		.ascii	"p_prev\000"
+ 3042      657600
+ARM GAS  C:\Users\mathi\AppData\Local\Temp\ccOic8SM.s 			page 59
 
 
- 3044 0622 6E5F6374 		.ascii	"n_ctxswc\000"
- 3044      78737763 
- 3044      00
- 3045              	.LASF18:
- 3046 062b 696E7433 		.ascii	"int32_t\000"
- 3046      325F7400 
- 3047              	.LASF6:
- 3048 0633 756E7369 		.ascii	"unsigned char\000"
- 3048      676E6564 
- 3048      20636861 
- 3048      7200
- 3049              	.LASF181:
- 3050 0641 5F636F72 		.ascii	"_core_init\000"
- 3050      655F696E 
- 3050      697400
- 3051              	.LASF51:
- 3052 064c 705F6D74 		.ascii	"p_mtxlist\000"
- 3052      786C6973 
- 3052      7400
- 3053              	.LASF7:
- 3054 0656 73686F72 		.ascii	"short int\000"
- 3054      7420696E 
+ 3043              	.LASF27:
+ 3044 0621 74707269 		.ascii	"tprio_t\000"
+ 3044      6F5F7400 
+ 3045              	.LASF116:
+ 3046 0629 6E5F6374 		.ascii	"n_ctxswc\000"
+ 3046      78737763 
+ 3046      00
+ 3047              	.LASF18:
+ 3048 0632 696E7433 		.ascii	"int32_t\000"
+ 3048      325F7400 
+ 3049              	.LASF6:
+ 3050 063a 756E7369 		.ascii	"unsigned char\000"
+ 3050      676E6564 
+ 3050      20636861 
+ 3050      7200
+ 3051              	.LASF181:
+ 3052 0648 5F636F72 		.ascii	"_core_init\000"
+ 3052      655F696E 
+ 3052      697400
+ 3053              	.LASF51:
+ 3054 0653 705F6D74 		.ascii	"p_mtxlist\000"
+ 3054      786C6973 
  3054      7400
- 3055              	.LASF42:
- 3056 0660 705F7374 		.ascii	"p_state\000"
- 3056      61746500 
- 3057              	.LASF45:
- 3058 0668 705F7072 		.ascii	"p_preempt\000"
- 3058      65656D70 
- 3058      7400
- 3059              	.LASF160:
- 3060 0672 5F5F6865 		.ascii	"__heap_end__\000"
- 3060      61705F65 
- 3060      6E645F5F 
- 3060      00
- 3061              	.LASF64:
- 3062 067f 725F7072 		.ascii	"r_prio\000"
- 3062      696F00
- 3063              	.LASF126:
- 3064 0686 65776D61 		.ascii	"ewmask\000"
- 3064      736B00
- 3065              	.LASF34:
- 3066 068d 705F6E65 		.ascii	"p_next\000"
- 3066      787400
- 3067              	.LASF23:
- 3068 0694 746D6F64 		.ascii	"tmode_t\000"
- 3068      655F7400 
- 3069              	.LASF152:
- 3070 069c 63665F6F 		.ascii	"cf_off_preempt\000"
- 3070      66665F70 
- 3070      7265656D 
- 3070      707400
- 3071              	.LASF43:
- 3072 06ab 705F666C 		.ascii	"p_flags\000"
- 3072      61677300 
- 3073              	.LASF161:
- 3074 06b3 5F5F6675 		.ascii	"__func__\000"
-ARM GAS  C:\PROGRA~1\KMSpico\temp\ccSXL2V8.s 			page 60
+ 3055              	.LASF7:
+ 3056 065d 73686F72 		.ascii	"short int\000"
+ 3056      7420696E 
+ 3056      7400
+ 3057              	.LASF42:
+ 3058 0667 705F7374 		.ascii	"p_state\000"
+ 3058      61746500 
+ 3059              	.LASF45:
+ 3060 066f 705F7072 		.ascii	"p_preempt\000"
+ 3060      65656D70 
+ 3060      7400
+ 3061              	.LASF160:
+ 3062 0679 5F5F6865 		.ascii	"__heap_end__\000"
+ 3062      61705F65 
+ 3062      6E645F5F 
+ 3062      00
+ 3063              	.LASF64:
+ 3064 0686 725F7072 		.ascii	"r_prio\000"
+ 3064      696F00
+ 3065              	.LASF126:
+ 3066 068d 65776D61 		.ascii	"ewmask\000"
+ 3066      736B00
+ 3067              	.LASF34:
+ 3068 0694 705F6E65 		.ascii	"p_next\000"
+ 3068      787400
+ 3069              	.LASF23:
+ 3070 069b 746D6F64 		.ascii	"tmode_t\000"
+ 3070      655F7400 
+ 3071              	.LASF152:
+ 3072 06a3 63665F6F 		.ascii	"cf_off_preempt\000"
+ 3072      66665F70 
+ 3072      7265656D 
+ 3072      707400
+ 3073              	.LASF43:
+ARM GAS  C:\Users\mathi\AppData\Local\Temp\ccOic8SM.s 			page 60
 
 
- 3074      6E635F5F 
- 3074      00
- 3075              	.LASF54:
- 3076 06bc 705F7374 		.ascii	"p_stats\000"
- 3076      61747300 
- 3077              	.LASF162:
- 3078 06c4 63685379 		.ascii	"chSysLock\000"
- 3078      734C6F63 
- 3078      6B00
- 3079              	.LASF59:
- 3080 06ce 74687265 		.ascii	"threads_queue_t\000"
- 3080      6164735F 
- 3080      71756575 
- 3080      655F7400 
- 3081              	.LASF71:
- 3082 06de 63685F76 		.ascii	"ch_virtual_timer\000"
- 3082      69727475 
- 3082      616C5F74 
- 3082      696D6572 
- 3082      00
- 3083              	.LASF145:
- 3084 06ef 63665F6F 		.ascii	"cf_off_newer\000"
- 3084      66665F6E 
- 3084      65776572 
+ 3074 06b2 705F666C 		.ascii	"p_flags\000"
+ 3074      61677300 
+ 3075              	.LASF161:
+ 3076 06ba 5F5F6675 		.ascii	"__func__\000"
+ 3076      6E635F5F 
+ 3076      00
+ 3077              	.LASF54:
+ 3078 06c3 705F7374 		.ascii	"p_stats\000"
+ 3078      61747300 
+ 3079              	.LASF162:
+ 3080 06cb 63685379 		.ascii	"chSysLock\000"
+ 3080      734C6F63 
+ 3080      6B00
+ 3081              	.LASF59:
+ 3082 06d5 74687265 		.ascii	"threads_queue_t\000"
+ 3082      6164735F 
+ 3082      71756575 
+ 3082      655F7400 
+ 3083              	.LASF71:
+ 3084 06e5 63685F76 		.ascii	"ch_virtual_timer\000"
+ 3084      69727475 
+ 3084      616C5F74 
+ 3084      696D6572 
  3084      00
- 3085              	.LASF127:
- 3086 06fc 63685F73 		.ascii	"ch_semaphore\000"
- 3086      656D6170 
- 3086      686F7265 
+ 3085              	.LASF145:
+ 3086 06f6 63665F6F 		.ascii	"cf_off_newer\000"
+ 3086      66665F6E 
+ 3086      65776572 
  3086      00
- 3087              	.LASF50:
- 3088 0709 705F6570 		.ascii	"p_epending\000"
- 3088      656E6469 
- 3088      6E6700
- 3089              	.LASF19:
- 3090 0714 75696E74 		.ascii	"uint32_t\000"
- 3090      33325F74 
- 3090      00
- 3091              	.LASF143:
- 3092 071d 63665F6F 		.ascii	"cf_off_prio\000"
- 3092      66665F70 
- 3092      72696F00 
- 3093              	.LASF63:
- 3094 0729 725F7175 		.ascii	"r_queue\000"
- 3094      65756500 
- 3095              	.LASF58:
- 3096 0731 63685F74 		.ascii	"ch_threads_list\000"
- 3096      68726561 
- 3096      64735F6C 
- 3096      69737400 
- 3097              	.LASF138:
- 3098 0741 63685F73 		.ascii	"ch_size\000"
- 3098      697A6500 
- 3099              	.LASF13:
- 3100 0749 6C6F6E67 		.ascii	"long unsigned int\000"
- 3100      20756E73 
- 3100      69676E65 
-ARM GAS  C:\PROGRA~1\KMSpico\temp\ccSXL2V8.s 			page 61
+ 3087              	.LASF127:
+ 3088 0703 63685F73 		.ascii	"ch_semaphore\000"
+ 3088      656D6170 
+ 3088      686F7265 
+ 3088      00
+ 3089              	.LASF50:
+ 3090 0710 705F6570 		.ascii	"p_epending\000"
+ 3090      656E6469 
+ 3090      6E6700
+ 3091              	.LASF19:
+ 3092 071b 75696E74 		.ascii	"uint32_t\000"
+ 3092      33325F74 
+ 3092      00
+ 3093              	.LASF143:
+ 3094 0724 63665F6F 		.ascii	"cf_off_prio\000"
+ 3094      66665F70 
+ 3094      72696F00 
+ 3095              	.LASF63:
+ 3096 0730 725F7175 		.ascii	"r_queue\000"
+ 3096      65756500 
+ 3097              	.LASF58:
+ 3098 0738 63685F74 		.ascii	"ch_threads_list\000"
+ 3098      68726561 
+ 3098      64735F6C 
+ 3098      69737400 
+ 3099              	.LASF138:
+ 3100 0748 63685F73 		.ascii	"ch_size\000"
+ 3100      697A6500 
+ARM GAS  C:\Users\mathi\AppData\Local\Temp\ccOic8SM.s 			page 61
 
 
- 3100      6420696E 
- 3100      7400
- 3101              	.LASF135:
- 3102 075b 63686172 		.ascii	"char\000"
- 3102      00
- 3103              	.LASF125:
- 3104 0760 77746D74 		.ascii	"wtmtxp\000"
- 3104      787000
- 3105              	.LASF8:
- 3106 0767 5F5F7569 		.ascii	"__uint16_t\000"
- 3106      6E743136 
- 3106      5F7400
- 3107              	.LASF33:
- 3108 0772 74687265 		.ascii	"thread_t\000"
- 3108      61645F74 
- 3108      00
- 3109              	.LASF110:
- 3110 077b 62657374 		.ascii	"best\000"
+ 3101              	.LASF13:
+ 3102 0750 6C6F6E67 		.ascii	"long unsigned int\000"
+ 3102      20756E73 
+ 3102      69676E65 
+ 3102      6420696E 
+ 3102      7400
+ 3103              	.LASF135:
+ 3104 0762 63686172 		.ascii	"char\000"
+ 3104      00
+ 3105              	.LASF125:
+ 3106 0767 77746D74 		.ascii	"wtmtxp\000"
+ 3106      787000
+ 3107              	.LASF8:
+ 3108 076e 5F5F7569 		.ascii	"__uint16_t\000"
+ 3108      6E743136 
+ 3108      5F7400
+ 3109              	.LASF33:
+ 3110 0779 74687265 		.ascii	"thread_t\000"
+ 3110      61645F74 
  3110      00
- 3111              	.LASF157:
- 3112 0780 6E657874 		.ascii	"nextmem\000"
- 3112      6D656D00 
- 3113              	.LASF133:
- 3114 0788 6D5F6E65 		.ascii	"m_next\000"
- 3114      787400
- 3115              	.LASF32:
- 3116 078f 73797374 		.ascii	"systime_t\000"
- 3116      696D655F 
- 3116      7400
- 3117              	.LASF52:
- 3118 0799 705F7265 		.ascii	"p_realprio\000"
- 3118      616C7072 
- 3118      696F00
- 3119              	.LASF69:
- 3120 07a4 76746675 		.ascii	"vtfunc_t\000"
- 3120      6E635F74 
- 3120      00
- 3121              	.LASF12:
- 3122 07ad 5F5F7569 		.ascii	"__uint32_t\000"
- 3122      6E743332 
- 3122      5F7400
- 3123              	.LASF166:
- 3124 07b8 5F5F7365 		.ascii	"__set_BASEPRI\000"
- 3124      745F4241 
- 3124      53455052 
- 3124      4900
- 3125              	.LASF82:
- 3126 07c6 70616E69 		.ascii	"panic_msg\000"
- 3126      635F6D73 
- 3126      6700
- 3127              	.LASF108:
- 3128 07d0 6F666673 		.ascii	"offset\000"
- 3128      657400
- 3129              	.LASF97:
- 3130 07d7 636F6E74 		.ascii	"context\000"
- 3130      65787400 
- 3131              	.LASF49:
-ARM GAS  C:\PROGRA~1\KMSpico\temp\ccSXL2V8.s 			page 62
+ 3111              	.LASF110:
+ 3112 0782 62657374 		.ascii	"best\000"
+ 3112      00
+ 3113              	.LASF157:
+ 3114 0787 6E657874 		.ascii	"nextmem\000"
+ 3114      6D656D00 
+ 3115              	.LASF133:
+ 3116 078f 6D5F6E65 		.ascii	"m_next\000"
+ 3116      787400
+ 3117              	.LASF32:
+ 3118 0796 73797374 		.ascii	"systime_t\000"
+ 3118      696D655F 
+ 3118      7400
+ 3119              	.LASF52:
+ 3120 07a0 705F7265 		.ascii	"p_realprio\000"
+ 3120      616C7072 
+ 3120      696F00
+ 3121              	.LASF69:
+ 3122 07ab 76746675 		.ascii	"vtfunc_t\000"
+ 3122      6E635F74 
+ 3122      00
+ 3123              	.LASF12:
+ 3124 07b4 5F5F7569 		.ascii	"__uint32_t\000"
+ 3124      6E743332 
+ 3124      5F7400
+ 3125              	.LASF166:
+ 3126 07bf 5F5F7365 		.ascii	"__set_BASEPRI\000"
+ 3126      745F4241 
+ 3126      53455052 
+ 3126      4900
+ 3127              	.LASF82:
+ 3128 07cd 70616E69 		.ascii	"panic_msg\000"
+ 3128      635F6D73 
+ 3128      6700
+ 3129              	.LASF108:
+ 3130 07d7 6F666673 		.ascii	"offset\000"
+ 3130      657400
+ARM GAS  C:\Users\mathi\AppData\Local\Temp\ccOic8SM.s 			page 62
 
 
- 3132 07df 705F6D73 		.ascii	"p_msg\000"
- 3132      6700
- 3133              	.LASF176:
- 3134 07e5 2E2E2F2E 		.ascii	"../../lib/ChibiOS/os/rt/src/chmemcore.c\000"
- 3134      2E2F6C69 
- 3134      622F4368 
- 3134      6962694F 
- 3134      532F6F73 
- 3135              	.LASF76:
- 3136 080d 76745F70 		.ascii	"vt_par\000"
- 3136      617200
- 3137              	.LASF159:
- 3138 0814 5F5F6865 		.ascii	"__heap_base__\000"
- 3138      61705F62 
- 3138      6173655F 
- 3138      5F00
- 3139              	.LASF144:
- 3140 0822 63665F6F 		.ascii	"cf_off_ctx\000"
- 3140      66665F63 
- 3140      747800
- 3141              	.LASF130:
- 3142 082d 63685F6D 		.ascii	"ch_mutex\000"
- 3142      75746578 
- 3142      00
- 3143              	.LASF44:
- 3144 0836 705F7265 		.ascii	"p_refs\000"
- 3144      667300
- 3145              	.LASF83:
- 3146 083d 6973725F 		.ascii	"isr_cnt\000"
- 3146      636E7400 
- 3147              	.LASF102:
- 3148 0845 73655F73 		.ascii	"se_state\000"
- 3148      74617465 
- 3148      00
- 3149              	.LASF88:
- 3150 084e 726C6973 		.ascii	"rlist\000"
- 3150      7400
- 3151              	.LASF16:
- 3152 0854 75696E74 		.ascii	"uint8_t\000"
- 3152      385F7400 
- 3153              	.LASF172:
- 3154 085c 5F646267 		.ascii	"_dbg_check_unlock\000"
- 3154      5F636865 
- 3154      636B5F75 
- 3154      6E6C6F63 
- 3154      6B00
- 3155              	.LASF55:
- 3156 086e 74687265 		.ascii	"thread_reference_t\000"
- 3156      61645F72 
- 3156      65666572 
- 3156      656E6365 
- 3156      5F7400
- 3157              	.LASF122:
- 3158 0881 77746F62 		.ascii	"wtobjp\000"
- 3158      6A7000
- 3159              	.LASF40:
- 3160 0888 705F6E61 		.ascii	"p_name\000"
-ARM GAS  C:\PROGRA~1\KMSpico\temp\ccSXL2V8.s 			page 63
+ 3131              	.LASF97:
+ 3132 07de 636F6E74 		.ascii	"context\000"
+ 3132      65787400 
+ 3133              	.LASF49:
+ 3134 07e6 705F6D73 		.ascii	"p_msg\000"
+ 3134      6700
+ 3135              	.LASF176:
+ 3136 07ec 2E2E2F2E 		.ascii	"../../lib/ChibiOS/os/rt/src/chmemcore.c\000"
+ 3136      2E2F6C69 
+ 3136      622F4368 
+ 3136      6962694F 
+ 3136      532F6F73 
+ 3137              	.LASF76:
+ 3138 0814 76745F70 		.ascii	"vt_par\000"
+ 3138      617200
+ 3139              	.LASF159:
+ 3140 081b 5F5F6865 		.ascii	"__heap_base__\000"
+ 3140      61705F62 
+ 3140      6173655F 
+ 3140      5F00
+ 3141              	.LASF144:
+ 3142 0829 63665F6F 		.ascii	"cf_off_ctx\000"
+ 3142      66665F63 
+ 3142      747800
+ 3143              	.LASF130:
+ 3144 0834 63685F6D 		.ascii	"ch_mutex\000"
+ 3144      75746578 
+ 3144      00
+ 3145              	.LASF44:
+ 3146 083d 705F7265 		.ascii	"p_refs\000"
+ 3146      667300
+ 3147              	.LASF83:
+ 3148 0844 6973725F 		.ascii	"isr_cnt\000"
+ 3148      636E7400 
+ 3149              	.LASF102:
+ 3150 084c 73655F73 		.ascii	"se_state\000"
+ 3150      74617465 
+ 3150      00
+ 3151              	.LASF88:
+ 3152 0855 726C6973 		.ascii	"rlist\000"
+ 3152      7400
+ 3153              	.LASF16:
+ 3154 085b 75696E74 		.ascii	"uint8_t\000"
+ 3154      385F7400 
+ 3155              	.LASF172:
+ 3156 0863 5F646267 		.ascii	"_dbg_check_unlock\000"
+ 3156      5F636865 
+ 3156      636B5F75 
+ 3156      6E6C6F63 
+ 3156      6B00
+ 3157              	.LASF55:
+ 3158 0875 74687265 		.ascii	"thread_reference_t\000"
+ 3158      61645F72 
+ 3158      65666572 
+ 3158      656E6365 
+ 3158      5F7400
+ 3159              	.LASF122:
+ARM GAS  C:\Users\mathi\AppData\Local\Temp\ccOic8SM.s 			page 63
 
 
- 3160      6D6500
- 3161              	.LASF167:
- 3162 088f 73697A65 		.ascii	"size\000"
- 3162      00
- 3163              	.LASF79:
- 3164 0894 76745F73 		.ascii	"vt_systime\000"
- 3164      79737469 
- 3164      6D6500
- 3165              	.LASF85:
- 3166 089f 74726163 		.ascii	"trace_buffer\000"
- 3166      655F6275 
- 3166      66666572 
- 3166      00
- 3167              	.LASF74:
- 3168 08ac 76745F64 		.ascii	"vt_delta\000"
- 3168      656C7461 
+ 3160 0888 77746F62 		.ascii	"wtobjp\000"
+ 3160      6A7000
+ 3161              	.LASF40:
+ 3162 088f 705F6E61 		.ascii	"p_name\000"
+ 3162      6D6500
+ 3163              	.LASF167:
+ 3164 0896 73697A65 		.ascii	"size\000"
+ 3164      00
+ 3165              	.LASF79:
+ 3166 089b 76745F73 		.ascii	"vt_systime\000"
+ 3166      79737469 
+ 3166      6D6500
+ 3167              	.LASF85:
+ 3168 08a6 74726163 		.ascii	"trace_buffer\000"
+ 3168      655F6275 
+ 3168      66666572 
  3168      00
- 3169              	.LASF165:
- 3170 08b5 63685379 		.ascii	"chSysUnlock\000"
- 3170      73556E6C 
- 3170      6F636B00 
- 3171              	.LASF139:
- 3172 08c1 63685F76 		.ascii	"ch_version\000"
- 3172      65727369 
- 3172      6F6E00
- 3173              	.LASF117:
- 3174 08cc 6D5F6372 		.ascii	"m_crit_thd\000"
- 3174      69745F74 
- 3174      686400
- 3175              	.LASF132:
- 3176 08d7 6D5F6F77 		.ascii	"m_owner\000"
- 3176      6E657200 
- 3177              	.LASF154:
- 3178 08df 63686465 		.ascii	"chdebug_t\000"
- 3178      6275675F 
- 3178      7400
+ 3169              	.LASF74:
+ 3170 08b3 76745F64 		.ascii	"vt_delta\000"
+ 3170      656C7461 
+ 3170      00
+ 3171              	.LASF165:
+ 3172 08bc 63685379 		.ascii	"chSysUnlock\000"
+ 3172      73556E6C 
+ 3172      6F636B00 
+ 3173              	.LASF139:
+ 3174 08c8 63685F76 		.ascii	"ch_version\000"
+ 3174      65727369 
+ 3174      6F6E00
+ 3175              	.LASF117:
+ 3176 08d3 6D5F6372 		.ascii	"m_crit_thd\000"
+ 3176      69745F74 
+ 3176      686400
+ 3177              	.LASF132:
+ 3178 08de 6D5F6F77 		.ascii	"m_owner\000"
+ 3178      6E657200 
  3179              	.LASF101:
- 3180 08e9 73655F77 		.ascii	"se_wtobjp\000"
+ 3180 08e6 73655F77 		.ascii	"se_wtobjp\000"
  3180      746F626A 
  3180      7000
  3181              	.LASF136:
- 3182 08f3 63685F69 		.ascii	"ch_identifier\000"
+ 3182 08f0 63685F69 		.ascii	"ch_identifier\000"
  3182      64656E74 
  3182      69666965 
  3182      7200
  3183              	.LASF75:
- 3184 0901 76745F66 		.ascii	"vt_func\000"
+ 3184 08fe 76745F66 		.ascii	"vt_func\000"
  3184      756E6300 
  3185              		.ident	"GCC: (GNU Tools for Arm Embedded Processors 7-2017-q4-major) 7.2.1 20170904 (release) [ARM
-ARM GAS  C:\PROGRA~1\KMSpico\temp\ccSXL2V8.s 			page 64
+ARM GAS  C:\Users\mathi\AppData\Local\Temp\ccOic8SM.s 			page 64
 
 
 DEFINED SYMBOLS
                             *ABS*:00000000 chmemcore.c
-C:\PROGRA~1\KMSpico\temp\ccSXL2V8.s:18     .text._core_init:00000000 $t
-C:\PROGRA~1\KMSpico\temp\ccSXL2V8.s:26     .text._core_init:00000000 _core_init
-C:\PROGRA~1\KMSpico\temp\ccSXL2V8.s:55     .text._core_init:00000018 $d
-C:\PROGRA~1\KMSpico\temp\ccSXL2V8.s:63     .text.chCoreAlloc:00000000 $t
-C:\PROGRA~1\KMSpico\temp\ccSXL2V8.s:71     .text.chCoreAlloc:00000000 chCoreAlloc
-C:\PROGRA~1\KMSpico\temp\ccSXL2V8.s:213    .text.chCoreAlloc:00000064 $d
-C:\PROGRA~1\KMSpico\temp\ccSXL2V8.s:221    .text.chCoreAllocI:00000000 $t
-C:\PROGRA~1\KMSpico\temp\ccSXL2V8.s:229    .text.chCoreAllocI:00000000 chCoreAllocI
-C:\PROGRA~1\KMSpico\temp\ccSXL2V8.s:272    .text.chCoreAllocI:00000024 $d
-C:\PROGRA~1\KMSpico\temp\ccSXL2V8.s:278    .text.chCoreGetStatusX:00000000 $t
-C:\PROGRA~1\KMSpico\temp\ccSXL2V8.s:286    .text.chCoreGetStatusX:00000000 chCoreGetStatusX
-C:\PROGRA~1\KMSpico\temp\ccSXL2V8.s:304    .text.chCoreGetStatusX:0000000c $d
-C:\PROGRA~1\KMSpico\temp\ccSXL2V8.s:310    .bss.endmem:00000000 $d
-C:\PROGRA~1\KMSpico\temp\ccSXL2V8.s:314    .bss.endmem:00000000 endmem
-C:\PROGRA~1\KMSpico\temp\ccSXL2V8.s:317    .bss.nextmem:00000000 $d
-C:\PROGRA~1\KMSpico\temp\ccSXL2V8.s:321    .bss.nextmem:00000000 nextmem
-C:\PROGRA~1\KMSpico\temp\ccSXL2V8.s:324    .rodata.__func__.7153:00000000 $d
-C:\PROGRA~1\KMSpico\temp\ccSXL2V8.s:328    .rodata.__func__.7153:00000000 __func__.7153
+C:\Users\mathi\AppData\Local\Temp\ccOic8SM.s:18     .text._core_init:00000000 $t
+C:\Users\mathi\AppData\Local\Temp\ccOic8SM.s:26     .text._core_init:00000000 _core_init
+C:\Users\mathi\AppData\Local\Temp\ccOic8SM.s:55     .text._core_init:00000018 $d
+C:\Users\mathi\AppData\Local\Temp\ccOic8SM.s:63     .text.chCoreAlloc:00000000 $t
+C:\Users\mathi\AppData\Local\Temp\ccOic8SM.s:71     .text.chCoreAlloc:00000000 chCoreAlloc
+C:\Users\mathi\AppData\Local\Temp\ccOic8SM.s:213    .text.chCoreAlloc:00000064 $d
+C:\Users\mathi\AppData\Local\Temp\ccOic8SM.s:221    .text.chCoreAllocI:00000000 $t
+C:\Users\mathi\AppData\Local\Temp\ccOic8SM.s:229    .text.chCoreAllocI:00000000 chCoreAllocI
+C:\Users\mathi\AppData\Local\Temp\ccOic8SM.s:272    .text.chCoreAllocI:00000024 $d
+C:\Users\mathi\AppData\Local\Temp\ccOic8SM.s:278    .text.chCoreGetStatusX:00000000 $t
+C:\Users\mathi\AppData\Local\Temp\ccOic8SM.s:286    .text.chCoreGetStatusX:00000000 chCoreGetStatusX
+C:\Users\mathi\AppData\Local\Temp\ccOic8SM.s:304    .text.chCoreGetStatusX:0000000c $d
+C:\Users\mathi\AppData\Local\Temp\ccOic8SM.s:310    .bss.endmem:00000000 $d
+C:\Users\mathi\AppData\Local\Temp\ccOic8SM.s:314    .bss.endmem:00000000 endmem
+C:\Users\mathi\AppData\Local\Temp\ccOic8SM.s:317    .bss.nextmem:00000000 $d
+C:\Users\mathi\AppData\Local\Temp\ccOic8SM.s:321    .bss.nextmem:00000000 nextmem
+C:\Users\mathi\AppData\Local\Temp\ccOic8SM.s:324    .rodata.__func__.7153:00000000 $d
+C:\Users\mathi\AppData\Local\Temp\ccOic8SM.s:328    .rodata.__func__.7153:00000000 __func__.7153
 
 UNDEFINED SYMBOLS
 __heap_base__

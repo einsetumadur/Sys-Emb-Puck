@@ -1,20 +1,20 @@
 Archive member included to satisfy reference by file (symbol)
 
-c:/users/41774/documents/epfl/ba6/robotique/eclipse_e-puck2/tools/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_addsubdf3.o)
+c:/eclipse_e-puck2/tools/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_addsubdf3.o)
                               build/obj/chprintf.o (__aeabi_dsub)
-c:/users/41774/documents/epfl/ba6/robotique/eclipse_e-puck2/tools/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_muldivdf3.o)
+c:/eclipse_e-puck2/tools/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_muldivdf3.o)
                               build/obj/chprintf.o (__aeabi_dmul)
-c:/users/41774/documents/epfl/ba6/robotique/eclipse_e-puck2/tools/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_fixdfsi.o)
+c:/eclipse_e-puck2/tools/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_fixdfsi.o)
                               build/obj/chprintf.o (__aeabi_d2iz)
-c:/users/41774/documents/epfl/ba6/robotique/eclipse_e-puck2/tools/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_truncdfsf2.o)
+c:/eclipse_e-puck2/tools/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_truncdfsf2.o)
                               build/obj/chprintf.o (__aeabi_d2f)
-c:/users/41774/documents/epfl/ba6/robotique/eclipse_e-puck2/tools/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libg.a(lib_a-memcpy.o)
+c:/eclipse_e-puck2/tools/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libg.a(lib_a-memcpy.o)
                               build/obj/messagebus.o (memcpy)
-c:/users/41774/documents/epfl/ba6/robotique/eclipse_e-puck2/tools/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libg.a(lib_a-memset.o)
+c:/eclipse_e-puck2/tools/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libg.a(lib_a-memset.o)
                               build/obj/messagebus.o (memset)
-c:/users/41774/documents/epfl/ba6/robotique/eclipse_e-puck2/tools/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libg.a(lib_a-strcmp.o)
+c:/eclipse_e-puck2/tools/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libg.a(lib_a-strcmp.o)
                               build/obj/messagebus.o (strcmp)
-c:/users/41774/documents/epfl/ba6/robotique/eclipse_e-puck2/tools/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libg.a(lib_a-strncpy.o)
+c:/eclipse_e-puck2/tools/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libg.a(lib_a-strncpy.o)
                               build/obj/messagebus.o (strncpy)
 
 Discarded input sections
@@ -125,8 +125,8 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x38 build/obj/chdynamic.o
  .debug_ranges  0x00000000       0xd0 build/obj/chdynamic.o
- .debug_line    0x00000000      0x539 build/obj/chdynamic.o
- .debug_str     0x00000000      0x9f0 build/obj/chdynamic.o
+ .debug_line    0x00000000      0x4be build/obj/chdynamic.o
+ .debug_str     0x00000000      0x9ed build/obj/chdynamic.o
  .comment       0x00000000       0x7f build/obj/chdynamic.o
  .debug_frame   0x00000000       0xcc build/obj/chdynamic.o
  .ARM.attributes
@@ -191,8 +191,8 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x70 build/obj/chsem.o
  .debug_ranges  0x00000000      0x248 build/obj/chsem.o
- .debug_line    0x00000000      0x713 build/obj/chsem.o
- .debug_str     0x00000000      0xa01 build/obj/chsem.o
+ .debug_line    0x00000000      0x6c1 build/obj/chsem.o
+ .debug_str     0x00000000      0x9fe build/obj/chsem.o
  .comment       0x00000000       0x7f build/obj/chsem.o
  .debug_frame   0x00000000      0x17c build/obj/chsem.o
  .ARM.attributes
@@ -293,8 +293,8 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x30 build/obj/chmsg.o
  .debug_ranges  0x00000000      0x118 build/obj/chmsg.o
- .debug_line    0x00000000      0x45d build/obj/chmsg.o
- .debug_str     0x00000000      0x936 build/obj/chmsg.o
+ .debug_line    0x00000000      0x40b build/obj/chmsg.o
+ .debug_str     0x00000000      0x933 build/obj/chmsg.o
  .comment       0x00000000       0x7f build/obj/chmsg.o
  .debug_frame   0x00000000       0x78 build/obj/chmsg.o
  .ARM.attributes
@@ -350,8 +350,8 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x78 build/obj/chmboxes.o
  .debug_ranges  0x00000000      0x268 build/obj/chmboxes.o
- .debug_line    0x00000000      0x638 build/obj/chmboxes.o
- .debug_str     0x00000000      0xa04 build/obj/chmboxes.o
+ .debug_line    0x00000000      0x5e6 build/obj/chmboxes.o
+ .debug_str     0x00000000      0xa01 build/obj/chmboxes.o
  .comment       0x00000000       0x7f build/obj/chmboxes.o
  .debug_frame   0x00000000      0x1a0 build/obj/chmboxes.o
  .ARM.attributes
@@ -416,8 +416,8 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x48 build/obj/chmempools.o
  .debug_ranges  0x00000000       0xe0 build/obj/chmempools.o
- .debug_line    0x00000000      0x50f build/obj/chmempools.o
- .debug_str     0x00000000      0x966 build/obj/chmempools.o
+ .debug_line    0x00000000      0x494 build/obj/chmempools.o
+ .debug_str     0x00000000      0x963 build/obj/chmempools.o
  .comment       0x00000000       0x7f build/obj/chmempools.o
  .debug_frame   0x00000000       0xe0 build/obj/chmempools.o
  .ARM.attributes
@@ -429,8 +429,8 @@ Discarded input sections
  .debug_abbrev  0x00000000      0x161 build/obj/chcore.o
  .debug_aranges
                 0x00000000       0x18 build/obj/chcore.o
- .debug_line    0x00000000      0x2be build/obj/chcore.o
- .debug_str     0x00000000      0x7e3 build/obj/chcore.o
+ .debug_line    0x00000000      0x26c build/obj/chcore.o
+ .debug_str     0x00000000      0x7e0 build/obj/chcore.o
  .comment       0x00000000       0x7f build/obj/chcore.o
  .ARM.attributes
                 0x00000000       0x39 build/obj/chcore.o
@@ -444,8 +444,8 @@ Discarded input sections
  .debug_abbrev  0x00000000      0x161 build/obj/osal.o
  .debug_aranges
                 0x00000000       0x18 build/obj/osal.o
- .debug_line    0x00000000      0x2be build/obj/osal.o
- .debug_str     0x00000000      0x7dd build/obj/osal.o
+ .debug_line    0x00000000      0x26c build/obj/osal.o
+ .debug_str     0x00000000      0x7da build/obj/osal.o
  .comment       0x00000000       0x7f build/obj/osal.o
  .ARM.attributes
                 0x00000000       0x39 build/obj/osal.o
@@ -459,8 +459,8 @@ Discarded input sections
  .debug_abbrev  0x00000000      0x1ff build/obj/hal_queues.o
  .debug_aranges
                 0x00000000       0x18 build/obj/hal_queues.o
- .debug_line    0x00000000      0x55b build/obj/hal_queues.o
- .debug_str     0x00000000     0x1319 build/obj/hal_queues.o
+ .debug_line    0x00000000      0x4e0 build/obj/hal_queues.o
+ .debug_str     0x00000000     0x1316 build/obj/hal_queues.o
  .comment       0x00000000       0x7f build/obj/hal_queues.o
  .ARM.attributes
                 0x00000000       0x39 build/obj/hal_queues.o
@@ -471,8 +471,8 @@ Discarded input sections
  .debug_abbrev  0x00000000      0x1ff build/obj/hal_mmcsd.o
  .debug_aranges
                 0x00000000       0x18 build/obj/hal_mmcsd.o
- .debug_line    0x00000000      0x55b build/obj/hal_mmcsd.o
- .debug_str     0x00000000     0x1318 build/obj/hal_mmcsd.o
+ .debug_line    0x00000000      0x4e0 build/obj/hal_mmcsd.o
+ .debug_str     0x00000000     0x1315 build/obj/hal_mmcsd.o
  .comment       0x00000000       0x7f build/obj/hal_mmcsd.o
  .ARM.attributes
                 0x00000000       0x39 build/obj/hal_mmcsd.o
@@ -483,8 +483,8 @@ Discarded input sections
  .debug_abbrev  0x00000000      0x1ff build/obj/adc.o
  .debug_aranges
                 0x00000000       0x18 build/obj/adc.o
- .debug_line    0x00000000      0x55b build/obj/adc.o
- .debug_str     0x00000000     0x1312 build/obj/adc.o
+ .debug_line    0x00000000      0x4e0 build/obj/adc.o
+ .debug_str     0x00000000     0x130f build/obj/adc.o
  .comment       0x00000000       0x7f build/obj/adc.o
  .ARM.attributes
                 0x00000000       0x39 build/obj/adc.o
@@ -495,8 +495,8 @@ Discarded input sections
  .debug_abbrev  0x00000000      0x1ff build/obj/can.o
  .debug_aranges
                 0x00000000       0x18 build/obj/can.o
- .debug_line    0x00000000      0x55b build/obj/can.o
- .debug_str     0x00000000     0x1312 build/obj/can.o
+ .debug_line    0x00000000      0x4e0 build/obj/can.o
+ .debug_str     0x00000000     0x130f build/obj/can.o
  .comment       0x00000000       0x7f build/obj/can.o
  .ARM.attributes
                 0x00000000       0x39 build/obj/can.o
@@ -507,8 +507,8 @@ Discarded input sections
  .debug_abbrev  0x00000000      0x1ff build/obj/dac.o
  .debug_aranges
                 0x00000000       0x18 build/obj/dac.o
- .debug_line    0x00000000      0x55b build/obj/dac.o
- .debug_str     0x00000000     0x1312 build/obj/dac.o
+ .debug_line    0x00000000      0x4e0 build/obj/dac.o
+ .debug_str     0x00000000     0x130f build/obj/dac.o
  .comment       0x00000000       0x7f build/obj/dac.o
  .ARM.attributes
                 0x00000000       0x39 build/obj/dac.o
@@ -519,8 +519,8 @@ Discarded input sections
  .debug_abbrev  0x00000000      0x1ff build/obj/ext.o
  .debug_aranges
                 0x00000000       0x18 build/obj/ext.o
- .debug_line    0x00000000      0x55b build/obj/ext.o
- .debug_str     0x00000000     0x1312 build/obj/ext.o
+ .debug_line    0x00000000      0x4e0 build/obj/ext.o
+ .debug_str     0x00000000     0x130f build/obj/ext.o
  .comment       0x00000000       0x7f build/obj/ext.o
  .ARM.attributes
                 0x00000000       0x39 build/obj/ext.o
@@ -564,8 +564,8 @@ Discarded input sections
  .debug_abbrev  0x00000000      0x1ff build/obj/i2s.o
  .debug_aranges
                 0x00000000       0x18 build/obj/i2s.o
- .debug_line    0x00000000      0x55b build/obj/i2s.o
- .debug_str     0x00000000     0x1312 build/obj/i2s.o
+ .debug_line    0x00000000      0x4e0 build/obj/i2s.o
+ .debug_str     0x00000000     0x130f build/obj/i2s.o
  .comment       0x00000000       0x7f build/obj/i2s.o
  .ARM.attributes
                 0x00000000       0x39 build/obj/i2s.o
@@ -576,8 +576,8 @@ Discarded input sections
  .debug_abbrev  0x00000000      0x1ff build/obj/icu.o
  .debug_aranges
                 0x00000000       0x18 build/obj/icu.o
- .debug_line    0x00000000      0x55b build/obj/icu.o
- .debug_str     0x00000000     0x1312 build/obj/icu.o
+ .debug_line    0x00000000      0x4e0 build/obj/icu.o
+ .debug_str     0x00000000     0x130f build/obj/icu.o
  .comment       0x00000000       0x7f build/obj/icu.o
  .ARM.attributes
                 0x00000000       0x39 build/obj/icu.o
@@ -588,8 +588,8 @@ Discarded input sections
  .debug_abbrev  0x00000000      0x1ff build/obj/mac.o
  .debug_aranges
                 0x00000000       0x18 build/obj/mac.o
- .debug_line    0x00000000      0x55b build/obj/mac.o
- .debug_str     0x00000000     0x1312 build/obj/mac.o
+ .debug_line    0x00000000      0x4e0 build/obj/mac.o
+ .debug_str     0x00000000     0x130f build/obj/mac.o
  .comment       0x00000000       0x7f build/obj/mac.o
  .ARM.attributes
                 0x00000000       0x39 build/obj/mac.o
@@ -600,8 +600,8 @@ Discarded input sections
  .debug_abbrev  0x00000000      0x21e build/obj/mmc_spi.o
  .debug_aranges
                 0x00000000       0x18 build/obj/mmc_spi.o
- .debug_line    0x00000000      0x57c build/obj/mmc_spi.o
- .debug_str     0x00000000     0x16f2 build/obj/mmc_spi.o
+ .debug_line    0x00000000      0x501 build/obj/mmc_spi.o
+ .debug_str     0x00000000     0x16ef build/obj/mmc_spi.o
  .comment       0x00000000       0x7f build/obj/mmc_spi.o
  .ARM.attributes
                 0x00000000       0x39 build/obj/mmc_spi.o
@@ -626,8 +626,8 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x30 build/obj/pal.o
  .debug_ranges  0x00000000       0x20 build/obj/pal.o
- .debug_line    0x00000000      0x681 build/obj/pal.o
- .debug_str     0x00000000     0x13e7 build/obj/pal.o
+ .debug_line    0x00000000      0x5dd build/obj/pal.o
+ .debug_str     0x00000000     0x13e4 build/obj/pal.o
  .comment       0x00000000       0x7f build/obj/pal.o
  .debug_frame   0x00000000       0x78 build/obj/pal.o
  .ARM.attributes
@@ -639,8 +639,8 @@ Discarded input sections
  .debug_abbrev  0x00000000      0x1ff build/obj/pwm.o
  .debug_aranges
                 0x00000000       0x18 build/obj/pwm.o
- .debug_line    0x00000000      0x55b build/obj/pwm.o
- .debug_str     0x00000000     0x1312 build/obj/pwm.o
+ .debug_line    0x00000000      0x4e0 build/obj/pwm.o
+ .debug_str     0x00000000     0x130f build/obj/pwm.o
  .comment       0x00000000       0x7f build/obj/pwm.o
  .ARM.attributes
                 0x00000000       0x39 build/obj/pwm.o
@@ -651,8 +651,8 @@ Discarded input sections
  .debug_abbrev  0x00000000      0x1ff build/obj/rtc.o
  .debug_aranges
                 0x00000000       0x18 build/obj/rtc.o
- .debug_line    0x00000000      0x55b build/obj/rtc.o
- .debug_str     0x00000000     0x1312 build/obj/rtc.o
+ .debug_line    0x00000000      0x4e0 build/obj/rtc.o
+ .debug_str     0x00000000     0x130f build/obj/rtc.o
  .comment       0x00000000       0x7f build/obj/rtc.o
  .ARM.attributes
                 0x00000000       0x39 build/obj/rtc.o
@@ -663,8 +663,8 @@ Discarded input sections
  .debug_abbrev  0x00000000      0x21e build/obj/sdc.o
  .debug_aranges
                 0x00000000       0x18 build/obj/sdc.o
- .debug_line    0x00000000      0x57c build/obj/sdc.o
- .debug_str     0x00000000     0x16ee build/obj/sdc.o
+ .debug_line    0x00000000      0x501 build/obj/sdc.o
+ .debug_str     0x00000000     0x16eb build/obj/sdc.o
  .comment       0x00000000       0x7f build/obj/sdc.o
  .ARM.attributes
                 0x00000000       0x39 build/obj/sdc.o
@@ -722,8 +722,8 @@ Discarded input sections
  .debug_abbrev  0x00000000      0x1ff build/obj/spi.o
  .debug_aranges
                 0x00000000       0x18 build/obj/spi.o
- .debug_line    0x00000000      0x55b build/obj/spi.o
- .debug_str     0x00000000     0x1312 build/obj/spi.o
+ .debug_line    0x00000000      0x4e0 build/obj/spi.o
+ .debug_str     0x00000000     0x130f build/obj/spi.o
  .comment       0x00000000       0x7f build/obj/spi.o
  .ARM.attributes
                 0x00000000       0x39 build/obj/spi.o
@@ -751,8 +751,8 @@ Discarded input sections
  .debug_abbrev  0x00000000      0x1ff build/obj/uart.o
  .debug_aranges
                 0x00000000       0x18 build/obj/uart.o
- .debug_line    0x00000000      0x55b build/obj/uart.o
- .debug_str     0x00000000     0x1313 build/obj/uart.o
+ .debug_line    0x00000000      0x4e0 build/obj/uart.o
+ .debug_str     0x00000000     0x1310 build/obj/uart.o
  .comment       0x00000000       0x7f build/obj/uart.o
  .ARM.attributes
                 0x00000000       0x39 build/obj/uart.o
@@ -812,8 +812,8 @@ Discarded input sections
  .debug_abbrev  0x00000000      0x1ff build/obj/adc_lld.o
  .debug_aranges
                 0x00000000       0x18 build/obj/adc_lld.o
- .debug_line    0x00000000      0x55b build/obj/adc_lld.o
- .debug_str     0x00000000     0x1328 build/obj/adc_lld.o
+ .debug_line    0x00000000      0x4e0 build/obj/adc_lld.o
+ .debug_str     0x00000000     0x1325 build/obj/adc_lld.o
  .comment       0x00000000       0x7f build/obj/adc_lld.o
  .ARM.attributes
                 0x00000000       0x39 build/obj/adc_lld.o
@@ -824,8 +824,8 @@ Discarded input sections
  .debug_abbrev  0x00000000      0x1ff build/obj/ext_lld_isr.o
  .debug_aranges
                 0x00000000       0x18 build/obj/ext_lld_isr.o
- .debug_line    0x00000000      0x55b build/obj/ext_lld_isr.o
- .debug_str     0x00000000     0x132c build/obj/ext_lld_isr.o
+ .debug_line    0x00000000      0x4e0 build/obj/ext_lld_isr.o
+ .debug_str     0x00000000     0x1329 build/obj/ext_lld_isr.o
  .comment       0x00000000       0x7f build/obj/ext_lld_isr.o
  .ARM.attributes
                 0x00000000       0x39 build/obj/ext_lld_isr.o
@@ -836,8 +836,8 @@ Discarded input sections
  .debug_abbrev  0x00000000      0x1ff build/obj/can_lld.o
  .debug_aranges
                 0x00000000       0x18 build/obj/can_lld.o
- .debug_line    0x00000000      0x55b build/obj/can_lld.o
- .debug_str     0x00000000     0x1322 build/obj/can_lld.o
+ .debug_line    0x00000000      0x4e0 build/obj/can_lld.o
+ .debug_str     0x00000000     0x131f build/obj/can_lld.o
  .comment       0x00000000       0x7f build/obj/can_lld.o
  .ARM.attributes
                 0x00000000       0x39 build/obj/can_lld.o
@@ -848,8 +848,8 @@ Discarded input sections
  .debug_abbrev  0x00000000      0x1ff build/obj/ext_lld.o
  .debug_aranges
                 0x00000000       0x18 build/obj/ext_lld.o
- .debug_line    0x00000000      0x55b build/obj/ext_lld.o
- .debug_str     0x00000000     0x1322 build/obj/ext_lld.o
+ .debug_line    0x00000000      0x4e0 build/obj/ext_lld.o
+ .debug_str     0x00000000     0x131f build/obj/ext_lld.o
  .comment       0x00000000       0x7f build/obj/ext_lld.o
  .ARM.attributes
                 0x00000000       0x39 build/obj/ext_lld.o
@@ -860,8 +860,8 @@ Discarded input sections
  .debug_abbrev  0x00000000      0x21e build/obj/mac_lld.o
  .debug_aranges
                 0x00000000       0x18 build/obj/mac_lld.o
- .debug_line    0x00000000      0x57c build/obj/mac_lld.o
- .debug_str     0x00000000     0x16fe build/obj/mac_lld.o
+ .debug_line    0x00000000      0x501 build/obj/mac_lld.o
+ .debug_str     0x00000000     0x16fb build/obj/mac_lld.o
  .comment       0x00000000       0x7f build/obj/mac_lld.o
  .ARM.attributes
                 0x00000000       0x39 build/obj/mac_lld.o
@@ -872,8 +872,8 @@ Discarded input sections
  .debug_abbrev  0x00000000      0x21e build/obj/sdc_lld.o
  .debug_aranges
                 0x00000000       0x18 build/obj/sdc_lld.o
- .debug_line    0x00000000      0x57c build/obj/sdc_lld.o
- .debug_str     0x00000000     0x16fe build/obj/sdc_lld.o
+ .debug_line    0x00000000      0x501 build/obj/sdc_lld.o
+ .debug_str     0x00000000     0x16fb build/obj/sdc_lld.o
  .comment       0x00000000       0x7f build/obj/sdc_lld.o
  .ARM.attributes
                 0x00000000       0x39 build/obj/sdc_lld.o
@@ -884,8 +884,8 @@ Discarded input sections
  .debug_abbrev  0x00000000      0x1ff build/obj/dac_lld.o
  .debug_aranges
                 0x00000000       0x18 build/obj/dac_lld.o
- .debug_line    0x00000000      0x55b build/obj/dac_lld.o
- .debug_str     0x00000000     0x1328 build/obj/dac_lld.o
+ .debug_line    0x00000000      0x4e0 build/obj/dac_lld.o
+ .debug_str     0x00000000     0x1325 build/obj/dac_lld.o
  .comment       0x00000000       0x7f build/obj/dac_lld.o
  .ARM.attributes
                 0x00000000       0x39 build/obj/dac_lld.o
@@ -925,8 +925,8 @@ Discarded input sections
  .debug_abbrev  0x00000000      0x1ff build/obj/rtc_lld.o
  .debug_aranges
                 0x00000000       0x18 build/obj/rtc_lld.o
- .debug_line    0x00000000      0x55b build/obj/rtc_lld.o
- .debug_str     0x00000000     0x1328 build/obj/rtc_lld.o
+ .debug_line    0x00000000      0x4e0 build/obj/rtc_lld.o
+ .debug_str     0x00000000     0x1325 build/obj/rtc_lld.o
  .comment       0x00000000       0x7f build/obj/rtc_lld.o
  .ARM.attributes
                 0x00000000       0x39 build/obj/rtc_lld.o
@@ -937,8 +937,8 @@ Discarded input sections
  .debug_abbrev  0x00000000      0x1ff build/obj/i2s_lld.o
  .debug_aranges
                 0x00000000       0x18 build/obj/i2s_lld.o
- .debug_line    0x00000000      0x55b build/obj/i2s_lld.o
- .debug_str     0x00000000     0x1328 build/obj/i2s_lld.o
+ .debug_line    0x00000000      0x4e0 build/obj/i2s_lld.o
+ .debug_str     0x00000000     0x1325 build/obj/i2s_lld.o
  .comment       0x00000000       0x7f build/obj/i2s_lld.o
  .ARM.attributes
                 0x00000000       0x39 build/obj/i2s_lld.o
@@ -949,8 +949,8 @@ Discarded input sections
  .debug_abbrev  0x00000000      0x1ff build/obj/spi_lld.o
  .debug_aranges
                 0x00000000       0x18 build/obj/spi_lld.o
- .debug_line    0x00000000      0x55b build/obj/spi_lld.o
- .debug_str     0x00000000     0x1328 build/obj/spi_lld.o
+ .debug_line    0x00000000      0x4e0 build/obj/spi_lld.o
+ .debug_str     0x00000000     0x1325 build/obj/spi_lld.o
  .comment       0x00000000       0x7f build/obj/spi_lld.o
  .ARM.attributes
                 0x00000000       0x39 build/obj/spi_lld.o
@@ -970,8 +970,8 @@ Discarded input sections
  .debug_abbrev  0x00000000      0x1ff build/obj/icu_lld.o
  .debug_aranges
                 0x00000000       0x18 build/obj/icu_lld.o
- .debug_line    0x00000000      0x55b build/obj/icu_lld.o
- .debug_str     0x00000000     0x1328 build/obj/icu_lld.o
+ .debug_line    0x00000000      0x4e0 build/obj/icu_lld.o
+ .debug_str     0x00000000     0x1325 build/obj/icu_lld.o
  .comment       0x00000000       0x7f build/obj/icu_lld.o
  .ARM.attributes
                 0x00000000       0x39 build/obj/icu_lld.o
@@ -982,8 +982,8 @@ Discarded input sections
  .debug_abbrev  0x00000000      0x1ff build/obj/pwm_lld.o
  .debug_aranges
                 0x00000000       0x18 build/obj/pwm_lld.o
- .debug_line    0x00000000      0x55b build/obj/pwm_lld.o
- .debug_str     0x00000000     0x1328 build/obj/pwm_lld.o
+ .debug_line    0x00000000      0x4e0 build/obj/pwm_lld.o
+ .debug_str     0x00000000     0x1325 build/obj/pwm_lld.o
  .comment       0x00000000       0x7f build/obj/pwm_lld.o
  .ARM.attributes
                 0x00000000       0x39 build/obj/pwm_lld.o
@@ -1002,8 +1002,8 @@ Discarded input sections
  .debug_abbrev  0x00000000      0x1ff build/obj/uart_lld.o
  .debug_aranges
                 0x00000000       0x18 build/obj/uart_lld.o
- .debug_line    0x00000000      0x55b build/obj/uart_lld.o
- .debug_str     0x00000000     0x132b build/obj/uart_lld.o
+ .debug_line    0x00000000      0x4e0 build/obj/uart_lld.o
+ .debug_str     0x00000000     0x1328 build/obj/uart_lld.o
  .comment       0x00000000       0x7f build/obj/uart_lld.o
  .ARM.attributes
                 0x00000000       0x39 build/obj/uart_lld.o
@@ -1074,24 +1074,24 @@ Discarded input sections
                 0x00000000       0x1c build/obj/imu.o
  .text.get_temperature
                 0x00000000        0xc build/obj/imu.o
- .data          0x00000000        0x0 c:/users/41774/documents/epfl/ba6/robotique/eclipse_e-puck2/tools/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_addsubdf3.o)
- .bss           0x00000000        0x0 c:/users/41774/documents/epfl/ba6/robotique/eclipse_e-puck2/tools/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_addsubdf3.o)
- .data          0x00000000        0x0 c:/users/41774/documents/epfl/ba6/robotique/eclipse_e-puck2/tools/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_muldivdf3.o)
- .bss           0x00000000        0x0 c:/users/41774/documents/epfl/ba6/robotique/eclipse_e-puck2/tools/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_muldivdf3.o)
- .data          0x00000000        0x0 c:/users/41774/documents/epfl/ba6/robotique/eclipse_e-puck2/tools/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_fixdfsi.o)
- .bss           0x00000000        0x0 c:/users/41774/documents/epfl/ba6/robotique/eclipse_e-puck2/tools/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_fixdfsi.o)
- .data          0x00000000        0x0 c:/users/41774/documents/epfl/ba6/robotique/eclipse_e-puck2/tools/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_truncdfsf2.o)
- .bss           0x00000000        0x0 c:/users/41774/documents/epfl/ba6/robotique/eclipse_e-puck2/tools/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_truncdfsf2.o)
- .data          0x00000000        0x0 c:/users/41774/documents/epfl/ba6/robotique/eclipse_e-puck2/tools/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libg.a(lib_a-memcpy.o)
- .bss           0x00000000        0x0 c:/users/41774/documents/epfl/ba6/robotique/eclipse_e-puck2/tools/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libg.a(lib_a-memcpy.o)
- .text          0x00000000        0x0 c:/users/41774/documents/epfl/ba6/robotique/eclipse_e-puck2/tools/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libg.a(lib_a-memset.o)
- .data          0x00000000        0x0 c:/users/41774/documents/epfl/ba6/robotique/eclipse_e-puck2/tools/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libg.a(lib_a-memset.o)
- .bss           0x00000000        0x0 c:/users/41774/documents/epfl/ba6/robotique/eclipse_e-puck2/tools/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libg.a(lib_a-memset.o)
- .data          0x00000000        0x0 c:/users/41774/documents/epfl/ba6/robotique/eclipse_e-puck2/tools/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libg.a(lib_a-strcmp.o)
- .bss           0x00000000        0x0 c:/users/41774/documents/epfl/ba6/robotique/eclipse_e-puck2/tools/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libg.a(lib_a-strcmp.o)
- .text          0x00000000        0x0 c:/users/41774/documents/epfl/ba6/robotique/eclipse_e-puck2/tools/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libg.a(lib_a-strncpy.o)
- .data          0x00000000        0x0 c:/users/41774/documents/epfl/ba6/robotique/eclipse_e-puck2/tools/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libg.a(lib_a-strncpy.o)
- .bss           0x00000000        0x0 c:/users/41774/documents/epfl/ba6/robotique/eclipse_e-puck2/tools/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libg.a(lib_a-strncpy.o)
+ .data          0x00000000        0x0 c:/eclipse_e-puck2/tools/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_addsubdf3.o)
+ .bss           0x00000000        0x0 c:/eclipse_e-puck2/tools/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_addsubdf3.o)
+ .data          0x00000000        0x0 c:/eclipse_e-puck2/tools/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_muldivdf3.o)
+ .bss           0x00000000        0x0 c:/eclipse_e-puck2/tools/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_muldivdf3.o)
+ .data          0x00000000        0x0 c:/eclipse_e-puck2/tools/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_fixdfsi.o)
+ .bss           0x00000000        0x0 c:/eclipse_e-puck2/tools/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_fixdfsi.o)
+ .data          0x00000000        0x0 c:/eclipse_e-puck2/tools/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_truncdfsf2.o)
+ .bss           0x00000000        0x0 c:/eclipse_e-puck2/tools/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_truncdfsf2.o)
+ .data          0x00000000        0x0 c:/eclipse_e-puck2/tools/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libg.a(lib_a-memcpy.o)
+ .bss           0x00000000        0x0 c:/eclipse_e-puck2/tools/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libg.a(lib_a-memcpy.o)
+ .text          0x00000000        0x0 c:/eclipse_e-puck2/tools/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libg.a(lib_a-memset.o)
+ .data          0x00000000        0x0 c:/eclipse_e-puck2/tools/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libg.a(lib_a-memset.o)
+ .bss           0x00000000        0x0 c:/eclipse_e-puck2/tools/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libg.a(lib_a-memset.o)
+ .data          0x00000000        0x0 c:/eclipse_e-puck2/tools/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libg.a(lib_a-strcmp.o)
+ .bss           0x00000000        0x0 c:/eclipse_e-puck2/tools/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libg.a(lib_a-strcmp.o)
+ .text          0x00000000        0x0 c:/eclipse_e-puck2/tools/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libg.a(lib_a-strncpy.o)
+ .data          0x00000000        0x0 c:/eclipse_e-puck2/tools/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libg.a(lib_a-strncpy.o)
+ .bss           0x00000000        0x0 c:/eclipse_e-puck2/tools/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libg.a(lib_a-strncpy.o)
 
 Memory Configuration
 
@@ -1188,7 +1188,7 @@ LOAD build/obj/i2c_bus.o
 LOAD build/obj/main.o
 LOAD build/obj/mpu9250.o
 LOAD build/obj/imu.o
-LOAD c:/users/41774/documents/epfl/ba6/robotique/eclipse_e-puck2/tools/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libm.a
+LOAD c:/eclipse_e-puck2/tools/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libm.a
                 0x20000000                __ram0_start__ = ORIGIN (ram0)
                 0x00020000                __ram0_size__ = LENGTH (ram0)
                 0x20020000                __ram0_end__ = (__ram0_start__ + __ram0_size__)
@@ -1243,7 +1243,7 @@ destructors     0x080001c0        0x0
                 0x080002e0                _port_switch_from_isr
                 0x080002f4                _port_exit_from_isr
  *fill*         0x080002f8        0x8 
- .text          0x08000300      0x378 c:/users/41774/documents/epfl/ba6/robotique/eclipse_e-puck2/tools/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_addsubdf3.o)
+ .text          0x08000300      0x378 c:/eclipse_e-puck2/tools/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_addsubdf3.o)
                 0x08000300                __aeabi_drsub
                 0x08000308                __aeabi_dsub
                 0x08000308                __subdf3
@@ -1260,22 +1260,22 @@ destructors     0x080001c0        0x0
                 0x0800061c                __floatdidf
                 0x0800061c                __aeabi_l2d
  *fill*         0x08000678        0x8 
- .text          0x08000680      0x424 c:/users/41774/documents/epfl/ba6/robotique/eclipse_e-puck2/tools/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_muldivdf3.o)
+ .text          0x08000680      0x424 c:/eclipse_e-puck2/tools/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_muldivdf3.o)
                 0x08000680                __aeabi_dmul
                 0x08000680                __muldf3
                 0x080008d4                __divdf3
                 0x080008d4                __aeabi_ddiv
  *fill*         0x08000aa4        0xc 
- .text          0x08000ab0       0x50 c:/users/41774/documents/epfl/ba6/robotique/eclipse_e-puck2/tools/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_fixdfsi.o)
+ .text          0x08000ab0       0x50 c:/eclipse_e-puck2/tools/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_fixdfsi.o)
                 0x08000ab0                __aeabi_d2iz
                 0x08000ab0                __fixdfsi
- .text          0x08000b00       0xa0 c:/users/41774/documents/epfl/ba6/robotique/eclipse_e-puck2/tools/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_truncdfsf2.o)
+ .text          0x08000b00       0xa0 c:/eclipse_e-puck2/tools/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_truncdfsf2.o)
                 0x08000b00                __truncdfsf2
                 0x08000b00                __aeabi_d2f
- .text          0x08000ba0      0x134 c:/users/41774/documents/epfl/ba6/robotique/eclipse_e-puck2/tools/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libg.a(lib_a-memcpy.o)
+ .text          0x08000ba0      0x134 c:/eclipse_e-puck2/tools/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libg.a(lib_a-memcpy.o)
                 0x08000ba0                memcpy
  *fill*         0x08000cd4        0xc 
- .text          0x08000ce0      0x2dc c:/users/41774/documents/epfl/ba6/robotique/eclipse_e-puck2/tools/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libg.a(lib_a-strcmp.o)
+ .text          0x08000ce0      0x2dc c:/eclipse_e-puck2/tools/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libg.a(lib_a-strcmp.o)
                 0x08000ce8                strcmp
  *(.text.*)
  *fill*         0x08000fbc        0x4 
@@ -2112,10 +2112,10 @@ destructors     0x080001c0        0x0
                 0x08005c30       0xac build/obj/imu.o
                 0x08005c30                imu_compute_offset
  *fill*         0x08005cdc        0x4 
- .text.memset   0x08005ce0       0x94 c:/users/41774/documents/epfl/ba6/robotique/eclipse_e-puck2/tools/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libg.a(lib_a-memset.o)
+ .text.memset   0x08005ce0       0x94 c:/eclipse_e-puck2/tools/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libg.a(lib_a-memset.o)
                 0x08005ce0                memset
  *fill*         0x08005d74        0xc 
- .text.strncpy  0x08005d80       0x64 c:/users/41774/documents/epfl/ba6/robotique/eclipse_e-puck2/tools/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libg.a(lib_a-strncpy.o)
+ .text.strncpy  0x08005d80       0x64 c:/eclipse_e-puck2/tools/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libg.a(lib_a-strncpy.o)
                 0x08005d80                strncpy
  *(.rodata)
  *(.rodata.*)
@@ -2539,9 +2539,9 @@ destructors     0x080001c0        0x0
                 0x00000400                __process_stack_size__ = 0x400
                 0x00000400                __main_stack_size__ = 0x400
 START GROUP
-LOAD c:/users/41774/documents/epfl/ba6/robotique/eclipse_e-puck2/tools/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a
-LOAD c:/users/41774/documents/epfl/ba6/robotique/eclipse_e-puck2/tools/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libg.a
-LOAD c:/users/41774/documents/epfl/ba6/robotique/eclipse_e-puck2/tools/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a
+LOAD c:/eclipse_e-puck2/tools/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a
+LOAD c:/eclipse_e-puck2/tools/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libg.a
+LOAD c:/eclipse_e-puck2/tools/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc.a
 END GROUP
 OUTPUT(build/Chibi.elf elf32-littlearm)
 
@@ -2634,21 +2634,21 @@ OUTPUT(build/Chibi.elf elf32-littlearm)
  .ARM.attributes
                 0x00000932       0x39 build/obj/imu.o
  .ARM.attributes
-                0x0000096b       0x22 c:/users/41774/documents/epfl/ba6/robotique/eclipse_e-puck2/tools/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_addsubdf3.o)
+                0x0000096b       0x22 c:/eclipse_e-puck2/tools/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_addsubdf3.o)
  .ARM.attributes
-                0x0000098d       0x22 c:/users/41774/documents/epfl/ba6/robotique/eclipse_e-puck2/tools/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_muldivdf3.o)
+                0x0000098d       0x22 c:/eclipse_e-puck2/tools/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_muldivdf3.o)
  .ARM.attributes
-                0x000009af       0x22 c:/users/41774/documents/epfl/ba6/robotique/eclipse_e-puck2/tools/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_fixdfsi.o)
+                0x000009af       0x22 c:/eclipse_e-puck2/tools/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_fixdfsi.o)
  .ARM.attributes
-                0x000009d1       0x22 c:/users/41774/documents/epfl/ba6/robotique/eclipse_e-puck2/tools/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_truncdfsf2.o)
+                0x000009d1       0x22 c:/eclipse_e-puck2/tools/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_truncdfsf2.o)
  .ARM.attributes
-                0x000009f3       0x20 c:/users/41774/documents/epfl/ba6/robotique/eclipse_e-puck2/tools/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libg.a(lib_a-memcpy.o)
+                0x000009f3       0x20 c:/eclipse_e-puck2/tools/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libg.a(lib_a-memcpy.o)
  .ARM.attributes
-                0x00000a13       0x34 c:/users/41774/documents/epfl/ba6/robotique/eclipse_e-puck2/tools/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libg.a(lib_a-memset.o)
+                0x00000a13       0x34 c:/eclipse_e-puck2/tools/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libg.a(lib_a-memset.o)
  .ARM.attributes
-                0x00000a47       0x20 c:/users/41774/documents/epfl/ba6/robotique/eclipse_e-puck2/tools/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libg.a(lib_a-strcmp.o)
+                0x00000a47       0x20 c:/eclipse_e-puck2/tools/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libg.a(lib_a-strcmp.o)
  .ARM.attributes
-                0x00000a67       0x34 c:/users/41774/documents/epfl/ba6/robotique/eclipse_e-puck2/tools/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libg.a(lib_a-strncpy.o)
+                0x00000a67       0x34 c:/eclipse_e-puck2/tools/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libg.a(lib_a-strncpy.o)
 
 .comment        0x00000000       0x7e
  .comment       0x00000000       0x7e build/obj/crt1.o
@@ -2907,131 +2907,131 @@ OUTPUT(build/Chibi.elf elf32-littlearm)
  .debug_ranges  0x00002828      0x240 build/obj/mpu9250.o
  .debug_ranges  0x00002a68      0x110 build/obj/imu.o
 
-.debug_line     0x00000000    0x104f6
+.debug_line     0x00000000     0xf32f
  .debug_line    0x00000000       0x7e build/obj/crt1.o
- .debug_line    0x0000007e      0x20c build/obj/vectors.o
- .debug_line    0x0000028a      0x5b5 build/obj/chsys.o
- .debug_line    0x0000083f      0x498 build/obj/chdebug.o
- .debug_line    0x00000cd7      0x37d build/obj/chvt.o
- .debug_line    0x00001054      0x67b build/obj/chschd.o
- .debug_line    0x000016cf      0x9a6 build/obj/chthreads.o
- .debug_line    0x00002075      0x3d0 build/obj/chtm.o
- .debug_line    0x00002445      0x36c build/obj/chstats.o
- .debug_line    0x000027b1      0x466 build/obj/chregistry.o
- .debug_line    0x00002c17      0x74b build/obj/chmtx.o
- .debug_line    0x00003362      0x613 build/obj/chcond.o
- .debug_line    0x00003975      0x7e5 build/obj/chevents.o
- .debug_line    0x0000415a      0x687 build/obj/chqueues.o
- .debug_line    0x000047e1      0x433 build/obj/chmemcore.o
- .debug_line    0x00004c14      0x4a1 build/obj/chheap.o
- .debug_line    0x000050b5      0x36d build/obj/chcore_v7m.o
- .debug_line    0x00005422      0x60e build/obj/hal.o
- .debug_line    0x00005a30      0x896 build/obj/gpt.o
- .debug_line    0x000062c6      0x872 build/obj/i2c.o
- .debug_line    0x00006b38      0x7b5 build/obj/serial.o
- .debug_line    0x000072ed      0x963 build/obj/serial_usb.o
- .debug_line    0x00007c50      0x66b build/obj/st.o
- .debug_line    0x000082bb      0xace build/obj/usb.o
- .debug_line    0x00008d89      0x5fd build/obj/nvic.o
- .debug_line    0x00009386      0x817 build/obj/stm32_dma.o
- .debug_line    0x00009b9d      0x602 build/obj/hal_lld.o
- .debug_line    0x0000a19f      0x60f build/obj/pal_lld.o
- .debug_line    0x0000a7ae      0xa15 build/obj/i2c_lld.o
- .debug_line    0x0000b1c3      0xcb1 build/obj/usb_lld.o
- .debug_line    0x0000be74      0x69a build/obj/gpt_lld.o
- .debug_line    0x0000c50e      0x637 build/obj/st_lld.o
- .debug_line    0x0000cb45      0x779 build/obj/serial_lld.o
- .debug_line    0x0000d2be      0x5a4 build/obj/board.o
- .debug_line    0x0000d862      0x75c build/obj/chprintf.o
- .debug_line    0x0000dfbe      0x37b build/obj/messagebus.o
- .debug_line    0x0000e339      0x34b build/obj/port.o
- .debug_line    0x0000e684      0x658 build/obj/i2c_bus.o
- .debug_line    0x0000ecdc      0x817 build/obj/main.o
- .debug_line    0x0000f4f3      0x750 build/obj/mpu9250.o
- .debug_line    0x0000fc43      0x8b3 build/obj/imu.o
+ .debug_line    0x0000007e      0x1ba build/obj/vectors.o
+ .debug_line    0x00000238      0x563 build/obj/chsys.o
+ .debug_line    0x0000079b      0x446 build/obj/chdebug.o
+ .debug_line    0x00000be1      0x32b build/obj/chvt.o
+ .debug_line    0x00000f0c      0x600 build/obj/chschd.o
+ .debug_line    0x0000150c      0x92b build/obj/chthreads.o
+ .debug_line    0x00001e37      0x37e build/obj/chtm.o
+ .debug_line    0x000021b5      0x31a build/obj/chstats.o
+ .debug_line    0x000024cf      0x3eb build/obj/chregistry.o
+ .debug_line    0x000028ba      0x6f9 build/obj/chmtx.o
+ .debug_line    0x00002fb3      0x5c1 build/obj/chcond.o
+ .debug_line    0x00003574      0x793 build/obj/chevents.o
+ .debug_line    0x00003d07      0x60c build/obj/chqueues.o
+ .debug_line    0x00004313      0x3b8 build/obj/chmemcore.o
+ .debug_line    0x000046cb      0x426 build/obj/chheap.o
+ .debug_line    0x00004af1      0x31b build/obj/chcore_v7m.o
+ .debug_line    0x00004e0c      0x593 build/obj/hal.o
+ .debug_line    0x0000539f      0x81b build/obj/gpt.o
+ .debug_line    0x00005bba      0x7f7 build/obj/i2c.o
+ .debug_line    0x000063b1      0x73a build/obj/serial.o
+ .debug_line    0x00006aeb      0x8e8 build/obj/serial_usb.o
+ .debug_line    0x000073d3      0x5f0 build/obj/st.o
+ .debug_line    0x000079c3      0xa53 build/obj/usb.o
+ .debug_line    0x00008416      0x582 build/obj/nvic.o
+ .debug_line    0x00008998      0x79c build/obj/stm32_dma.o
+ .debug_line    0x00009134      0x587 build/obj/hal_lld.o
+ .debug_line    0x000096bb      0x594 build/obj/pal_lld.o
+ .debug_line    0x00009c4f      0x99a build/obj/i2c_lld.o
+ .debug_line    0x0000a5e9      0xc36 build/obj/usb_lld.o
+ .debug_line    0x0000b21f      0x61f build/obj/gpt_lld.o
+ .debug_line    0x0000b83e      0x5bc build/obj/st_lld.o
+ .debug_line    0x0000bdfa      0x6fe build/obj/serial_lld.o
+ .debug_line    0x0000c4f8      0x529 build/obj/board.o
+ .debug_line    0x0000ca21      0x6e1 build/obj/chprintf.o
+ .debug_line    0x0000d102      0x300 build/obj/messagebus.o
+ .debug_line    0x0000d402      0x2f9 build/obj/port.o
+ .debug_line    0x0000d6fb      0x5dd build/obj/i2c_bus.o
+ .debug_line    0x0000dcd8      0x773 build/obj/main.o
+ .debug_line    0x0000e44b      0x6d5 build/obj/mpu9250.o
+ .debug_line    0x0000eb20      0x80f build/obj/imu.o
 
-.debug_str      0x00000000     0x48aa
- .debug_str     0x00000000      0x1c2 build/obj/crt1.o
- .debug_str     0x000001c2      0x1ef build/obj/vectors.o
-                                0x398 (size before relaxing)
- .debug_str     0x000003b1     0x1014 build/obj/chsys.o
-                               0x12c5 (size before relaxing)
- .debug_str     0x000013c5       0xa5 build/obj/chdebug.o
-                                0x93f (size before relaxing)
- .debug_str     0x0000146a       0x42 build/obj/chvt.o
-                                0x830 (size before relaxing)
- .debug_str     0x000014ac      0x162 build/obj/chschd.o
-                                0xa87 (size before relaxing)
- .debug_str     0x0000160e      0x251 build/obj/chthreads.o
-                                0xbc8 (size before relaxing)
- .debug_str     0x0000185f       0x62 build/obj/chtm.o
-                                0x915 (size before relaxing)
- .debug_str     0x000018c1       0x3a build/obj/chstats.o
-                                0x8d1 (size before relaxing)
- .debug_str     0x000018fb       0x4a build/obj/chregistry.o
-                                0x8c3 (size before relaxing)
- .debug_str     0x00001945       0xb2 build/obj/chmtx.o
-                                0x9a8 (size before relaxing)
- .debug_str     0x000019f7       0xf1 build/obj/chcond.o
-                                0xa34 (size before relaxing)
- .debug_str     0x00001ae8      0x1f9 build/obj/chevents.o
-                                0xac8 (size before relaxing)
- .debug_str     0x00001ce1      0x17b build/obj/chqueues.o
-                                0xa53 (size before relaxing)
- .debug_str     0x00001e5c       0x7c build/obj/chmemcore.o
-                                0x909 (size before relaxing)
- .debug_str     0x00001ed8       0xbe build/obj/chheap.o
-                                0x8d3 (size before relaxing)
- .debug_str     0x00001f96       0xca build/obj/chcore_v7m.o
-                                0x95a (size before relaxing)
- .debug_str     0x00002060      0xa4b build/obj/hal.o
-                               0x1376 (size before relaxing)
- .debug_str     0x00002aab      0x15b build/obj/gpt.o
-                               0x1513 (size before relaxing)
- .debug_str     0x00002c06      0x14a build/obj/i2c.o
-                               0x1539 (size before relaxing)
- .debug_str     0x00002d50       0xf2 build/obj/serial.o
-                               0x158f (size before relaxing)
- .debug_str     0x00002e42      0x203 build/obj/serial_usb.o
-                               0x179e (size before relaxing)
- .debug_str     0x00003045       0xc3 build/obj/st.o
-                               0x13d1 (size before relaxing)
- .debug_str     0x00003108      0x653 build/obj/usb.o
-                               0x1ba7 (size before relaxing)
- .debug_str     0x0000375b       0x85 build/obj/nvic.o
-                               0x144b (size before relaxing)
- .debug_str     0x000037e0      0x233 build/obj/stm32_dma.o
-                               0x1af7 (size before relaxing)
- .debug_str     0x00003a13       0x94 build/obj/hal_lld.o
-                               0x1499 (size before relaxing)
- .debug_str     0x00003aa7       0xd5 build/obj/pal_lld.o
-                               0x14d3 (size before relaxing)
- .debug_str     0x00003b7c      0x17b build/obj/i2c_lld.o
-                               0x1da4 (size before relaxing)
- .debug_str     0x00003cf7      0x23b build/obj/usb_lld.o
-                               0x1ea2 (size before relaxing)
- .debug_str     0x00003f32       0x5a build/obj/gpt_lld.o
-                               0x1555 (size before relaxing)
- .debug_str     0x00003f8c       0x74 build/obj/st_lld.o
-                               0x1502 (size before relaxing)
- .debug_str     0x00004000       0x71 build/obj/serial_lld.o
-                               0x16ac (size before relaxing)
- .debug_str     0x00004071       0x17 build/obj/board.o
-                               0x132e (size before relaxing)
- .debug_str     0x00004088      0x146 build/obj/chprintf.o
-                               0x1458 (size before relaxing)
- .debug_str     0x000041ce      0x2dc build/obj/messagebus.o
+.debug_str      0x00000000     0x48a7
+ .debug_str     0x00000000      0x1bf build/obj/crt1.o
+ .debug_str     0x000001bf      0x1ef build/obj/vectors.o
+                                0x395 (size before relaxing)
+ .debug_str     0x000003ae     0x1014 build/obj/chsys.o
+                               0x12c2 (size before relaxing)
+ .debug_str     0x000013c2       0xa5 build/obj/chdebug.o
+                                0x93c (size before relaxing)
+ .debug_str     0x00001467       0x42 build/obj/chvt.o
+                                0x82d (size before relaxing)
+ .debug_str     0x000014a9      0x162 build/obj/chschd.o
+                                0xa84 (size before relaxing)
+ .debug_str     0x0000160b      0x251 build/obj/chthreads.o
+                                0xbc5 (size before relaxing)
+ .debug_str     0x0000185c       0x62 build/obj/chtm.o
+                                0x912 (size before relaxing)
+ .debug_str     0x000018be       0x3a build/obj/chstats.o
+                                0x8ce (size before relaxing)
+ .debug_str     0x000018f8       0x4a build/obj/chregistry.o
+                                0x8c0 (size before relaxing)
+ .debug_str     0x00001942       0xb2 build/obj/chmtx.o
+                                0x9a5 (size before relaxing)
+ .debug_str     0x000019f4       0xf1 build/obj/chcond.o
+                                0xa31 (size before relaxing)
+ .debug_str     0x00001ae5      0x1f9 build/obj/chevents.o
+                                0xac5 (size before relaxing)
+ .debug_str     0x00001cde      0x17b build/obj/chqueues.o
+                                0xa50 (size before relaxing)
+ .debug_str     0x00001e59       0x7c build/obj/chmemcore.o
                                 0x906 (size before relaxing)
- .debug_str     0x000044aa       0x39 build/obj/port.o
-                                0x8ec (size before relaxing)
- .debug_str     0x000044e3       0x64 build/obj/i2c_bus.o
-                               0x142b (size before relaxing)
- .debug_str     0x00004547      0x185 build/obj/main.o
-                               0x1be0 (size before relaxing)
- .debug_str     0x000046cc       0x97 build/obj/mpu9250.o
-                               0x13e6 (size before relaxing)
- .debug_str     0x00004763      0x147 build/obj/imu.o
-                               0x1c46 (size before relaxing)
+ .debug_str     0x00001ed5       0xbe build/obj/chheap.o
+                                0x8d0 (size before relaxing)
+ .debug_str     0x00001f93       0xca build/obj/chcore_v7m.o
+                                0x957 (size before relaxing)
+ .debug_str     0x0000205d      0xa4b build/obj/hal.o
+                               0x1373 (size before relaxing)
+ .debug_str     0x00002aa8      0x15b build/obj/gpt.o
+                               0x1510 (size before relaxing)
+ .debug_str     0x00002c03      0x14a build/obj/i2c.o
+                               0x1536 (size before relaxing)
+ .debug_str     0x00002d4d       0xf2 build/obj/serial.o
+                               0x158c (size before relaxing)
+ .debug_str     0x00002e3f      0x203 build/obj/serial_usb.o
+                               0x179b (size before relaxing)
+ .debug_str     0x00003042       0xc3 build/obj/st.o
+                               0x13ce (size before relaxing)
+ .debug_str     0x00003105      0x653 build/obj/usb.o
+                               0x1ba4 (size before relaxing)
+ .debug_str     0x00003758       0x85 build/obj/nvic.o
+                               0x1448 (size before relaxing)
+ .debug_str     0x000037dd      0x233 build/obj/stm32_dma.o
+                               0x1af4 (size before relaxing)
+ .debug_str     0x00003a10       0x94 build/obj/hal_lld.o
+                               0x1496 (size before relaxing)
+ .debug_str     0x00003aa4       0xd5 build/obj/pal_lld.o
+                               0x14d0 (size before relaxing)
+ .debug_str     0x00003b79      0x17b build/obj/i2c_lld.o
+                               0x1da1 (size before relaxing)
+ .debug_str     0x00003cf4      0x23b build/obj/usb_lld.o
+                               0x1e9f (size before relaxing)
+ .debug_str     0x00003f2f       0x5a build/obj/gpt_lld.o
+                               0x1552 (size before relaxing)
+ .debug_str     0x00003f89       0x74 build/obj/st_lld.o
+                               0x14ff (size before relaxing)
+ .debug_str     0x00003ffd       0x71 build/obj/serial_lld.o
+                               0x16a9 (size before relaxing)
+ .debug_str     0x0000406e       0x17 build/obj/board.o
+                               0x132b (size before relaxing)
+ .debug_str     0x00004085      0x146 build/obj/chprintf.o
+                               0x1455 (size before relaxing)
+ .debug_str     0x000041cb      0x2dc build/obj/messagebus.o
+                                0x903 (size before relaxing)
+ .debug_str     0x000044a7       0x39 build/obj/port.o
+                                0x8e9 (size before relaxing)
+ .debug_str     0x000044e0       0x64 build/obj/i2c_bus.o
+                               0x1428 (size before relaxing)
+ .debug_str     0x00004544      0x185 build/obj/main.o
+                               0x1bdd (size before relaxing)
+ .debug_str     0x000046c9       0x97 build/obj/mpu9250.o
+                               0x13e3 (size before relaxing)
+ .debug_str     0x00004760      0x147 build/obj/imu.o
+                               0x1c43 (size before relaxing)
 
 .debug_frame    0x00000000     0x2db0
  .debug_frame   0x00000000       0x40 build/obj/crt1.o
@@ -3075,13 +3075,13 @@ OUTPUT(build/Chibi.elf elf32-littlearm)
  .debug_frame   0x00002888       0xb4 build/obj/main.o
  .debug_frame   0x0000293c       0xe4 build/obj/mpu9250.o
  .debug_frame   0x00002a20      0x178 build/obj/imu.o
- .debug_frame   0x00002b98       0xac c:/users/41774/documents/epfl/ba6/robotique/eclipse_e-puck2/tools/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_addsubdf3.o)
- .debug_frame   0x00002c44       0x50 c:/users/41774/documents/epfl/ba6/robotique/eclipse_e-puck2/tools/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_muldivdf3.o)
- .debug_frame   0x00002c94       0x24 c:/users/41774/documents/epfl/ba6/robotique/eclipse_e-puck2/tools/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_fixdfsi.o)
- .debug_frame   0x00002cb8       0x24 c:/users/41774/documents/epfl/ba6/robotique/eclipse_e-puck2/tools/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_truncdfsf2.o)
- .debug_frame   0x00002cdc       0x38 c:/users/41774/documents/epfl/ba6/robotique/eclipse_e-puck2/tools/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libg.a(lib_a-memset.o)
- .debug_frame   0x00002d14       0x68 c:/users/41774/documents/epfl/ba6/robotique/eclipse_e-puck2/tools/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libg.a(lib_a-strcmp.o)
- .debug_frame   0x00002d7c       0x34 c:/users/41774/documents/epfl/ba6/robotique/eclipse_e-puck2/tools/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libg.a(lib_a-strncpy.o)
+ .debug_frame   0x00002b98       0xac c:/eclipse_e-puck2/tools/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_addsubdf3.o)
+ .debug_frame   0x00002c44       0x50 c:/eclipse_e-puck2/tools/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_muldivdf3.o)
+ .debug_frame   0x00002c94       0x24 c:/eclipse_e-puck2/tools/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_fixdfsi.o)
+ .debug_frame   0x00002cb8       0x24 c:/eclipse_e-puck2/tools/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_truncdfsf2.o)
+ .debug_frame   0x00002cdc       0x38 c:/eclipse_e-puck2/tools/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libg.a(lib_a-memset.o)
+ .debug_frame   0x00002d14       0x68 c:/eclipse_e-puck2/tools/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libg.a(lib_a-strcmp.o)
+ .debug_frame   0x00002d7c       0x34 c:/eclipse_e-puck2/tools/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libg.a(lib_a-strncpy.o)
 
 .debug_loc      0x00000000     0xa8c5
  .debug_loc     0x00000000      0x32f build/obj/chsys.o
@@ -3266,41 +3266,41 @@ VectorF4                                          build/obj/vectors.o
 VectorF8                                          build/obj/vectors.o
 VectorFC                                          build/obj/stm32_dma.o
                                                   build/obj/vectors.o
-__adddf3                                          c:/users/41774/documents/epfl/ba6/robotique/eclipse_e-puck2/tools/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_addsubdf3.o)
-__aeabi_d2f                                       c:/users/41774/documents/epfl/ba6/robotique/eclipse_e-puck2/tools/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_truncdfsf2.o)
+__adddf3                                          c:/eclipse_e-puck2/tools/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_addsubdf3.o)
+__aeabi_d2f                                       c:/eclipse_e-puck2/tools/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_truncdfsf2.o)
                                                   build/obj/chprintf.o
-__aeabi_d2iz                                      c:/users/41774/documents/epfl/ba6/robotique/eclipse_e-puck2/tools/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_fixdfsi.o)
+__aeabi_d2iz                                      c:/eclipse_e-puck2/tools/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_fixdfsi.o)
                                                   build/obj/chprintf.o
-__aeabi_dadd                                      c:/users/41774/documents/epfl/ba6/robotique/eclipse_e-puck2/tools/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_addsubdf3.o)
-__aeabi_ddiv                                      c:/users/41774/documents/epfl/ba6/robotique/eclipse_e-puck2/tools/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_muldivdf3.o)
-__aeabi_dmul                                      c:/users/41774/documents/epfl/ba6/robotique/eclipse_e-puck2/tools/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_muldivdf3.o)
+__aeabi_dadd                                      c:/eclipse_e-puck2/tools/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_addsubdf3.o)
+__aeabi_ddiv                                      c:/eclipse_e-puck2/tools/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_muldivdf3.o)
+__aeabi_dmul                                      c:/eclipse_e-puck2/tools/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_muldivdf3.o)
                                                   build/obj/chprintf.o
-__aeabi_drsub                                     c:/users/41774/documents/epfl/ba6/robotique/eclipse_e-puck2/tools/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_addsubdf3.o)
-__aeabi_dsub                                      c:/users/41774/documents/epfl/ba6/robotique/eclipse_e-puck2/tools/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_addsubdf3.o)
+__aeabi_drsub                                     c:/eclipse_e-puck2/tools/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_addsubdf3.o)
+__aeabi_dsub                                      c:/eclipse_e-puck2/tools/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_addsubdf3.o)
                                                   build/obj/chprintf.o
-__aeabi_f2d                                       c:/users/41774/documents/epfl/ba6/robotique/eclipse_e-puck2/tools/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_addsubdf3.o)
+__aeabi_f2d                                       c:/eclipse_e-puck2/tools/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_addsubdf3.o)
                                                   build/obj/main.o
                                                   build/obj/chprintf.o
-__aeabi_i2d                                       c:/users/41774/documents/epfl/ba6/robotique/eclipse_e-puck2/tools/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_addsubdf3.o)
+__aeabi_i2d                                       c:/eclipse_e-puck2/tools/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_addsubdf3.o)
                                                   build/obj/chprintf.o
-__aeabi_l2d                                       c:/users/41774/documents/epfl/ba6/robotique/eclipse_e-puck2/tools/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_addsubdf3.o)
-__aeabi_ui2d                                      c:/users/41774/documents/epfl/ba6/robotique/eclipse_e-puck2/tools/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_addsubdf3.o)
+__aeabi_l2d                                       c:/eclipse_e-puck2/tools/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_addsubdf3.o)
+__aeabi_ui2d                                      c:/eclipse_e-puck2/tools/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_addsubdf3.o)
                                                   build/obj/chprintf.o
-__aeabi_ul2d                                      c:/users/41774/documents/epfl/ba6/robotique/eclipse_e-puck2/tools/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_addsubdf3.o)
+__aeabi_ul2d                                      c:/eclipse_e-puck2/tools/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_addsubdf3.o)
 __default_exit                                    build/obj/crt1.o
                                                   build/obj/crt0_v7m.o
-__divdf3                                          c:/users/41774/documents/epfl/ba6/robotique/eclipse_e-puck2/tools/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_muldivdf3.o)
+__divdf3                                          c:/eclipse_e-puck2/tools/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_muldivdf3.o)
 __early_init                                      build/obj/board.o
                                                   build/obj/crt1.o
                                                   build/obj/crt0_v7m.o
-__extendsfdf2                                     c:/users/41774/documents/epfl/ba6/robotique/eclipse_e-puck2/tools/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_addsubdf3.o)
+__extendsfdf2                                     c:/eclipse_e-puck2/tools/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_addsubdf3.o)
 __fini_array_end                                  build/obj/crt0_v7m.o
 __fini_array_start                                build/obj/crt0_v7m.o
-__fixdfsi                                         c:/users/41774/documents/epfl/ba6/robotique/eclipse_e-puck2/tools/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_fixdfsi.o)
-__floatdidf                                       c:/users/41774/documents/epfl/ba6/robotique/eclipse_e-puck2/tools/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_addsubdf3.o)
-__floatsidf                                       c:/users/41774/documents/epfl/ba6/robotique/eclipse_e-puck2/tools/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_addsubdf3.o)
-__floatundidf                                     c:/users/41774/documents/epfl/ba6/robotique/eclipse_e-puck2/tools/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_addsubdf3.o)
-__floatunsidf                                     c:/users/41774/documents/epfl/ba6/robotique/eclipse_e-puck2/tools/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_addsubdf3.o)
+__fixdfsi                                         c:/eclipse_e-puck2/tools/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_fixdfsi.o)
+__floatdidf                                       c:/eclipse_e-puck2/tools/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_addsubdf3.o)
+__floatsidf                                       c:/eclipse_e-puck2/tools/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_addsubdf3.o)
+__floatundidf                                     c:/eclipse_e-puck2/tools/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_addsubdf3.o)
+__floatunsidf                                     c:/eclipse_e-puck2/tools/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_addsubdf3.o)
 __heap_base__                                     build/obj/chmemcore.o
 __heap_end__                                      build/obj/chmemcore.o
 __init_array_end                                  build/obj/crt0_v7m.o
@@ -3311,11 +3311,11 @@ __main_stack_base__                               build/obj/crt0_v7m.o
 __main_stack_end__                                build/obj/vectors.o
                                                   build/obj/crt0_v7m.o
 __main_thread_stack_base__                        build/obj/chsys.o
-__muldf3                                          c:/users/41774/documents/epfl/ba6/robotique/eclipse_e-puck2/tools/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_muldivdf3.o)
+__muldf3                                          c:/eclipse_e-puck2/tools/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_muldivdf3.o)
 __process_stack_base__                            build/obj/crt0_v7m.o
 __process_stack_end__                             build/obj/crt0_v7m.o
-__subdf3                                          c:/users/41774/documents/epfl/ba6/robotique/eclipse_e-puck2/tools/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_addsubdf3.o)
-__truncdfsf2                                      c:/users/41774/documents/epfl/ba6/robotique/eclipse_e-puck2/tools/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_truncdfsf2.o)
+__subdf3                                          c:/eclipse_e-puck2/tools/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_addsubdf3.o)
+__truncdfsf2                                      c:/eclipse_e-puck2/tools/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_truncdfsf2.o)
 _bss_end                                          build/obj/crt0_v7m.o
 _bss_start                                        build/obj/crt0_v7m.o
 _core_init                                        build/obj/chmemcore.o
@@ -3957,9 +3957,9 @@ imu_start                                         build/obj/imu.o
 imu_stop                                          build/obj/imu.o
 main                                              build/obj/main.o
                                                   build/obj/crt0_v7m.o
-memcpy                                            c:/users/41774/documents/epfl/ba6/robotique/eclipse_e-puck2/tools/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libg.a(lib_a-memcpy.o)
+memcpy                                            c:/eclipse_e-puck2/tools/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libg.a(lib_a-memcpy.o)
                                                   build/obj/messagebus.o
-memset                                            c:/users/41774/documents/epfl/ba6/robotique/eclipse_e-puck2/tools/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libg.a(lib_a-memset.o)
+memset                                            c:/eclipse_e-puck2/tools/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libg.a(lib_a-memset.o)
                                                   build/obj/messagebus.o
 messagebus_advertise_topic                        build/obj/messagebus.o
                                                   build/obj/imu.o
@@ -4059,9 +4059,9 @@ st_lld_init                                       build/obj/st_lld.o
                                                   build/obj/st.o
 stm32_clock_init                                  build/obj/hal_lld.o
                                                   build/obj/board.o
-strcmp                                            c:/users/41774/documents/epfl/ba6/robotique/eclipse_e-puck2/tools/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libg.a(lib_a-strcmp.o)
+strcmp                                            c:/eclipse_e-puck2/tools/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libg.a(lib_a-strcmp.o)
                                                   build/obj/messagebus.o
-strncpy                                           c:/users/41774/documents/epfl/ba6/robotique/eclipse_e-puck2/tools/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libg.a(lib_a-strncpy.o)
+strncpy                                           c:/eclipse_e-puck2/tools/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libg.a(lib_a-strncpy.o)
                                                   build/obj/messagebus.o
 usbDisableEndpointsI                              build/obj/usb.o
 usbInit                                           build/obj/usb.o

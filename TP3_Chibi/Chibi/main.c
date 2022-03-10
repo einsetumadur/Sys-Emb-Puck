@@ -133,9 +133,7 @@ void show_gravity(imu_msg_t *imu_values){
     /*
     *   TASK 11 : TO COMPLETE
     */
-<<<<<<< HEAD
 
-=======
     if (imu_values->gyro_rate[X_AXIS]>2){
     	palSetPad(GPIOD, GPIOD_LED1);}
     else{
@@ -155,7 +153,6 @@ void show_gravity(imu_msg_t *imu_values){
     	palSetPad(GPIOD, GPIOD_LED3);}
     else{
     	palClearPad(GPIOD, GPIOD_LED3);}
->>>>>>> TP3_working
 }
 
 int main(void)
