@@ -16,5 +16,7 @@ CSRC += ./main.c \
 #Header folders to include
 INCDIR += 
 
+#USE_OPT = -O2 -ggdb -fomit-frame-pointer -falign-functions=16 -fno-strict-aliasing -fstack-protector-all -L .
+
 #Jump to the main Makefile
 include $(GLOBAL_PATH)/Makefile

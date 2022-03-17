@@ -1,4 +1,4 @@
-ARM GAS  C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s 			page 1
+ARM GAS  C:\Users\mathi\AppData\Local\Temp\ccUXd1O1.s 			page 1
 
 
    1              		.cpu cortex-m4
@@ -58,7 +58,7 @@ ARM GAS  C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s 			page 1
   55              	messagebus_topic_init:
   56              	.LFB2:
   57              		.loc 1 25 0
-ARM GAS  C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s 			page 2
+ARM GAS  C:\Users\mathi\AppData\Local\Temp\ccUXd1O1.s 			page 2
 
 
   58              		.cfi_startproc
@@ -118,7 +118,7 @@ ARM GAS  C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s 			page 1
  112              		@ args = 0, pretend = 0, frame = 0
  113              		@ frame_needed = 0, uses_anonymous_args = 0
  114              	.LVL6:
-ARM GAS  C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s 			page 3
+ARM GAS  C:\Users\mathi\AppData\Local\Temp\ccUXd1O1.s 			page 3
 
 
  115              		.loc 1 35 0
@@ -178,7 +178,7 @@ ARM GAS  C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s 			page 1
  169              		.cfi_def_cfa_offset 0
  170              	.LVL14:
  171              		.loc 1 47 0
-ARM GAS  C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s 			page 4
+ARM GAS  C:\Users\mathi\AppData\Local\Temp\ccUXd1O1.s 			page 4
 
 
  172 0038 FFF7FEBF 		b	messagebus_lock_release
@@ -238,7 +238,7 @@ ARM GAS  C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s 			page 1
  226 0020 0028     		cmp	r0, #0
  227 0022 F6D1     		bne	.L22
  228              	.L12:
-ARM GAS  C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s 			page 5
+ARM GAS  C:\Users\mathi\AppData\Local\Temp\ccUXd1O1.s 			page 5
 
 
  229              	.LVL22:
@@ -298,7 +298,7 @@ ARM GAS  C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s 			page 1
  283              	.L31:
  284 0012 A46D     		ldr	r4, [r4, #88]
  285              	.LVL29:
-ARM GAS  C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s 			page 6
+ARM GAS  C:\Users\mathi\AppData\Local\Temp\ccUXd1O1.s 			page 6
 
 
  286 0014 5CB1     		cbz	r4, .L27
@@ -358,7 +358,7 @@ ARM GAS  C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s 			page 1
  340 0008 7047     		bx	lr
  341              	.LVL38:
  342              	.L45:
-ARM GAS  C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s 			page 7
+ARM GAS  C:\Users\mathi\AppData\Local\Temp\ccUXd1O1.s 			page 7
 
 
  343              		.loc 1 83 0
@@ -418,7 +418,7 @@ ARM GAS  C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s 			page 1
  397              	.LVL47:
  398 004e 002C     		cmp	r4, #0
  399 0050 EFD1     		bne	.L35
-ARM GAS  C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s 			page 8
+ARM GAS  C:\Users\mathi\AppData\Local\Temp\ccUXd1O1.s 			page 8
 
 
  400              	.L34:
@@ -478,7 +478,7 @@ ARM GAS  C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s 			page 1
  454 0018 2168     		ldr	r1, [r4]
  455 001a FFF7FEFF 		bl	memcpy
  456              	.LVL53:
-ARM GAS  C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s 			page 9
+ARM GAS  C:\Users\mathi\AppData\Local\Temp\ccUXd1O1.s 			page 9
 
 
  457              	.L47:
@@ -538,7 +538,7 @@ ARM GAS  C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s 			page 1
  511              		.loc 1 129 0
  512 001e A068     		ldr	r0, [r4, #8]
  513              		.loc 1 130 0
-ARM GAS  C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s 			page 10
+ARM GAS  C:\Users\mathi\AppData\Local\Temp\ccUXd1O1.s 			page 10
 
 
  514 0020 BDE87040 		pop	{r4, r5, r6, lr}
@@ -598,7 +598,7 @@ ARM GAS  C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s 			page 1
  568              		.cfi_def_cfa_offset 16
  569              		.cfi_offset 4, -16
  570              		.cfi_offset 5, -12
-ARM GAS  C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s 			page 11
+ARM GAS  C:\Users\mathi\AppData\Local\Temp\ccUXd1O1.s 			page 11
 
 
  571              		.cfi_offset 6, -8
@@ -658,7 +658,7 @@ ARM GAS  C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s 			page 1
  625              		.fpu fpv4-sp-d16
  626              		.type	messagebus_watchgroup_wait, %function
  627              	messagebus_watchgroup_wait:
-ARM GAS  C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s 			page 12
+ARM GAS  C:\Users\mathi\AppData\Local\Temp\ccUXd1O1.s 			page 12
 
 
  628              	.LFB11:
@@ -718,7 +718,7 @@ ARM GAS  C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s 			page 1
  682 0010 0C       		.byte	0xc
  683 0011 69020000 		.4byte	.LASF176
  684 0015 65040000 		.4byte	.LASF177
-ARM GAS  C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s 			page 13
+ARM GAS  C:\Users\mathi\AppData\Local\Temp\ccUXd1O1.s 			page 13
 
 
  685 0019 00000000 		.4byte	.Ldebug_ranges0+0
@@ -778,7 +778,7 @@ ARM GAS  C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s 			page 1
  739 0082 03       		.byte	0x3
  740 0083 22       		.byte	0x22
  741 0084 88000000 		.4byte	0x88
-ARM GAS  C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s 			page 14
+ARM GAS  C:\Users\mathi\AppData\Local\Temp\ccUXd1O1.s 			page 14
 
 
  742 0088 05       		.uleb128 0x5
@@ -838,7 +838,7 @@ ARM GAS  C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s 			page 1
  796 00f8 0D       		.uleb128 0xd
  797 00f9 F6060000 		.4byte	.LASF18
  798 00fd 04       		.byte	0x4
-ARM GAS  C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s 			page 15
+ARM GAS  C:\Users\mathi\AppData\Local\Temp\ccUXd1O1.s 			page 15
 
 
  799 00fe AA       		.byte	0xaa
@@ -898,7 +898,7 @@ ARM GAS  C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s 			page 1
  853 016d 03050000 		.4byte	.LASF27
  854 0171 05       		.byte	0x5
  855 0172 EB       		.byte	0xeb
-ARM GAS  C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s 			page 16
+ARM GAS  C:\Users\mathi\AppData\Local\Temp\ccUXd1O1.s 			page 16
 
 
  856 0173 5D000000 		.4byte	0x5d
@@ -958,7 +958,7 @@ ARM GAS  C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s 			page 1
  910 01e2 58       		.byte	0x58
  911 01e3 00       		.byte	0
  912 01e4 0A       		.uleb128 0xa
-ARM GAS  C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s 			page 17
+ARM GAS  C:\Users\mathi\AppData\Local\Temp\ccUXd1O1.s 			page 17
 
 
  913 01e5 23010000 		.4byte	0x123
@@ -1018,7 +1018,7 @@ ARM GAS  C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s 			page 1
  967 024e 2C020000 		.4byte	0x22c
  968 0252 0C       		.uleb128 0xc
  969 0253 0C       		.byte	0xc
-ARM GAS  C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s 			page 18
+ARM GAS  C:\Users\mathi\AppData\Local\Temp\ccUXd1O1.s 			page 18
 
 
  970 0254 06       		.byte	0x6
@@ -1078,7 +1078,7 @@ ARM GAS  C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s 			page 1
  1024 02c0 06       		.byte	0x6
  1025 02c1 23       		.byte	0x23
  1026 02c2 8A020000 		.4byte	0x28a
-ARM GAS  C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s 			page 19
+ARM GAS  C:\Users\mathi\AppData\Local\Temp\ccUXd1O1.s 			page 19
 
 
  1027 02c6 05       		.uleb128 0x5
@@ -1138,7 +1138,7 @@ ARM GAS  C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s 			page 1
  1081 0333 14       		.byte	0x14
  1082 0334 00       		.byte	0
  1083 0335 05       		.uleb128 0x5
-ARM GAS  C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s 			page 20
+ARM GAS  C:\Users\mathi\AppData\Local\Temp\ccUXd1O1.s 			page 20
 
 
  1084 0336 04       		.byte	0x4
@@ -1198,7 +1198,7 @@ ARM GAS  C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s 			page 1
  1138 03a5 3F       		.byte	0x3f
  1139 03a6 5D000000 		.4byte	0x5d
  1140 03aa 18       		.byte	0x18
-ARM GAS  C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s 			page 21
+ARM GAS  C:\Users\mathi\AppData\Local\Temp\ccUXd1O1.s 			page 21
 
 
  1141 03ab 0D       		.uleb128 0xd
@@ -1258,7 +1258,7 @@ ARM GAS  C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s 			page 1
  1195 041b 07       		.byte	0x7
  1196 041c 5D       		.byte	0x5d
  1197 041d 52040000 		.4byte	0x452
-ARM GAS  C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s 			page 22
+ARM GAS  C:\Users\mathi\AppData\Local\Temp\ccUXd1O1.s 			page 22
 
 
  1198 0421 0D       		.uleb128 0xd
@@ -1318,7 +1318,7 @@ ARM GAS  C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s 			page 1
  1252 048d 77       		.byte	0x77
  1253 048e 5D000000 		.4byte	0x5d
  1254 0492 04       		.byte	0x4
-ARM GAS  C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s 			page 23
+ARM GAS  C:\Users\mathi\AppData\Local\Temp\ccUXd1O1.s 			page 23
 
 
  1255 0493 00       		.byte	0
@@ -1378,7 +1378,7 @@ ARM GAS  C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s 			page 1
  1309 04fc 07       		.byte	0x7
  1310 04fd C3       		.byte	0xc3
  1311 04fe 1B010000 		.4byte	0x11b
-ARM GAS  C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s 			page 24
+ARM GAS  C:\Users\mathi\AppData\Local\Temp\ccUXd1O1.s 			page 24
 
 
  1312 0502 1C       		.byte	0x1c
@@ -1438,7 +1438,7 @@ ARM GAS  C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s 			page 1
  1366 056e 43       		.byte	0x43
  1367 056f 12       		.uleb128 0x12
  1368 0570 5F6C6200 		.ascii	"_lb\000"
-ARM GAS  C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s 			page 25
+ARM GAS  C:\Users\mathi\AppData\Local\Temp\ccUXd1O1.s 			page 25
 
 
  1369 0574 07       		.byte	0x7
@@ -1498,7 +1498,7 @@ ARM GAS  C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s 			page 1
  1423 05e3 04       		.byte	0x4
  1424 05e4 ED050000 		.4byte	0x5ed
  1425 05e8 0F       		.uleb128 0xf
-ARM GAS  C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s 			page 26
+ARM GAS  C:\Users\mathi\AppData\Local\Temp\ccUXd1O1.s 			page 26
 
 
  1426 05e9 E2050000 		.4byte	0x5e2
@@ -1558,7 +1558,7 @@ ARM GAS  C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s 			page 1
  1480 0662 34       		.byte	0x34
  1481 0663 19       		.uleb128 0x19
  1482 0664 7A050000 		.4byte	.LASF101
-ARM GAS  C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s 			page 27
+ARM GAS  C:\Users\mathi\AppData\Local\Temp\ccUXd1O1.s 			page 27
 
 
  1483 0668 07       		.byte	0x7
@@ -1618,7 +1618,7 @@ ARM GAS  C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s 			page 1
  1537 06dd 07       		.byte	0x7
  1538 06de 7C02     		.2byte	0x27c
  1539 06e0 52040000 		.4byte	0x452
-ARM GAS  C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s 			page 28
+ARM GAS  C:\Users\mathi\AppData\Local\Temp\ccUXd1O1.s 			page 28
 
 
  1540 06e4 4801     		.2byte	0x148
@@ -1678,7 +1678,7 @@ ARM GAS  C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s 			page 1
  1594 0762 17       		.uleb128 0x17
  1595 0763 9E000000 		.4byte	0x9e
  1596 0767 17       		.uleb128 0x17
-ARM GAS  C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s 			page 29
+ARM GAS  C:\Users\mathi\AppData\Local\Temp\ccUXd1O1.s 			page 29
 
 
  1597 0768 5D000000 		.4byte	0x5d
@@ -1738,7 +1738,7 @@ ARM GAS  C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s 			page 1
  1651 07e1 5D060000 		.4byte	.LASF117
  1652 07e5 07       		.byte	0x7
  1653 07e6 2701     		.2byte	0x127
-ARM GAS  C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s 			page 30
+ARM GAS  C:\Users\mathi\AppData\Local\Temp\ccUXd1O1.s 			page 30
 
 
  1654 07e8 F4070000 		.4byte	0x7f4
@@ -1798,7 +1798,7 @@ ARM GAS  C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s 			page 1
  1708 085a 07       		.byte	0x7
  1709 085b 5C02     		.2byte	0x25c
  1710 085d 1D010000 		.4byte	0x11d
-ARM GAS  C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s 			page 31
+ARM GAS  C:\Users\mathi\AppData\Local\Temp\ccUXd1O1.s 			page 31
 
 
  1711 0861 04       		.byte	0x4
@@ -1858,7 +1858,7 @@ ARM GAS  C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s 			page 1
  1765 08d6 80       		.byte	0x80
  1766 08d7 19       		.uleb128 0x19
  1767 08d8 2F040000 		.4byte	.LASF133
-ARM GAS  C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s 			page 32
+ARM GAS  C:\Users\mathi\AppData\Local\Temp\ccUXd1O1.s 			page 32
 
 
  1768 08dc 07       		.byte	0x7
@@ -1918,7 +1918,7 @@ ARM GAS  C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s 			page 1
  1822 0950 0A       		.uleb128 0xa
  1823 0951 23010000 		.4byte	0x123
  1824 0955 60090000 		.4byte	0x960
-ARM GAS  C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s 			page 33
+ARM GAS  C:\Users\mathi\AppData\Local\Temp\ccUXd1O1.s 			page 33
 
 
  1825 0959 0B       		.uleb128 0xb
@@ -1978,7 +1978,7 @@ ARM GAS  C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s 			page 1
  1879 09ca 93080000 		.4byte	.LASF143
  1880 09ce 07       		.byte	0x7
  1881 09cf 7702     		.2byte	0x277
-ARM GAS  C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s 			page 34
+ARM GAS  C:\Users\mathi\AppData\Local\Temp\ccUXd1O1.s 			page 34
 
 
  1882 09d1 70090000 		.4byte	0x970
@@ -2038,7 +2038,7 @@ ARM GAS  C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s 			page 1
  1936 0a48 AE070000 		.4byte	.LASF154
  1937 0a4c 01       		.byte	0x1
  1938 0a4d 9D       		.byte	0x9d
-ARM GAS  C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s 			page 35
+ARM GAS  C:\Users\mathi\AppData\Local\Temp\ccUXd1O1.s 			page 35
 
 
  1939 0a4e 4C020000 		.4byte	0x24c
@@ -2098,7 +2098,7 @@ ARM GAS  C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s 			page 1
  1993 0ad2 4C020000 		.4byte	0x24c
  1994 0ad6 76000000 		.4byte	.LLST27
  1995 0ada 24       		.uleb128 0x24
-ARM GAS  C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s 			page 36
+ARM GAS  C:\Users\mathi\AppData\Local\Temp\ccUXd1O1.s 			page 36
 
 
  1996 0adb 0E000000 		.4byte	.LVL65
@@ -2158,7 +2158,7 @@ ARM GAS  C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s 			page 1
  2050 0b53 BA0B0000 		.4byte	0xbba
  2051 0b57 22       		.uleb128 0x22
  2052 0b58 A0010000 		.4byte	.LASF149
-ARM GAS  C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s 			page 37
+ARM GAS  C:\Users\mathi\AppData\Local\Temp\ccUXd1O1.s 			page 37
 
 
  2053 0b5c 01       		.byte	0x1
@@ -2218,7 +2218,7 @@ ARM GAS  C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s 			page 1
  2107 0bd4 A0010000 		.4byte	.LASF149
  2108 0bd8 01       		.byte	0x1
  2109 0bd9 6B       		.byte	0x6b
-ARM GAS  C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s 			page 38
+ARM GAS  C:\Users\mathi\AppData\Local\Temp\ccUXd1O1.s 			page 38
 
 
  2110 0bda 4C020000 		.4byte	0x24c
@@ -2278,7 +2278,7 @@ ARM GAS  C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s 			page 1
  2164 0c55 22       		.uleb128 0x22
  2165 0c56 A0010000 		.4byte	.LASF149
  2166 0c5a 01       		.byte	0x1
-ARM GAS  C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s 			page 39
+ARM GAS  C:\Users\mathi\AppData\Local\Temp\ccUXd1O1.s 			page 39
 
 
  2167 0c5b 52       		.byte	0x52
@@ -2338,7 +2338,7 @@ ARM GAS  C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s 			page 1
  2221 0cd4 24       		.uleb128 0x24
  2222 0cd5 58000000 		.4byte	.LVL48
  2223 0cd9 C60F0000 		.4byte	0xfc6
-ARM GAS  C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s 			page 40
+ARM GAS  C:\Users\mathi\AppData\Local\Temp\ccUXd1O1.s 			page 40
 
 
  2224 0cdd 00       		.byte	0
@@ -2398,7 +2398,7 @@ ARM GAS  C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s 			page 1
  2278 0d61 02       		.uleb128 0x2
  2279 0d62 75       		.byte	0x75
  2280 0d63 00       		.sleb128 0
-ARM GAS  C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s 			page 41
+ARM GAS  C:\Users\mathi\AppData\Local\Temp\ccUXd1O1.s 			page 41
 
 
  2281 0d64 2A       		.uleb128 0x2a
@@ -2458,7 +2458,7 @@ ARM GAS  C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s 			page 1
  2335 0ddf 38       		.byte	0x38
  2336 0de0 1E0E0000 		.4byte	0xe1e
  2337 0de4 2E       		.uleb128 0x2e
-ARM GAS  C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s 			page 42
+ARM GAS  C:\Users\mathi\AppData\Local\Temp\ccUXd1O1.s 			page 42
 
 
  2338 0de5 900F0000 		.4byte	0xf90
@@ -2518,7 +2518,7 @@ ARM GAS  C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s 			page 1
  2392 0e5a 01       		.byte	0x1
  2393 0e5b 21       		.byte	0x21
  2394 0e5c 4C020000 		.4byte	0x24c
-ARM GAS  C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s 			page 43
+ARM GAS  C:\Users\mathi\AppData\Local\Temp\ccUXd1O1.s 			page 43
 
 
  2395 0e60 34030000 		.4byte	.LLST5
@@ -2578,7 +2578,7 @@ ARM GAS  C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s 			page 1
  2449 0ec3 C60F0000 		.4byte	0xfc6
  2450 0ec7 00       		.byte	0
  2451 0ec8 25       		.uleb128 0x25
-ARM GAS  C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s 			page 44
+ARM GAS  C:\Users\mathi\AppData\Local\Temp\ccUXd1O1.s 			page 44
 
 
  2452 0ec9 A7000000 		.4byte	.LASF161
@@ -2638,7 +2638,7 @@ ARM GAS  C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s 			page 1
  2506 0f3b 2A       		.uleb128 0x2a
  2507 0f3c 01       		.uleb128 0x1
  2508 0f3d 52       		.byte	0x52
-ARM GAS  C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s 			page 45
+ARM GAS  C:\Users\mathi\AppData\Local\Temp\ccUXd1O1.s 			page 45
 
 
  2509 0f3e 02       		.uleb128 0x2
@@ -2698,7 +2698,7 @@ ARM GAS  C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s 			page 1
  2563 0fa7 7400     		.ascii	"t\000"
  2564 0fa9 01       		.byte	0x1
  2565 0faa 06       		.byte	0x6
-ARM GAS  C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s 			page 46
+ARM GAS  C:\Users\mathi\AppData\Local\Temp\ccUXd1O1.s 			page 46
 
 
  2566 0fab 4C020000 		.4byte	0x24c
@@ -2758,7 +2758,7 @@ ARM GAS  C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s 			page 1
  2620 0007 03       		.uleb128 0x3
  2621 0008 0E       		.uleb128 0xe
  2622 0009 1B       		.uleb128 0x1b
-ARM GAS  C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s 			page 47
+ARM GAS  C:\Users\mathi\AppData\Local\Temp\ccUXd1O1.s 			page 47
 
 
  2623 000a 0E       		.uleb128 0xe
@@ -2818,7 +2818,7 @@ ARM GAS  C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s 			page 1
  2677 0040 13       		.uleb128 0x13
  2678 0041 00       		.byte	0
  2679 0042 03       		.uleb128 0x3
-ARM GAS  C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s 			page 48
+ARM GAS  C:\Users\mathi\AppData\Local\Temp\ccUXd1O1.s 			page 48
 
 
  2680 0043 0E       		.uleb128 0xe
@@ -2878,7 +2878,7 @@ ARM GAS  C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s 			page 1
  2734 0079 21       		.uleb128 0x21
  2735 007a 00       		.byte	0
  2736 007b 49       		.uleb128 0x49
-ARM GAS  C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s 			page 49
+ARM GAS  C:\Users\mathi\AppData\Local\Temp\ccUXd1O1.s 			page 49
 
 
  2737 007c 13       		.uleb128 0x13
@@ -2938,7 +2938,7 @@ ARM GAS  C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s 			page 1
  2791 00b2 3B       		.uleb128 0x3b
  2792 00b3 0B       		.uleb128 0xb
  2793 00b4 49       		.uleb128 0x49
-ARM GAS  C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s 			page 50
+ARM GAS  C:\Users\mathi\AppData\Local\Temp\ccUXd1O1.s 			page 50
 
 
  2794 00b5 13       		.uleb128 0x13
@@ -2998,7 +2998,7 @@ ARM GAS  C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s 			page 1
  2848 00eb 00       		.byte	0
  2849 00ec 03       		.uleb128 0x3
  2850 00ed 0E       		.uleb128 0xe
-ARM GAS  C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s 			page 51
+ARM GAS  C:\Users\mathi\AppData\Local\Temp\ccUXd1O1.s 			page 51
 
 
  2851 00ee 3A       		.uleb128 0x3a
@@ -3058,7 +3058,7 @@ ARM GAS  C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s 			page 1
  2905 0124 0E       		.uleb128 0xe
  2906 0125 3A       		.uleb128 0x3a
  2907 0126 0B       		.uleb128 0xb
-ARM GAS  C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s 			page 52
+ARM GAS  C:\Users\mathi\AppData\Local\Temp\ccUXd1O1.s 			page 52
 
 
  2908 0127 3B       		.uleb128 0x3b
@@ -3118,7 +3118,7 @@ ARM GAS  C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s 			page 1
  2962 015d 0B       		.uleb128 0xb
  2963 015e 0B       		.uleb128 0xb
  2964 015f 3A       		.uleb128 0x3a
-ARM GAS  C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s 			page 53
+ARM GAS  C:\Users\mathi\AppData\Local\Temp\ccUXd1O1.s 			page 53
 
 
  2965 0160 0B       		.uleb128 0xb
@@ -3178,7 +3178,7 @@ ARM GAS  C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s 			page 1
  3019 0196 0B       		.uleb128 0xb
  3020 0197 3B       		.uleb128 0x3b
  3021 0198 0B       		.uleb128 0xb
-ARM GAS  C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s 			page 54
+ARM GAS  C:\Users\mathi\AppData\Local\Temp\ccUXd1O1.s 			page 54
 
 
  3022 0199 27       		.uleb128 0x27
@@ -3238,7 +3238,7 @@ ARM GAS  C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s 			page 1
  3076 01d2 00       		.byte	0
  3077 01d3 25       		.uleb128 0x25
  3078 01d4 2E       		.uleb128 0x2e
-ARM GAS  C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s 			page 55
+ARM GAS  C:\Users\mathi\AppData\Local\Temp\ccUXd1O1.s 			page 55
 
 
  3079 01d5 01       		.byte	0x1
@@ -3298,7 +3298,7 @@ ARM GAS  C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s 			page 1
  3133 020f 3A       		.uleb128 0x3a
  3134 0210 0B       		.uleb128 0xb
  3135 0211 3B       		.uleb128 0x3b
-ARM GAS  C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s 			page 56
+ARM GAS  C:\Users\mathi\AppData\Local\Temp\ccUXd1O1.s 			page 56
 
 
  3136 0212 0B       		.uleb128 0xb
@@ -3358,7 +3358,7 @@ ARM GAS  C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s 			page 1
  3190 024d 17       		.uleb128 0x17
  3191 024e 00       		.byte	0
  3192 024f 00       		.byte	0
-ARM GAS  C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s 			page 57
+ARM GAS  C:\Users\mathi\AppData\Local\Temp\ccUXd1O1.s 			page 57
 
 
  3193 0250 2D       		.uleb128 0x2d
@@ -3418,7 +3418,7 @@ ARM GAS  C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s 			page 1
  3247 0288 11       		.uleb128 0x11
  3248 0289 01       		.uleb128 0x1
  3249 028a 31       		.uleb128 0x31
-ARM GAS  C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s 			page 58
+ARM GAS  C:\Users\mathi\AppData\Local\Temp\ccUXd1O1.s 			page 58
 
 
  3250 028b 13       		.uleb128 0x13
@@ -3478,7 +3478,7 @@ ARM GAS  C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s 			page 1
  3304 02c1 0B       		.uleb128 0xb
  3305 02c2 01       		.uleb128 0x1
  3306 02c3 13       		.uleb128 0x13
-ARM GAS  C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s 			page 59
+ARM GAS  C:\Users\mathi\AppData\Local\Temp\ccUXd1O1.s 			page 59
 
 
  3307 02c4 00       		.byte	0
@@ -3538,7 +3538,7 @@ ARM GAS  C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s 			page 1
  3361 02fa 03       		.uleb128 0x3
  3362 02fb 0E       		.uleb128 0xe
  3363 02fc 3A       		.uleb128 0x3a
-ARM GAS  C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s 			page 60
+ARM GAS  C:\Users\mathi\AppData\Local\Temp\ccUXd1O1.s 			page 60
 
 
  3364 02fd 0B       		.uleb128 0xb
@@ -3598,7 +3598,7 @@ ARM GAS  C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s 			page 1
  3418 006d 9F       		.byte	0x9f
  3419 006e 00000000 		.4byte	0
  3420 0072 00000000 		.4byte	0
-ARM GAS  C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s 			page 61
+ARM GAS  C:\Users\mathi\AppData\Local\Temp\ccUXd1O1.s 			page 61
 
 
  3421              	.LLST27:
@@ -3658,7 +3658,7 @@ ARM GAS  C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s 			page 1
  3475              	.LLST24:
  3476 00fa 00000000 		.4byte	.LVL55
  3477 00fe 0D000000 		.4byte	.LVL57-1
-ARM GAS  C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s 			page 62
+ARM GAS  C:\Users\mathi\AppData\Local\Temp\ccUXd1O1.s 			page 62
 
 
  3478 0102 0100     		.2byte	0x1
@@ -3718,7 +3718,7 @@ ARM GAS  C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s 			page 1
  3532 018c 14000000 		.4byte	.LVL52
  3533 0190 1E000000 		.4byte	.LVL53
  3534 0194 0200     		.2byte	0x2
-ARM GAS  C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s 			page 63
+ARM GAS  C:\Users\mathi\AppData\Local\Temp\ccUXd1O1.s 			page 63
 
 
  3535 0196 31       		.byte	0x31
@@ -3778,7 +3778,7 @@ ARM GAS  C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s 			page 1
  3589 0221 01       		.uleb128 0x1
  3590 0222 52       		.byte	0x52
  3591 0223 9F       		.byte	0x9f
-ARM GAS  C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s 			page 64
+ARM GAS  C:\Users\mathi\AppData\Local\Temp\ccUXd1O1.s 			page 64
 
 
  3592 0224 00000000 		.4byte	0
@@ -3838,7 +3838,7 @@ ARM GAS  C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s 			page 1
  3646 02b5 2E000000 		.4byte	.LFE4
  3647 02b9 0100     		.2byte	0x1
  3648 02bb 56       		.byte	0x56
-ARM GAS  C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s 			page 65
+ARM GAS  C:\Users\mathi\AppData\Local\Temp\ccUXd1O1.s 			page 65
 
 
  3649 02bc 00000000 		.4byte	0
@@ -3898,7 +3898,7 @@ ARM GAS  C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s 			page 1
  3703 034a 38000000 		.4byte	.LVL14
  3704 034e 3C000000 		.4byte	.LFE3
  3705 0352 0400     		.2byte	0x4
-ARM GAS  C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s 			page 66
+ARM GAS  C:\Users\mathi\AppData\Local\Temp\ccUXd1O1.s 			page 66
 
 
  3706 0354 F3       		.byte	0xf3
@@ -3958,7 +3958,7 @@ ARM GAS  C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s 			page 1
  3760 03dd 55       		.byte	0x55
  3761 03de 00000000 		.4byte	0
  3762 03e2 00000000 		.4byte	0
-ARM GAS  C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s 			page 67
+ARM GAS  C:\Users\mathi\AppData\Local\Temp\ccUXd1O1.s 			page 67
 
 
  3763              	.LLST3:
@@ -4018,7 +4018,7 @@ ARM GAS  C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s 			page 1
  3817 0024 36000000 		.4byte	.LFE5
  3818 0028 00000000 		.4byte	.LFB6
  3819 002c 5C000000 		.4byte	.LFE6
-ARM GAS  C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s 			page 68
+ARM GAS  C:\Users\mathi\AppData\Local\Temp\ccUXd1O1.s 			page 68
 
 
  3820 0030 00000000 		.4byte	.LFB7
@@ -4078,7 +4078,7 @@ ARM GAS  C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s 			page 1
  3856 0058 6D657373 		.ascii	"messagebus_t\000"
  3856      61676562 
  3856      75735F74 
-ARM GAS  C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s 			page 69
+ARM GAS  C:\Users\mathi\AppData\Local\Temp\ccUXd1O1.s 			page 69
 
 
  3856      00
@@ -4138,7 +4138,7 @@ ARM GAS  C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s 			page 1
  3880      206C6F6E 
  3880      6720696E 
  3880      7400
-ARM GAS  C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s 			page 70
+ARM GAS  C:\Users\mathi\AppData\Local\Temp\ccUXd1O1.s 			page 70
 
 
  3881              	.LASF0:
@@ -4198,7 +4198,7 @@ ARM GAS  C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s 			page 1
  3912 0191 5F756275 		.ascii	"_ubuf\000"
  3912      6600
  3913              	.LASF86:
-ARM GAS  C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s 			page 71
+ARM GAS  C:\Users\mathi\AppData\Local\Temp\ccUXd1O1.s 			page 71
 
 
  3914 0197 5F626C6B 		.ascii	"_blksize\000"
@@ -4258,7 +4258,7 @@ ARM GAS  C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s 			page 1
  3940 022b 5F666C6F 		.ascii	"_flock_t\000"
  3940      636B5F74 
  3940      00
-ARM GAS  C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s 			page 72
+ARM GAS  C:\Users\mathi\AppData\Local\Temp\ccUXd1O1.s 			page 72
 
 
  3941              	.LASF96:
@@ -4318,7 +4318,7 @@ ARM GAS  C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s 			page 1
  3967      6973696F 
  3967      6E203235 
  3967      35323034 
-ARM GAS  C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s 			page 73
+ARM GAS  C:\Users\mathi\AppData\Local\Temp\ccUXd1O1.s 			page 73
 
 
  3968 0329 61726420 		.ascii	"ard -mfpu=fpv4-sp-d16 -mno-thumb-interwork -mthumb "
@@ -4378,7 +4378,7 @@ ARM GAS  C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s 			page 1
  3987      62756600 
  3988              	.LASF124:
  3989 043b 5F617363 		.ascii	"_asctime_buf\000"
-ARM GAS  C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s 			page 74
+ARM GAS  C:\Users\mathi\AppData\Local\Temp\ccUXd1O1.s 			page 74
 
 
  3989      74696D65 
@@ -4438,7 +4438,7 @@ ARM GAS  C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s 			page 1
  4016 04f3 6D657373 		.ascii	"messagebus_init\000"
  4016      61676562 
  4016      75735F69 
-ARM GAS  C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s 			page 75
+ARM GAS  C:\Users\mathi\AppData\Local\Temp\ccUXd1O1.s 			page 75
 
 
  4016      6E697400 
@@ -4498,7 +4498,7 @@ ARM GAS  C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s 			page 1
  4046      75735F74 
  4046      6F706963 
  4046      5F707562 
-ARM GAS  C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s 			page 76
+ARM GAS  C:\Users\mathi\AppData\Local\Temp\ccUXd1O1.s 			page 76
 
 
  4047              	.LASF106:
@@ -4558,7 +4558,7 @@ ARM GAS  C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s 			page 1
  4070      5F796461 
  4070      7900
  4071              	.LASF72:
-ARM GAS  C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s 			page 77
+ARM GAS  C:\Users\mathi\AppData\Local\Temp\ccUXd1O1.s 			page 77
 
 
  4072 0656 5F5F7362 		.ascii	"__sbuf\000"
@@ -4618,7 +4618,7 @@ ARM GAS  C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s 			page 1
  4102 06e2 68656164 		.ascii	"head\000"
  4102      00
  4103              	.LASF17:
-ARM GAS  C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s 			page 78
+ARM GAS  C:\Users\mathi\AppData\Local\Temp\ccUXd1O1.s 			page 78
 
 
  4104 06e7 5F5F636F 		.ascii	"__count\000"
@@ -4678,7 +4678,7 @@ ARM GAS  C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s 			page 1
  4133              	.LASF34:
  4134 0779 77617463 		.ascii	"watchers\000"
  4134      68657273 
-ARM GAS  C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s 			page 79
+ARM GAS  C:\Users\mathi\AppData\Local\Temp\ccUXd1O1.s 			page 79
 
 
  4134      00
@@ -4738,7 +4738,7 @@ ARM GAS  C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s 			page 1
  4159              	.LASF53:
  4160 0829 5F776473 		.ascii	"_wds\000"
  4160      00
-ARM GAS  C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s 			page 80
+ARM GAS  C:\Users\mathi\AppData\Local\Temp\ccUXd1O1.s 			page 80
 
 
  4161              	.LASF61:
@@ -4798,7 +4798,7 @@ ARM GAS  C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s 			page 1
  4186      736500
  4187              	.LASF128:
  4188 08d4 5F723438 		.ascii	"_r48\000"
-ARM GAS  C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s 			page 81
+ARM GAS  C:\Users\mathi\AppData\Local\Temp\ccUXd1O1.s 			page 81
 
 
  4188      00
@@ -4821,33 +4821,33 @@ ARM GAS  C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s 			page 1
  4198 08fb 73756363 		.ascii	"success\000"
  4198      65737300 
  4199              		.ident	"GCC: (GNU Tools for Arm Embedded Processors 7-2017-q4-major) 7.2.1 20170904 (release) [ARM
-ARM GAS  C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s 			page 82
+ARM GAS  C:\Users\mathi\AppData\Local\Temp\ccUXd1O1.s 			page 82
 
 
 DEFINED SYMBOLS
                             *ABS*:00000000 messagebus.c
-C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s:18     .text.messagebus_init:00000000 $t
-C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s:26     .text.messagebus_init:00000000 messagebus_init
-C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s:47     .text.messagebus_topic_init:00000000 $t
-C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s:55     .text.messagebus_topic_init:00000000 messagebus_topic_init
-C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s:100    .text.messagebus_advertise_topic:00000000 $t
-C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s:108    .text.messagebus_advertise_topic:00000000 messagebus_advertise_topic
-C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s:178    .text.messagebus_find_topic:00000000 $t
-C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s:186    .text.messagebus_find_topic:00000000 messagebus_find_topic
-C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s:243    .text.messagebus_find_topic_blocking:00000000 $t
-C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s:251    .text.messagebus_find_topic_blocking:00000000 messagebus_find_topic_blocking
-C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s:317    .text.messagebus_topic_publish:00000000 $t
-C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s:325    .text.messagebus_topic_publish:00000000 messagebus_topic_publish
-C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s:413    .text.messagebus_topic_read:00000000 $t
-C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s:421    .text.messagebus_topic_read:00000000 messagebus_topic_read
-C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s:469    .text.messagebus_topic_wait:00000000 $t
-C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s:477    .text.messagebus_topic_wait:00000000 messagebus_topic_wait
-C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s:528    .text.messagebus_watchgroup_init:00000000 $t
-C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s:536    .text.messagebus_watchgroup_init:00000000 messagebus_watchgroup_init
-C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s:552    .text.messagebus_watchgroup_watch:00000000 $t
-C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s:560    .text.messagebus_watchgroup_watch:00000000 messagebus_watchgroup_watch
-C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s:619    .text.messagebus_watchgroup_wait:00000000 $t
-C:\Users\mathi\AppData\Local\Temp\cc0ZD4gI.s:627    .text.messagebus_watchgroup_wait:00000000 messagebus_watchgroup_wait
+C:\Users\mathi\AppData\Local\Temp\ccUXd1O1.s:18     .text.messagebus_init:00000000 $t
+C:\Users\mathi\AppData\Local\Temp\ccUXd1O1.s:26     .text.messagebus_init:00000000 messagebus_init
+C:\Users\mathi\AppData\Local\Temp\ccUXd1O1.s:47     .text.messagebus_topic_init:00000000 $t
+C:\Users\mathi\AppData\Local\Temp\ccUXd1O1.s:55     .text.messagebus_topic_init:00000000 messagebus_topic_init
+C:\Users\mathi\AppData\Local\Temp\ccUXd1O1.s:100    .text.messagebus_advertise_topic:00000000 $t
+C:\Users\mathi\AppData\Local\Temp\ccUXd1O1.s:108    .text.messagebus_advertise_topic:00000000 messagebus_advertise_topic
+C:\Users\mathi\AppData\Local\Temp\ccUXd1O1.s:178    .text.messagebus_find_topic:00000000 $t
+C:\Users\mathi\AppData\Local\Temp\ccUXd1O1.s:186    .text.messagebus_find_topic:00000000 messagebus_find_topic
+C:\Users\mathi\AppData\Local\Temp\ccUXd1O1.s:243    .text.messagebus_find_topic_blocking:00000000 $t
+C:\Users\mathi\AppData\Local\Temp\ccUXd1O1.s:251    .text.messagebus_find_topic_blocking:00000000 messagebus_find_topic_blocking
+C:\Users\mathi\AppData\Local\Temp\ccUXd1O1.s:317    .text.messagebus_topic_publish:00000000 $t
+C:\Users\mathi\AppData\Local\Temp\ccUXd1O1.s:325    .text.messagebus_topic_publish:00000000 messagebus_topic_publish
+C:\Users\mathi\AppData\Local\Temp\ccUXd1O1.s:413    .text.messagebus_topic_read:00000000 $t
+C:\Users\mathi\AppData\Local\Temp\ccUXd1O1.s:421    .text.messagebus_topic_read:00000000 messagebus_topic_read
+C:\Users\mathi\AppData\Local\Temp\ccUXd1O1.s:469    .text.messagebus_topic_wait:00000000 $t
+C:\Users\mathi\AppData\Local\Temp\ccUXd1O1.s:477    .text.messagebus_topic_wait:00000000 messagebus_topic_wait
+C:\Users\mathi\AppData\Local\Temp\ccUXd1O1.s:528    .text.messagebus_watchgroup_init:00000000 $t
+C:\Users\mathi\AppData\Local\Temp\ccUXd1O1.s:536    .text.messagebus_watchgroup_init:00000000 messagebus_watchgroup_init
+C:\Users\mathi\AppData\Local\Temp\ccUXd1O1.s:552    .text.messagebus_watchgroup_watch:00000000 $t
+C:\Users\mathi\AppData\Local\Temp\ccUXd1O1.s:560    .text.messagebus_watchgroup_watch:00000000 messagebus_watchgroup_watch
+C:\Users\mathi\AppData\Local\Temp\ccUXd1O1.s:619    .text.messagebus_watchgroup_wait:00000000 $t
+C:\Users\mathi\AppData\Local\Temp\ccUXd1O1.s:627    .text.messagebus_watchgroup_wait:00000000 messagebus_watchgroup_wait
 
 UNDEFINED SYMBOLS
 memset
