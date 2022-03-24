@@ -9,11 +9,12 @@
 #include <process_image.h>
 
 static float distance_cm = 0;
+static float pos_ang = 0;
 
 typedef struct {
 	uint8_t av;
 	uint8_t threshold;
-	uint16_t pos;
+	int16_t pos;
 	uint16_t length;
 } Line_info;
 
@@ -57,8 +58,8 @@ static Line_info detect_line(uint8_t image[IMAGE_BUFFER_SIZE]) {
 		}
 	}
 
-	const Line_info result = { .av = av, .threshold = threshold, .pos = final_x0
-			+ max_length / 2, .length = max_length };
+	const Line_info result = { .av = av, .threshold = threshold, .pos = (final_x0
+			+ max_length / 2)-320, .length = max_length };
 	return result;
 }
 
@@ -95,6 +96,8 @@ static THD_FUNCTION(CaptureImage, arg) {
 		chBSemSignal(&image_ready_sem);
 	}
 }
+
+static BSEMAPHORE_DECL(dist_ready_sem, TRUE);
 
 static THD_WORKING_AREA(waProcessImage, 1024);
 static THD_FUNCTION(ProcessImage, arg) {
@@ -135,11 +138,13 @@ static THD_FUNCTION(ProcessImage, arg) {
 		//current_loop = (current_loop + 1) % 4;
 
 		const Line_info line_info = detect_line(image);
-		// TODO: ????
-		chprintf((BaseSequentialStream *) &SD3,
-				"pos: %i  length: %i  average: %i  threshold: %i  distance: %f\r\n",
-				line_info.pos, line_info.length, line_info.av,
-				line_info.threshold, get_distance(line_info.length));
+
+		distance_cm = get_distance(line_info.length);
+		pos_ang = (line_info.pos / 150.) - 0.3;
+
+		//chprintf((BaseSequentialStream *) &SD3,"pos: %i ang: %.2f distance: %.2f\r\n",line_info.pos,pos_ang, distance_cm);
+
+		chBSemSignal(&dist_ready_sem);
 	}
 }
 
@@ -147,6 +152,9 @@ float get_distance_cm(void) {
 	return distance_cm;
 }
 
+float get_ang_norm(void) {
+	return pos_ang;
+}
 void process_image_start(void) {
 	chThdCreateStatic(waProcessImage, sizeof(waProcessImage), NORMALPRIO,
 			ProcessImage, NULL);
