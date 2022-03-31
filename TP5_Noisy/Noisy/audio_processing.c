@@ -104,10 +104,31 @@ void processAudioData(int16_t *data, uint16_t num_samples) {
 		++num_FFTs;
 	}
 
+// #define SEND_DATA_TO_PC
+
+#ifdef SEND_DATA_TO_PC
 	if (num_FFTs == 10) {
 		chBSemSignal(&sendToComputer_sem);
+
+		const uint16_t peak_pos = get_peak_pos(buffer_front_output, FFT_SIZE);
+		const float peak_frequency = get_frequency(peak_pos);
+		chprintf((BaseSequentialStream *) &SDU1, "peak at %f Hz\r\n",
+				peak_frequency);
+
+		command_motors(peak_frequency);
+
 		num_FFTs = 0;
 	}
+#else
+	if (num_FFTs > 0) {
+		const uint16_t peak_pos = get_peak_pos(buffer_front_output, FFT_SIZE);
+		const float peak_frequency = get_frequency(peak_pos);
+
+		command_motors(peak_frequency);
+
+		num_FFTs = 0;
+	}
+#endif
 }
 
 void wait_send_to_computer(void) {
@@ -135,3 +156,41 @@ float* get_audio_buffer_ptr(BUFFER_NAME_t name) {
 		return NULL;
 	}
 }
+
+uint16_t get_peak_pos(const float *buffer, uint16_t size) {
+	float max_value = 0.0f;
+	uint16_t index = size / 2;
+	for (uint16_t i = size / 2; i < size; ++i) {
+		if (buffer[i] > max_value) {
+			max_value = buffer[i];
+			index = i;
+		}
+	}
+	return index;
+}
+
+float get_frequency(uint16_t peak_pos) {
+	// 2 measurements to determine the slope and offset
+	const float x0 = 513.0f;
+	const float y0 = 7800.0f;
+	const float x1 = 1004.0f;
+	const float y1 = 300.0f;
+
+	// y = slope * (x - x0) + y0
+	const float slope = (y1 - y0) / (x1 - x0);
+	return slope * (peak_pos - x0) + y0;
+}
+
+void command_motors(float frequency) {
+	if (frequency > 1000.0f) {
+		uint16_t speed = (uint16_t) (frequency / 4.0f);
+		if (speed > 2200)
+			speed = 2200;
+		right_motor_set_speed(speed);
+		left_motor_set_speed(speed);
+	} else {
+		right_motor_set_speed(0);
+		left_motor_set_speed(0);
+	}
+}
+

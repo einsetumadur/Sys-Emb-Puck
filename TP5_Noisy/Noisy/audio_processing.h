@@ -30,4 +30,10 @@ void wait_send_to_computer(void);
 */
 float* get_audio_buffer_ptr(BUFFER_NAME_t name);
 
+uint16_t get_peak_pos(const float*buffer, uint16_t size);
+
+float get_frequency(uint16_t peak_pos);
+
+void command_motors(float frequency);
+
 #endif /* AUDIO_PROCESSING_H */
