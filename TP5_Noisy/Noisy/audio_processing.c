@@ -59,20 +59,23 @@ void processAudioData(int16_t *data, uint16_t num_samples) {
 
 	static uint16_t index = 0;
 
-	for (uint16_t i = 0; i < num_samples && index < FFT_SIZE * 2; ++i) {
-		buffer_left_cmplx_input[index] = data[i * 4 + 0];
-		buffer_left_cmplx_input[index + 1] = 0;
-
-		buffer_right_cmplx_input[index] = data[i * 4 + 1];
+	for (uint16_t i = 0; i < num_samples; i += 4) {
+		buffer_right_cmplx_input[index] = data[i];
 		buffer_right_cmplx_input[index + 1] = 0;
 
-		buffer_front_cmplx_input[index] = data[i * 4 + 2];
-		buffer_front_cmplx_input[index + 1] = 0;
+		buffer_left_cmplx_input[index] = data[i + 1];
+		buffer_left_cmplx_input[index + 1] = 0;
 
-		buffer_back_cmplx_input[index] = data[i * 4 + 3];
+		buffer_back_cmplx_input[index] = data[i + 2];
 		buffer_back_cmplx_input[index + 1] = 0;
 
+		buffer_front_cmplx_input[index] = data[i + 3];
+		buffer_front_cmplx_input[index + 1] = 0;
+
 		index += 2;
+		if (index == FFT_SIZE * 2) {
+			break;
+		}
 	}
 
 	static uint8_t num_FFTs = 0;
@@ -88,7 +91,7 @@ void processAudioData(int16_t *data, uint16_t num_samples) {
 		arm_cmplx_mag_f32(buffer_right_cmplx_input, buffer_right_output,
 		FFT_SIZE);
 
-		//doFFT_optimized(FFT_SIZE, buffer_front_cmplx_input);
+		doFFT_optimized(FFT_SIZE, buffer_front_cmplx_input);
 		arm_cmplx_mag_f32(buffer_front_cmplx_input, buffer_front_output,
 		FFT_SIZE);
 
