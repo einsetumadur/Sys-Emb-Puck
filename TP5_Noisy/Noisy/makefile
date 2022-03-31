@@ -17,5 +17,8 @@ CSRC += ./main.c \
 #Header folders to include
 INCDIR += 
 
+# Use this for debugging
+#USE_OPT += -O0 -g
+
 #Jump to the main Makefile
 include $(GLOBAL_PATH)/Makefile
